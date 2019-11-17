@@ -1,9 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rycolab.github.io/authors/admin/</loc>
+    <loc>https://rycolab.github.io/authors/clara/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/authors/edo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/authors/group/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/authors/kat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/authors/ran/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/authors/ryan/</loc>
   </url>
   
   <url>
