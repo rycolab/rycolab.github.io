@@ -5,12 +5,20 @@
     <link>https://rycolab.github.io/publication/</link>
       <atom:link href="https://rycolab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/img/rycolab_logo.png</url>
       <title>Publications</title>
       <link>https://rycolab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
+      <link>https://rycolab.github.io/publication/2019_acl_typological_kbs/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://rycolab.github.io/publication/2019_acl_typological_kbs/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

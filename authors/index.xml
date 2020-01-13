@@ -5,12 +5,44 @@
     <link>https://rycolab.github.io/authors/</link>
       <atom:link href="https://rycolab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/img/rycolab_logo.png</url>
       <title>Authors</title>
       <link>https://rycolab.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Isabelle Augenstein</title>
+      <link>https://rycolab.github.io/authors/isabelle-augenstein/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://rycolab.github.io/authors/isabelle-augenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Bjerva</title>
+      <link>https://rycolab.github.io/authors/johannes-bjerva/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://rycolab.github.io/authors/johannes-bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan Cotterell</title>
+      <link>https://rycolab.github.io/authors/ryan-cotterell/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://rycolab.github.io/authors/ryan-cotterell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yova Kementchedjhieva</title>
+      <link>https://rycolab.github.io/authors/yova-kementchedjhieva/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <guid>https://rycolab.github.io/authors/yova-kementchedjhieva/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

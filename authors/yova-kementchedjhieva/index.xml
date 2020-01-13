@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://rycolab.github.io/</link>
-      <atom:link href="https://rycolab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Yova Kementchedjhieva | Academic</title>
+    <link>https://rycolab.github.io/authors/yova-kementchedjhieva/</link>
+      <atom:link href="https://rycolab.github.io/authors/yova-kementchedjhieva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yova Kementchedjhieva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/img/rycolab_logo.png</url>
-      <title>Academic</title>
-      <link>https://rycolab.github.io/</link>
+      <title>Yova Kementchedjhieva</title>
+      <link>https://rycolab.github.io/authors/yova-kementchedjhieva/</link>
     </image>
     
     <item>
