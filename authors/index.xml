@@ -7,7 +7,7 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2019 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/img/logo.png</url>
+      <url>https://rycolab.github.io/img/logo_light.png</url>
       <title>Authors</title>
       <link>https://rycolab.github.io/authors/</link>
     </image>
@@ -112,7 +112,8 @@
       <link>https://rycolab.github.io/authors/jen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/authors/jen/</guid>
-      <description></description>
+      <description>&lt;p&gt;Jennifer is an MPhil student at the  &lt;a href=&#34;https://www.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Cambridge&lt;/a&gt;, supervised by Ryan and supported by a &lt;a href=&#34;https://www.cambridgetrust.org/scholarships/deepmind-cambridge-scholarship/&#34; target=&#34;_blank&#34;&gt;Cambridge DeepMind Scholarship&lt;/a&gt;. She is interested in techniques for low-resource NLP, gender bias in NLP and annotation of linguistic data, among other things. Her background is in Algebraic Geometry, so she is always happy to get a chance to put her mathematical skills to good use. In her spare time she enjoys learning languages, reading, eating chicken katsu curry and travelling as much as possible.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -153,7 +154,8 @@
       <link>https://rycolab.github.io/authors/lucas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/authors/lucas/</guid>
-      <description></description>
+      <description>&lt;p&gt;Lucas is an MPhil student at the &lt;a href=&#34;https://www.cam.ac.uk/&#34; target=&#34;_blank&#34;&gt;University of Cambridge&lt;/a&gt;, supervised by Ryan. He is primarily interested in the development of interpretability methods and their application to NLP models.&lt;/p&gt;
+</description>
     </item>
     
     <item>
