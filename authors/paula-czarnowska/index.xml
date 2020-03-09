@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paula Czarnowska | Rycolab</title>
+    <link>https://rycolab.github.io/authors/paula-czarnowska/</link>
+      <atom:link href="https://rycolab.github.io/authors/paula-czarnowska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paula Czarnowska</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>Paula Czarnowska</title>
+      <link>https://rycolab.github.io/authors/paula-czarnowska/</link>
+    </image>
+    
+    <item>
+      <title>Don’t Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction</title>
+      <link>https://rycolab.github.io/publication/czarnowskaal-emnlp-ijcnlp-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/czarnowskaal-emnlp-ijcnlp-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garrett Nicolai | Rycolab</title>
+    <link>https://rycolab.github.io/authors/garrett-nicolai/</link>
+      <atom:link href="https://rycolab.github.io/authors/garrett-nicolai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Garrett Nicolai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>Garrett Nicolai</title>
+      <link>https://rycolab.github.io/authors/garrett-nicolai/</link>
+    </image>
+    
+    <item>
+      <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-tacl-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

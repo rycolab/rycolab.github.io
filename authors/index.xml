@@ -5,7 +5,7 @@
     <link>https://rycolab.github.io/authors/</link>
       <atom:link href="https://rycolab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/img/logo_l.png</url>
       <title>Authors</title>
@@ -13,34 +13,682 @@
     </image>
     
     <item>
-      <title>Isabelle Augenstein</title>
-      <link>https://rycolab.github.io/authors/isabelle-augenstein/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
-      <guid>https://rycolab.github.io/authors/isabelle-augenstein/</guid>
+      <title>Adina Williams</title>
+      <link>https://rycolab.github.io/authors/adina-williams/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/adina-williams/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Johannes Bjerva</title>
-      <link>https://rycolab.github.io/authors/johannes-bjerva/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
-      <guid>https://rycolab.github.io/authors/johannes-bjerva/</guid>
+      <title>Ann Copestake</title>
+      <link>https://rycolab.github.io/authors/ann-copestake/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/ann-copestake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Korhonen</title>
+      <link>https://rycolab.github.io/authors/anna-korhonen/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/anna-korhonen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damian Blasi</title>
+      <link>https://rycolab.github.io/authors/damian-blasi/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/damian-blasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edoardo Maria Ponti</title>
+      <link>https://rycolab.github.io/authors/edoardo-maria-ponti/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/edoardo-maria-ponti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edouard Grave</title>
+      <link>https://rycolab.github.io/authors/edouard-grave/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/edouard-grave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanna Wallach</title>
+      <link>https://rycolab.github.io/authors/hanna-wallach/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/hanna-wallach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hila Gonen</title>
+      <link>https://rycolab.github.io/authors/hila-gonen/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/hila-gonen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Vulić</title>
+      <link>https://rycolab.github.io/authors/ivan-vulic/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/ivan-vulic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jieyu Zhao</title>
+      <link>https://rycolab.github.io/authors/jieyu-zhao/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/jieyu-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai-Wei Chang</title>
+      <link>https://rycolab.github.io/authors/kai-wei-chang/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/kai-wei-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kuan-Hao Huang</title>
+      <link>https://rycolab.github.io/authors/kuan-hao-huang/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/kuan-hao-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lawrence Wolf-Sonkin</title>
+      <link>https://rycolab.github.io/authors/lawrence-wolf-sonkin/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/lawrence-wolf-sonkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhao Chen</title>
+      <link>https://rycolab.github.io/authors/muhao-chen/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/muhao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paula Czarnowska</title>
+      <link>https://rycolab.github.io/authors/paula-czarnowska/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/paula-czarnowska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pei Zhou</title>
+      <link>https://rycolab.github.io/authors/pei-zhou/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/pei-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roi Reichart</title>
+      <link>https://rycolab.github.io/authors/roi-reichart/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/roi-reichart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rowan Hall Maudslay</title>
+      <link>https://rycolab.github.io/authors/rowan-hall-maudslay/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/rowan-hall-maudslay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ryan Cotterell</title>
       <link>https://rycolab.github.io/authors/ryan-cotterell/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/authors/ryan-cotterell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Ruder</title>
+      <link>https://rycolab.github.io/authors/sebastian-ruder/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/sebastian-ruder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simone Teufel</title>
+      <link>https://rycolab.github.io/authors/simone-teufel/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/simone-teufel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weijia Shi</title>
+      <link>https://rycolab.github.io/authors/weijia-shi/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/weijia-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arya D. McCarthy</title>
+      <link>https://rycolab.github.io/authors/arya-d.-mccarthy/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/arya-d.-mccarthy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaitanya Malaviya</title>
+      <link>https://rycolab.github.io/authors/chaitanya-malaviya/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/chaitanya-malaviya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christo Kirov</title>
+      <link>https://rycolab.github.io/authors/christo-kirov/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/christo-kirov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ekaterina Vylomova</title>
+      <link>https://rycolab.github.io/authors/ekaterina-vylomova/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/ekaterina-vylomova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garrett Nicolai</title>
+      <link>https://rycolab.github.io/authors/garrett-nicolai/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/garrett-nicolai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Heinz</title>
+      <link>https://rycolab.github.io/authors/jeffrey-heinz/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/jeffrey-heinz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mans Hulden</title>
+      <link>https://rycolab.github.io/authors/mans-hulden/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/mans-hulden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miikka Silfverberg</title>
+      <link>https://rycolab.github.io/authors/miikka-silfverberg/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/miikka-silfverberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabrina Mielke</title>
+      <link>https://rycolab.github.io/authors/sabrina-mielke/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/sabrina-mielke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shijie Wu</title>
+      <link>https://rycolab.github.io/authors/shijie-wu/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/shijie-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander M. Hoyle</title>
+      <link>https://rycolab.github.io/authors/alexander-m.-hoyle/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/alexander-m.-hoyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arya McCarthy</title>
+      <link>https://rycolab.github.io/authors/arya-mccarthy/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/arya-mccarthy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balthasar Bickel</title>
+      <link>https://rycolab.github.io/authors/balthasar-bickel/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/balthasar-bickel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Roark</title>
+      <link>https://rycolab.github.io/authors/brian-roark/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/brian-roark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isabelle Augenstein</title>
+      <link>https://rycolab.github.io/authors/isabelle-augenstein/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/isabelle-augenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Eisner</title>
+      <link>https://rycolab.github.io/authors/jason-eisner/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/jason-eisner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Bjerva</title>
+      <link>https://rycolab.github.io/authors/johannes-bjerva/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/johannes-bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Gorman</title>
+      <link>https://rycolab.github.io/authors/kyle-gorman/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/kyle-gorman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Baroni</title>
+      <link>https://rycolab.github.io/authors/marco-baroni/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/marco-baroni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ran Zmigrod</title>
+      <link>https://rycolab.github.io/authors/ran-zmigrod/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/ran-zmigrod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabine Stoll</title>
+      <link>https://rycolab.github.io/authors/sabine-stoll/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/sabine-stoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Mielke</title>
+      <link>https://rycolab.github.io/authors/sebastian-mielke/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/sebastian-mielke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiago Pimentel</title>
+      <link>https://rycolab.github.io/authors/tiago-pimentel/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/tiago-pimentel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timothy J. O&#39;Donnell</title>
+      <link>https://rycolab.github.io/authors/timothy-j.-odonnell/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/timothy-j.-odonnell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yova Kementchedjhieva</title>
       <link>https://rycolab.github.io/authors/yova-kementchedjhieva/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/authors/yova-kementchedjhieva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Hoyle</title>
+      <link>https://rycolab.github.io/authors/alexander-hoyle/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/alexander-hoyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongyuan Mei</title>
+      <link>https://rycolab.github.io/authors/hongyuan-mei/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/hongyuan-mei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Yatskar</title>
+      <link>https://rycolab.github.io/authors/mark-yatskar/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/mark-yatskar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shijia Liu</title>
+      <link>https://rycolab.github.io/authors/shijia-liu/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/shijia-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianlu Wang</title>
+      <link>https://rycolab.github.io/authors/tianlu-wang/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/tianlu-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timothy Baldwin</title>
+      <link>https://rycolab.github.io/authors/timothy-baldwin/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/timothy-baldwin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trevor Cohn</title>
+      <link>https://rycolab.github.io/authors/trevor-cohn/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/trevor-cohn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vicente Ordonez</title>
+      <link>https://rycolab.github.io/authors/vicente-ordonez/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/vicente-ordonez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anders Søgaard</title>
+      <link>https://rycolab.github.io/authors/anders-s%C3%B8gaard/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/anders-s%C3%B8gaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Yarowsky</title>
+      <link>https://rycolab.github.io/authors/david-yarowsky/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/david-yarowsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Géraldine Walther</title>
+      <link>https://rycolab.github.io/authors/geraldine-walther/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/geraldine-walther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Sylak-Glassman</title>
+      <link>https://rycolab.github.io/authors/john-sylak-glassman/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/john-sylak-glassman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katharina Kann</title>
+      <link>https://rycolab.github.io/authors/katharina-kann/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/katharina-kann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pamela Shapiro</title>
+      <link>https://rycolab.github.io/authors/pamela-shapiro/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/pamela-shapiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Naradowsky$^*$</title>
+      <link>https://rycolab.github.io/authors/jason-naradowsky/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/jason-naradowsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabrina J. Mielke</title>
+      <link>https://rycolab.github.io/authors/sabrina-j.-mielke/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/sabrina-j.-mielke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian J. Mielke</title>
+      <link>https://rycolab.github.io/authors/sebastian-j.-mielke/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/sebastian-j.-mielke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manaal Faruqui</title>
+      <link>https://rycolab.github.io/authors/manaal-faruqui/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/manaal-faruqui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Xia</title>
+      <link>https://rycolab.github.io/authors/patrick-xia/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/patrick-xia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Kübler</title>
+      <link>https://rycolab.github.io/authors/sandra-kubler/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/sandra-kubler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hinrich Schütze</title>
+      <link>https://rycolab.github.io/authors/hinrich-schutze/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/hinrich-schutze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Duh.</title>
+      <link>https://rycolab.github.io/authors/kevin-duh./</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/kevin-duh./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georg Heigold</title>
+      <link>https://rycolab.github.io/authors/georg-heigold/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/georg-heigold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huda Khayrallah</title>
+      <link>https://rycolab.github.io/authors/huda-khayrallah/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/huda-khayrallah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Poliak</title>
+      <link>https://rycolab.github.io/authors/adam-poliak/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/adam-poliak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Van Durme</title>
+      <link>https://rycolab.github.io/authors/benjamin-van-durme/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/benjamin-van-durme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francis Ferraro</title>
+      <link>https://rycolab.github.io/authors/francis-ferraro/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/francis-ferraro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoni Oliver</title>
+      <link>https://rycolab.github.io/authors/antoni-oliver/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/antoni-oliver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arun Kumar</title>
+      <link>https://rycolab.github.io/authors/arun-kumar/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/arun-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Van Durme</title>
+      <link>https://rycolab.github.io/authors/ben-van-durme/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/ben-van-durme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lluís Padró</title>
+      <link>https://rycolab.github.io/authors/lluis-padro/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/lluis-padro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Post</title>
+      <link>https://rycolab.github.io/authors/matt-post/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/matt-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Knowles</title>
+      <link>https://rycolab.github.io/authors/rebecca-knowles/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/rebecca-knowles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Vieira</title>
+      <link>https://rycolab.github.io/authors/tim-vieira/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/tim-vieira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushpendre Rastogi</title>
+      <link>https://rycolab.github.io/authors/pushpendre-rastogi/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/pushpendre-rastogi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Fraser</title>
+      <link>https://rycolab.github.io/authors/alexander-fraser/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/alexander-fraser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanyun Peng</title>
+      <link>https://rycolab.github.io/authors/nanyun-peng/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/nanyun-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Müller</title>
+      <link>https://rycolab.github.io/authors/thomas-muller/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/thomas-muller/</guid>
       <description></description>
     </item>
     

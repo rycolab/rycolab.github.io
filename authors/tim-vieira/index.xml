@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Vieira | Rycolab</title>
+    <link>https://rycolab.github.io/authors/tim-vieira/</link>
+      <atom:link href="https://rycolab.github.io/authors/tim-vieira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Vieira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>Tim Vieira</title>
+      <link>https://rycolab.github.io/authors/tim-vieira/</link>
+    </image>
+    
+    <item>
+      <title>Speed-Accuracy Tradeoffs in Tagging with Variable-Order CRFs and Structured Sparsity</title>
+      <link>https://rycolab.github.io/publication/vieiraal-emnlp-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vieiraal-emnlp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Joint Model of Orthography and Morphological Segmentation</title>
+      <link>https://rycolab.github.io/publication/cotterellal-naacl-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-naacl-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

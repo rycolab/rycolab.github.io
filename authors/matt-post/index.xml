@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Post | Rycolab</title>
+    <link>https://rycolab.github.io/authors/matt-post/</link>
+      <atom:link href="https://rycolab.github.io/authors/matt-post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matt Post</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>Matt Post</title>
+      <link>https://rycolab.github.io/authors/matt-post/</link>
+    </image>
+    
+    <item>
+      <title>A Rich Morphological Tagger for English: Exploring the Cross-Linguistic Tradeoff Between Morphology and Syntax</title>
+      <link>https://rycolab.github.io/publication/kiroval-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kiroval-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

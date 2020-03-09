@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Rycolab</title>
+    <link>https://rycolab.github.io/publication_types/2/</link>
+      <atom:link href="https://rycolab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>2</title>
+      <link>https://rycolab.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>On the Complexity and Typology of Inflectional Morphological Systems</title>
+      <link>https://rycolab.github.io/publication/cotterellal-tacl-19/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate</title>
+      <link>https://rycolab.github.io/publication/kirovcotterell-tacl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kirovcotterell-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Semantic Synthesis and Morphological Analysis of the Derived Word</title>
+      <link>https://rycolab.github.io/publication/cotterellschuetze-tacl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellschuetze-tacl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Word Forms Using Latent Underlying Morphs and Phonology</title>
+      <link>https://rycolab.github.io/publication/cotterellal-tacl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-tacl-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ekaterina Vylomova | Rycolab</title>
+    <link>https://rycolab.github.io/authors/ekaterina-vylomova/</link>
+      <atom:link href="https://rycolab.github.io/authors/ekaterina-vylomova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ekaterina Vylomova</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>Ekaterina Vylomova</title>
+      <link>https://rycolab.github.io/authors/ekaterina-vylomova/</link>
+    </image>
+    
+    <item>
+      <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-tacl-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualization of Morphological Inflection</title>
+      <link>https://rycolab.github.io/publication/vylomovaal-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vylomovaal-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniMorph 2.0: Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/kiroval-lrec-18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kiroval-lrec-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradigm Completion for Derivational Morphology</title>
+      <link>https://rycolab.github.io/publication/cotterellal-emnlp-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoNLL--SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Prediction of Derivational Word-forms</title>
+      <link>https://rycolab.github.io/publication/vylomovaal-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vylomovaal-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
