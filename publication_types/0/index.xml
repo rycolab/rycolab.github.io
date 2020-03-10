@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Rycolab</title>
+    <link>https://rycolab.github.io/publication_types/0/</link>
+      <atom:link href="https://rycolab.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>0</title>
+      <link>https://rycolab.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Explaining and Generalizing Back-Translation through Wake-Sleep</title>
+      <link>https://rycolab.github.io/publication/cotterellkreutzer-arxiv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellkreutzer-arxiv-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Diachronic Stability of Irregularity in Inflectional Morphology</title>
+      <link>https://rycolab.github.io/publication/cotterellal-arxiv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-arxiv-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
