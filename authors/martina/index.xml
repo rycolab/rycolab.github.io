@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rycolab</title>
-    <link>https://rycolab.github.io/authors/ema/</link>
-      <atom:link href="https://rycolab.github.io/authors/ema/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.github.io/authors/martina/</link>
+      <atom:link href="https://rycolab.github.io/authors/martina/index.xml" rel="self" type="application/rss+xml" />
     <description>Rycolab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://rycolab.github.io/img/logo_light.png</url>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
       <title>Rycolab</title>
-      <link>https://rycolab.github.io/authors/ema/</link>
+      <link>https://rycolab.github.io/authors/martina/</link>
     </image>
     
   </channel>
