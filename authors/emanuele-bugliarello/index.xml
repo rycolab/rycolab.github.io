@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emanuele Bugliarello | Rycolab</title>
+    <link>https://rycolab.github.io/authors/emanuele-bugliarello/</link>
+      <atom:link href="https://rycolab.github.io/authors/emanuele-bugliarello/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emanuele Bugliarello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/img/logo_l.png</url>
+      <title>Emanuele Bugliarello</title>
+      <link>https://rycolab.github.io/authors/emanuele-bugliarello/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the Difficulty of Neural Translation</title>
+      <link>https://rycolab.github.io/publication/bugliarelloal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bugliarelloal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

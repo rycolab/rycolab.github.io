@@ -5,12 +5,84 @@
     <link>https://rycolab.github.io/publication/</link>
       <atom:link href="https://rycolab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/img/logo_l.png</url>
       <title>Publications</title>
       <link>https://rycolab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Corpus for Large-Scale Phonetic Typology</title>
+      <link>https://rycolab.github.io/publication/saleskyal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/saleskyal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tale of a Probe and a Parser</title>
+      <link>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Entropy Regularization or: There&#39;s Nothing Special about Label Smoothing</title>
+      <link>https://rycolab.github.io/publication/meisteral-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/meisteral-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Theoretic Probing for Linguistic Structure</title>
+      <link>https://rycolab.github.io/publication/pimentelal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Difficulty of Neural Translation</title>
+      <link>https://rycolab.github.io/publication/bugliarelloal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bugliarelloal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Declension Class from Form and Meaning</title>
+      <link>https://rycolab.github.io/publication/williamsal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Acquisition of Inflectional Morphology</title>
+      <link>https://rycolab.github.io/publication/erdmannal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/erdmannal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjective Selection and the Grammatical Gender of Inanimate Nouns: An Information-Theoretic Investigation of Neo-Whorfian Claim</title>
+      <link>https://rycolab.github.io/publication/williamsal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonotactic Complexity and its Trade-offs</title>
+      <link>https://rycolab.github.io/publication/pimentelal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-tacl-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Don’t Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction</title>
