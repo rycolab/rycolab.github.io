@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="We address Paradigm Discovery, the problem of learning an inflectional system from raw corpus data alone. Using currently available resources, we present a framework for performing and evaluating this challenging task across a variety of languages. We propose a baseline system which uses embeddings and sequence alignment to cluster word forms by paradigm membership and by morphosyntactic properties. Then it uses a transformer to predict forms to fill any empty paradigm cells. Performance is better on clustering by paradigms than by morphosyntactic properties, while cell filling is most difficult. Our analysis suggests multiple inflection classes is the most pressing challenge for future work.">
+  <meta name="description" content="This work treats the paradigm discovery problem (PDP)—the task of learning an inflectional morphological system from unannotated sentences. We formalize the PDP and develop evaluation metrics for judging systems. Using currently available resources, we construct datasets for the task. We also devise a heuristic benchmark for the PDP and report empirical results on five diverse languages. Our benchmark system first makes use of word embeddings and string similarity to cluster forms by cell and by paradigm. Then, we bootstrap a neural transducer on top of the clustered data to predict words to realize the empty paradigm slots. An error analysis of our system suggests clustering by cell across different inflection classes is the most pressing challenge for future work. Our code and data are available at https://github.com/alexerdmann/ParadigmDiscovery.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://rycolab.github.io/publication/erdmannal-acl-20/">
@@ -115,12 +115,12 @@
   
   <meta property="og:site_name" content="Rycolab">
   <meta property="og:url" content="https://rycolab.github.io/publication/erdmannal-acl-20/">
-  <meta property="og:title" content="Unsupervised Acquisition of Inflectional Morphology | Rycolab">
-  <meta property="og:description" content="We address Paradigm Discovery, the problem of learning an inflectional system from raw corpus data alone. Using currently available resources, we present a framework for performing and evaluating this challenging task across a variety of languages. We propose a baseline system which uses embeddings and sequence alignment to cluster word forms by paradigm membership and by morphosyntactic properties. Then it uses a transformer to predict forms to fill any empty paradigm cells. Performance is better on clustering by paradigms than by morphosyntactic properties, while cell filling is most difficult. Our analysis suggests multiple inflection classes is the most pressing challenge for future work."><meta property="og:image" content="https://rycolab.github.io/img/logo_l.png">
+  <meta property="og:title" content="The Paradigm Completion Problem | Rycolab">
+  <meta property="og:description" content="This work treats the paradigm discovery problem (PDP)—the task of learning an inflectional morphological system from unannotated sentences. We formalize the PDP and develop evaluation metrics for judging systems. Using currently available resources, we construct datasets for the task. We also devise a heuristic benchmark for the PDP and report empirical results on five diverse languages. Our benchmark system first makes use of word embeddings and string similarity to cluster forms by cell and by paradigm. Then, we bootstrap a neural transducer on top of the clustered data to predict words to realize the empty paradigm slots. An error analysis of our system suggests clustering by cell across different inflection classes is the most pressing challenge for future work. Our code and data are available at https://github.com/alexerdmann/ParadigmDiscovery."><meta property="og:image" content="https://rycolab.github.io/img/logo_l.png">
   <meta property="twitter:image" content="https://rycolab.github.io/img/logo_l.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-04-20T09:36:11&#43;00:00">
+      <meta property="article:published_time" content="2020-05-03T13:16:45&#43;00:00">
     
     <meta property="article:modified_time" content="2020-07-01T00:00:00&#43;00:00">
   
@@ -148,9 +148,9 @@
     "@type": "WebPage",
     "@id": "https://rycolab.github.io/publication/erdmannal-acl-20/"
   },
-  "headline": "Unsupervised Acquisition of Inflectional Morphology",
+  "headline": "The Paradigm Completion Problem",
   
-  "datePublished": "2020-04-20T09:36:11Z",
+  "datePublished": "2020-05-03T13:16:45Z",
   "dateModified": "2020-07-01T00:00:00Z",
   
   "author": {
@@ -166,7 +166,7 @@
       "url": "https://rycolab.github.io/img/logo_l.png"
     }
   },
-  "description": "We address Paradigm Discovery, the problem of learning an inflectional system from raw corpus data alone. Using currently available resources, we present a framework for performing and evaluating this challenging task across a variety of languages. We propose a baseline system which uses embeddings and sequence alignment to cluster word forms by paradigm membership and by morphosyntactic properties. Then it uses a transformer to predict forms to fill any empty paradigm cells. Performance is better on clustering by paradigms than by morphosyntactic properties, while cell filling is most difficult. Our analysis suggests multiple inflection classes is the most pressing challenge for future work."
+  "description": "This work treats the paradigm discovery problem (PDP)—the task of learning an inflectional morphological system from unannotated sentences. We formalize the PDP and develop evaluation metrics for judging systems. Using currently available resources, we construct datasets for the task. We also devise a heuristic benchmark for the PDP and report empirical results on five diverse languages. Our benchmark system first makes use of word embeddings and string similarity to cluster forms by cell and by paradigm. Then, we bootstrap a neural transducer on top of the clustered data to predict words to realize the empty paradigm slots. An error analysis of our system suggests clustering by cell across different inflection classes is the most pressing challenge for future work. Our code and data are available at https://github.com/alexerdmann/ParadigmDiscovery."
 }
 </script>
 
@@ -184,7 +184,7 @@
 
 
 
-  <title>Unsupervised Acquisition of Inflectional Morphology | Rycolab</title>
+  <title>The Paradigm Completion Problem | Rycolab</title>
   
 <script type="application/javascript">
 var doNotTrack = false;
@@ -417,7 +417,7 @@ if (!doNotTrack) {
   
   
 <div class="article-container pt-3">
-  <h1>Unsupervised Acquisition of Inflectional Morphology</h1>
+  <h1>The Paradigm Completion Problem</h1>
 
   
 
@@ -480,7 +480,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;text=Unsupervised%20Acquisition%20of%20Inflectional%20Morphology" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;text=The%20Paradigm%20Completion%20Problem" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -493,7 +493,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;t=Unsupervised%20Acquisition%20of%20Inflectional%20Morphology" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;t=The%20Paradigm%20Completion%20Problem" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -506,7 +506,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="mailto:?subject=Unsupervised%20Acquisition%20of%20Inflectional%20Morphology&amp;body=https://rycolab.github.io/publication/erdmannal-acl-20/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=The%20Paradigm%20Completion%20Problem&amp;body=https://rycolab.github.io/publication/erdmannal-acl-20/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -519,7 +519,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;title=Unsupervised%20Acquisition%20of%20Inflectional%20Morphology" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;title=The%20Paradigm%20Completion%20Problem" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -532,7 +532,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Unsupervised%20Acquisition%20of%20Inflectional%20Morphology%20https://rycolab.github.io/publication/erdmannal-acl-20/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=The%20Paradigm%20Completion%20Problem%20https://rycolab.github.io/publication/erdmannal-acl-20/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -545,7 +545,7 @@ if (!doNotTrack) {
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;title=Unsupervised%20Acquisition%20of%20Inflectional%20Morphology" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://rycolab.github.io/publication/erdmannal-acl-20/&amp;title=The%20Paradigm%20Completion%20Problem" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -628,7 +628,7 @@ if (!doNotTrack) {
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We address Paradigm Discovery, the problem of learning an inflectional system from raw corpus data alone. Using currently available resources, we present a framework for performing and evaluating this challenging task across a variety of languages. We propose a baseline system which uses embeddings and sequence alignment to cluster word forms by paradigm membership and by morphosyntactic properties. Then it uses a transformer to predict forms to fill any empty paradigm cells. Performance is better on clustering by paradigms than by morphosyntactic properties, while cell filling is most difficult. Our analysis suggests multiple inflection classes is the most pressing challenge for future work.</p>
+    <p class="pub-abstract">This work treats the paradigm discovery problem (PDP)—the task of learning an inflectional morphological system from unannotated sentences. We formalize the PDP and develop evaluation metrics for judging systems. Using currently available resources, we construct datasets for the task. We also devise a heuristic benchmark for the PDP and report empirical results on five diverse languages. Our benchmark system first makes use of word embeddings and string similarity to cluster forms by cell and by paradigm. Then, we bootstrap a neural transducer on top of the clustered data to predict words to realize the empty paradigm slots. An error analysis of our system suggests clustering by cell across different inflection classes is the most pressing challenge for future work. Our code and data are available at <a href="https://github.com/alexerdmann/ParadigmDiscovery" target="_blank">https://github.com/alexerdmann/ParadigmDiscovery</a>.</p>
     
 
     
