@@ -904,6 +904,15 @@
     
     <item>
       <title></title>
+      <link>https://rycolab.github.io/authors/karolina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/karolina/</guid>
+      <description>&lt;p&gt;Karolina is a first-year Ph.D. student at the University of Copenhagen, advised by Isabelle Augenstein and co-supervised by Ryan. Her primary research interests are bias and fairness in NLP and statistical methods. In her spare time she enjoys knitting warm socks and sweaters, and learning languages, both very useful for her Ph.D.-related move to Denmark.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://rycolab.github.io/authors/kat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/authors/kat/</guid>
@@ -1060,10 +1069,27 @@
     
     <item>
       <title></title>
+      <link>https://rycolab.github.io/authors/tianyu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/tianyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://rycolab.github.io/authors/tim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/authors/tim/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rycolab.github.io/authors/yuchen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/authors/yuchen/</guid>
+      <description>&lt;p&gt;Yuchen (Eleanor) is a first-year Ph.D. student in Computer Science at ETH Zürich, where she is supervised by Ryan and Mrinmaya. Her research is focused on coreference resolution and linguistic theories of coherence and coreference. She also likes commonsense, neural machine translation, and hiking. It is her greatest dream to travel all 195 countries in the world.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
