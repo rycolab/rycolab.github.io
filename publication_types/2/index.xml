@@ -5,12 +5,20 @@
     <link>https://rycolab.github.io/publication_types/2/</link>
       <atom:link href="https://rycolab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/img/logo_l.png</url>
       <title>2</title>
       <link>https://rycolab.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Best-First Beam Search</title>
+      <link>https://rycolab.github.io/publication/meisteral-tacl-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/meisteral-tacl-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs</title>
