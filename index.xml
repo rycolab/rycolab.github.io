@@ -588,5 +588,90 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://rycolab.github.io/classes/intro-nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/classes/intro-nlp/</guid>
+      <description>
+
+&lt;p&gt;This course presents an introduction to general topics and techniques used in natural language processing today, primarily focusing on statistical approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.&lt;/p&gt;
+
+&lt;p&gt;The objective of the course is to learn the basic concepts in the statistical processing of natural languages. The course will be project-oriented so that the students can also gain hands-on experience with state-of-the-art tools and techniques.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Mon 12-14h HG  D 1.2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discussion Sections:&lt;/strong&gt; Tues 13-14h HG  D 1.2&lt;/p&gt;
+
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;31.08&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; Class website is online!&lt;br /&gt;
+&lt;strong&gt;31.08&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; We are using Piazza as our discussion forum. Please enroll &lt;a href=&#34;https://piazza.com/class/kei3py4i26c4jw&#34;&gt;here&lt;/a&gt;.
+&lt;strong&gt;14.09&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; First lecture.&lt;/p&gt;
+
+&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Introduction to NLP&lt;/li&gt;
+&lt;li&gt;Lectures 2 + 3: Technical Components of NLP
+
+&lt;ul&gt;
+&lt;li&gt;Backpropagation and log-linear modeling&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lectures 4 - 10: NLP tasks and methods for modeling them
+
+&lt;ul&gt;
+&lt;li&gt;E.g., Sentiment analysis with multi-layer perceptrons, machine translation with Transformers&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 11: Axes of Modeling&lt;/li&gt;
+&lt;li&gt;Lecture 12: Bias and Fairness in NLP&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;table class=&#34;table&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;col&#34;&gt;Week&lt;/th&gt;
+      &lt;th scope=&#34;col&#34;&gt;Date&lt;/th&gt;
+      &lt;th scope=&#34;col&#34;&gt;Topic&lt;/th&gt;
+      &lt;th scope=&#34;col&#34;&gt;Slides&lt;/th&gt;
+      &lt;th scope=&#34;col&#34;&gt;Material&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;1&lt;/th&gt;
+      &lt;td&gt;14.09.2020&lt;/td&gt;
+      &lt;td&gt;Introduction to NLP&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;You can ask questions on &lt;a href=&#34;https://piazza.com/class/kei3py4i26c4jw&#34;&gt;piazza&lt;/a&gt;. Please post questions there, so others can see them and share in the discussion.&lt;/p&gt;
+
+&lt;p&gt;If you have questions which are not of general interest, please don&amp;rsquo;t hesitate to contact us directly.&lt;/p&gt;
+
+&lt;table class=&#34;table&#34;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lecturer&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;mailto:ryan.cotterell@inf.ethz.ch&#34;&gt;Ryan Cotterell&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Teaching Assistants&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;mailto:meistecl@inf.ethz.ch&#34;&gt;Clara Meister&lt;/a&gt;, &lt;a href=&#34;mailto:niklas.stoehr@inf.ethz.ch&#34;&gt;Niklas Stoehr&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

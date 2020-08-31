@@ -1019,6 +1019,10 @@
   </url>
   
   <url>
+    <loc>https://rycolab.github.io/classes/intro-nlp/</loc>
+  </url>
+  
+  <url>
     <loc>https://rycolab.github.io/post/</loc>
   </url>
   
@@ -1028,6 +1032,10 @@
   
   <url>
     <loc>https://rycolab.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/classes/</loc>
   </url>
   
 </urlset>
