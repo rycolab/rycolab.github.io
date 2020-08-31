@@ -463,6 +463,8 @@ if (!doNotTrack) {
     <div class="article-style">
       
 
+<h2 id="course-description">Course Description</h2>
+
 <p>This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.e processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.</p>
 
 <p>The objective of the course is to learn the basic concepts in the statistical processing of natural languages. The course will be project-oriented so that the students can also gain hands-on experience with state-of-the-art tools and techniques.</p>
@@ -476,10 +478,34 @@ if (!doNotTrack) {
 <h2 id="news">News</h2>
 
 <p><strong>31.08</strong> &nbsp;&nbsp;&nbsp; Class website is online!<br />
-<strong>31.08</strong> &nbsp;&nbsp;&nbsp; We are using Piazza as our discussion forum. Please enroll <a href="piazza.com/ethz.ch/fall2020/252300500l">here</a>.
+<strong>31.08</strong> &nbsp;&nbsp;&nbsp; We are using piazza as our discussion forum. Please enroll <a href="piazza.com/ethz.ch/fall2020/252300500l">here</a>.
 <strong>14.09</strong> &nbsp;&nbsp;&nbsp; First lecture.</p>
 
-<h2 id="schedule-tentative">Schedule (tentative)</h2>
+<h2 id="syllabus">Syllabus</h2>
+
+<p><strong>Disclaimer:</strong> This is the first year the class is being taught in this format. It will progress, and may change, as the semester carries on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="roller-coaster.png" >
+<img src="roller-coaster.png" alt="" ></a>
+
+
+
+</figure>
 
 <table class="table">
   <thead>
@@ -488,48 +514,115 @@ if (!doNotTrack) {
       <th scope="col">Date</th>
       <th scope="col">Topic</th>
       <th scope="col">Slides</th>
-      <th scope="col">Material</th>
+      <th scope="col">Readings</th>
+      <th scope="col">Supplementary Material</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
       <td>14.09.2020</td>
-      <td>Introduction to NLP</td>
+      <td>Introduction to Natural Language</td>
       <td></td>
+      <td>Textbook Ch.1</td>
       <td></td>
     </tr>
     <tr>
-      <th scope="row">2-3</th>
+      <th scope="row">2</th>
       <td>21.09.2020</td>
-      <td>Technical Components of NLP</td>
+      <td>Backpropagation</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf">Justin Domke’s Notes</a></br>
+        <a href="https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/">Tim Vieira’s Blog</a></br>
+        <a href="https://ee227c.github.io/notes/ee227c-lecture16.pdf">Moritz Hardt’s Notes</a></br>
+        <a href="https://core.ac.uk/download/pdf/82480031.pdf">Baur and Strassen (1983)</a></br>
+        <a href="https://www.amazon.co.uk/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&keywords=griewank&qid=1598888684&s=books&sr=1-1">Griewank and Walter (2008)</a></br>
+        <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf">Eisner (2013)</a></br></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>28.09.2020 </td>
+      <td>Log-Linear Modeling&mdash;Meet the Softmax</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th scope="row">4-10</th>
-      <td>28.09 - 30.11.2020 </td>
-      <td>NLP tasks and methods for modeling them</td>
+      <th scope="row">4</th>
+      <td>5.10.2020 </td>
+      <td>Sentiment Analysis with Multi-layer Perceptrons</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>12.10.2020 </td>
+      <td>Language Modeling with n-grams and LSTMs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>19.10.2020 </td>
+      <td>Part-of-Speech Tagging with CRFs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>26.10.2020 </td>
+      <td>Context-Free Parsing with CKY</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>2.11.2020 </td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>9.11.2020 </td>
+      <td>Transliteration with WFSTs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>16.11.2020 </td>
+      <td>Machine Translation with Transformers</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">11</th>
-      <td>7.12.2020</td>
+      <td>23.11.2020</td>
       <td>Axes of Modeling</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">12</th>
-      <td>14.12.2020</td>
+      <td>30.11.2020</td>
       <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
-    </tr>
-    
-  </tbody>
-</table>
+      <td></td>
+    </tr></p>
+
+<p></tbody>
+</table></p>
 
 <h2 id="contact">Contact</h2>
 
