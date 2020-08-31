@@ -19,39 +19,23 @@
       <guid>https://rycolab.github.io/classes/intro-nlp/</guid>
       <description>
 
-&lt;p&gt;This course presents an introduction to general topics and techniques used in natural language processing today, primarily focusing on statistical approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.&lt;/p&gt;
+&lt;p&gt;This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.e processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.&lt;/p&gt;
 
 &lt;p&gt;The objective of the course is to learn the basic concepts in the statistical processing of natural languages. The course will be project-oriented so that the students can also gain hands-on experience with state-of-the-art tools and techniques.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Mon 12-14h HG  D 1.2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Mon 12-14h &lt;a href=&#34;https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=HG&#34;&gt;HG D 1.2&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Discussion Sections:&lt;/strong&gt; Tues 13-14h HG  D 1.2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discussion Sections:&lt;/strong&gt; Tues 13-14h &lt;a href=&#34;https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=HG&#34;&gt;HG D 1.2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Textbook:&lt;/strong&gt; &lt;a href=&#34;https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=30OMHV1C018JY&amp;amp;dchild=1&amp;amp;keywords=introduction+to+natural+language+processing&amp;amp;qid=1598878964&amp;amp;sprefix=introduction+to+na%2Caps%2C148&amp;amp;sr=8-1&#34;&gt;Introduction to Natural Language Processing (Eisenstein)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;31.08&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; Class website is online!&lt;br /&gt;
-&lt;strong&gt;31.08&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; We are using Piazza as our discussion forum. Please enroll &lt;a href=&#34;https://piazza.com/class/kei3py4i26c4jw&#34;&gt;here&lt;/a&gt;.
+&lt;strong&gt;31.08&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; We are using Piazza as our discussion forum. Please enroll &lt;a href=&#34;piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;here&lt;/a&gt;.
 &lt;strong&gt;14.09&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; First lecture.&lt;/p&gt;
 
-&lt;h2 id=&#34;course-overview&#34;&gt;Course Overview&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lecture 1: Introduction to NLP&lt;/li&gt;
-&lt;li&gt;Lectures 2 + 3: Technical Components of NLP
-
-&lt;ul&gt;
-&lt;li&gt;Backpropagation and log-linear modeling&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lectures 4 - 10: NLP tasks and methods for modeling them
-
-&lt;ul&gt;
-&lt;li&gt;E.g., Sentiment analysis with multi-layer perceptrons, machine translation with Transformers&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Lecture 11: Axes of Modeling&lt;/li&gt;
-&lt;li&gt;Lecture 12: Bias and Fairness in NLP&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+&lt;h2 id=&#34;schedule-tentative&#34;&gt;Schedule (tentative)&lt;/h2&gt;
 
 &lt;table class=&#34;table&#34;&gt;
   &lt;thead&gt;
@@ -71,13 +55,41 @@
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;2-3&lt;/th&gt;
+      &lt;td&gt;21.09.2020&lt;/td&gt;
+      &lt;td&gt;Technical Components of NLP&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;4-10&lt;/th&gt;
+      &lt;td&gt;28.09 - 30.11.2020 &lt;/td&gt;
+      &lt;td&gt;NLP tasks and methods for modeling them&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;11&lt;/th&gt;
+      &lt;td&gt;7.12.2020&lt;/td&gt;
+      &lt;td&gt;Axes of Modeling&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;12&lt;/th&gt;
+      &lt;td&gt;14.12.2020&lt;/td&gt;
+      &lt;td&gt;Bias and Fairness in NLP&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
     
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 
-&lt;p&gt;You can ask questions on &lt;a href=&#34;https://piazza.com/class/kei3py4i26c4jw&#34;&gt;piazza&lt;/a&gt;. Please post questions there, so others can see them and share in the discussion.&lt;/p&gt;
+&lt;p&gt;You can ask questions on &lt;a href=&#34;piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;piazza&lt;/a&gt;. Please post questions there, so others can see them and share in the discussion.&lt;/p&gt;
 
 &lt;p&gt;If you have questions which are not of general interest, please don&amp;rsquo;t hesitate to contact us directly.&lt;/p&gt;
 
