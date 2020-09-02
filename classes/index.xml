@@ -29,13 +29,14 @@
 
 &lt;p&gt;&lt;strong&gt;Discussion Sections:&lt;/strong&gt; Tues 13-14h &lt;a href=&#34;https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=HG&#34;&gt;HG D 1.2&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Textbook:&lt;/strong&gt; &lt;a href=&#34;https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=30OMHV1C018JY&amp;amp;dchild=1&amp;amp;keywords=introduction+to+natural+language+processing&amp;amp;qid=1598878964&amp;amp;sprefix=introduction+to+na%2Caps%2C148&amp;amp;sr=8-1&#34;&gt;Introduction to Natural Language Processing (Eisenstein)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Textbooks:&lt;/strong&gt; &lt;a href=&#34;https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=30OMHV1C018JY&amp;amp;dchild=1&amp;amp;keywords=introduction+to+natural+language+processing&amp;amp;qid=1598878964&amp;amp;sprefix=introduction+to+na%2Caps%2C148&amp;amp;sr=8-1&#34;&gt;Introduction to Natural Language Processing (Eisenstein)&lt;/a&gt;&lt;br /&gt;
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp; &lt;a href=&#34;https://www.deeplearningbook.org/&#34;&gt;Deep Learning (Goodfellow, Bengio and Courville)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;31.08&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; Class website is online!&lt;br /&gt;
-&lt;strong&gt;31.08&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; We are using piazza as our discussion forum. Please enroll &lt;a href=&#34;piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;14.09&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; First lecture.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; Class website is online!&lt;br /&gt;
+&lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; We are using piazza as our discussion forum. Please enroll &lt;a href=&#34;piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
+&lt;strong&gt;14.09&lt;/strong&gt; &amp;emsp; First lecture.&lt;/p&gt;
 
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
 
@@ -80,7 +81,7 @@
       &lt;td&gt;14.09.2020&lt;/td&gt;
       &lt;td&gt;Introduction to Natural Language&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 1&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -101,7 +102,7 @@
       &lt;td&gt;28.09.2020 &lt;/td&gt;
       &lt;td&gt;Log-Linear Modeling&amp;mdash;Meet the Softmax&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 2&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 2&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf&#34;&gt;Ferraro and Eisner (2013)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;http://cs.jhu.edu/~jason/tutorials/loglin/further.html&#34;&gt;Jason Eisner’s list of further resources on log-linear modeling&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -109,7 +110,7 @@
       &lt;td&gt;5.10.2020 &lt;/td&gt;
       &lt;td&gt;Sentiment Analysis with Multi-layer Perceptrons&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 3 and 4&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 3 and Ch. 4&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 6&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_approximation_theorem&#34;&gt;Wikipedia&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&amp;rep=rep1&amp;type=pdf&#34;&gt;Cybenko (1989)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;https://arxiv.org/pdf/1710.11278.pdf&#34;&gt;Hanin and Selke (2018)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;https://www.cs.cornell.edu/home/llee/omsa/omsa.pdf&#34;&gt;Pang and Lee (2008)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/P15-1162/&#34;&gt;Iyyer et al. (2015)&lt;/a&gt;&lt;/br&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -117,7 +118,7 @@
       &lt;td&gt;12.10.2020 &lt;/td&gt;
       &lt;td&gt;Language Modeling with &lt;em&gt;n&lt;/em&gt;-grams and LSTMs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 6&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 6&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 10&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -125,7 +126,7 @@
       &lt;td&gt;19.10.2020 &lt;/td&gt;
       &lt;td&gt;Part-of-Speech Tagging with CRFs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 7 and 8&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 7 and 8&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -133,7 +134,7 @@
       &lt;td&gt;26.10.2020 &lt;/td&gt;
       &lt;td&gt;Context-Free Parsing with CKY&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 10&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 10&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -141,7 +142,7 @@
       &lt;td&gt;2.11.2020 &lt;/td&gt;
       &lt;td&gt;Dependency Parsing with the Matrix-Tree Theorem&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 11&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 11&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -149,7 +150,7 @@
       &lt;td&gt;9.11.2020 &lt;/td&gt;
       &lt;td&gt;Transliteration with WFSTs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 9&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 9&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -157,7 +158,7 @@
       &lt;td&gt;16.11.2020 &lt;/td&gt;
       &lt;td&gt;Machine Translation with Transformers&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch. 18&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 18&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/W18-2509/&#34;&gt;Rush (2018)&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
