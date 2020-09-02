@@ -80,7 +80,7 @@
       &lt;td&gt;14.09.2020&lt;/td&gt;
       &lt;td&gt;Introduction to Natural Language&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Textbook Ch.1&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 1&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -101,7 +101,7 @@
       &lt;td&gt;28.09.2020 &lt;/td&gt;
       &lt;td&gt;Log-Linear Modeling&amp;mdash;Meet the Softmax&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 2&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf&#34;&gt;Ferraro and Eisner (2013)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;http://cs.jhu.edu/~jason/tutorials/loglin/further.html&#34;&gt;Jason Eisner’s list of further resources on log-linear modeling&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -109,15 +109,15 @@
       &lt;td&gt;5.10.2020 &lt;/td&gt;
       &lt;td&gt;Sentiment Analysis with Multi-layer Perceptrons&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 3 and 4&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_approximation_theorem&#34;&gt;Wikipedia&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&amp;rep=rep1&amp;type=pdf&#34;&gt;Cybenko (1989)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;https://arxiv.org/pdf/1710.11278.pdf&#34;&gt;Hanin and Selke (2018)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;https://www.cs.cornell.edu/home/llee/omsa/omsa.pdf&#34;&gt;Pang and Lee (2008)&lt;/a&gt;&lt;/br&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/P15-1162/&#34;&gt;Iyyer et al. (2015)&lt;/a&gt;&lt;/br&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;5&lt;/th&gt;
       &lt;td&gt;12.10.2020 &lt;/td&gt;
-      &lt;td&gt;Language Modeling with n-grams and LSTMs&lt;/td&gt;
+      &lt;td&gt;Language Modeling with &lt;em&gt;n&lt;/em&gt;-grams and LSTMs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 6&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -125,7 +125,7 @@
       &lt;td&gt;19.10.2020 &lt;/td&gt;
       &lt;td&gt;Part-of-Speech Tagging with CRFs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 7 and 8&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -133,7 +133,7 @@
       &lt;td&gt;26.10.2020 &lt;/td&gt;
       &lt;td&gt;Context-Free Parsing with CKY&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 10&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -141,7 +141,7 @@
       &lt;td&gt;2.11.2020 &lt;/td&gt;
       &lt;td&gt;Dependency Parsing with the Matrix-Tree Theorem&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 11&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -149,7 +149,7 @@
       &lt;td&gt;9.11.2020 &lt;/td&gt;
       &lt;td&gt;Transliteration with WFSTs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 9&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -157,8 +157,8 @@
       &lt;td&gt;16.11.2020 &lt;/td&gt;
       &lt;td&gt;Machine Translation with Transformers&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Textbook Ch. 18&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/W18-2509/&#34;&gt;Rush (2018)&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;11&lt;/th&gt;
@@ -174,7 +174,7 @@
       &lt;td&gt;Bias and Fairness in NLP&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf&#34;&gt;A Course in Machine Learning Chapter 8&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/tbody&gt;
