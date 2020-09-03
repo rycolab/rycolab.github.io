@@ -2,8 +2,8 @@
   "name": "Rycolab",
   "short_name": "Rycolab",
   "lang": "en-us",
-  "theme_color": "#ff3860",
-  "background_color": "#ff3860",
+  "theme_color": "#CA97B1",
+  "background_color": "#CA97B1",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
