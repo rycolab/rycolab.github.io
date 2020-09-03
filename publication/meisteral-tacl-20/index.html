@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Decoding for many NLP tasks requires a heuristic algorithm for approximating exact search since the full search space is often intractable if not simply too large to traverse efficiently. The default algorithm for this job is beam search---a pruned version of breadth-first search---which in practice, returns better results than exact inference due to beneficial search bias. In this work, we show that standard beam search is a computationally inefficient choice for many decoding tasks; specifically, when the scoring function is a monotonic function in sequence length, other search algorithms can be used to reduce the number of calls to the scoring function (e.g., a neural network), which is often the bottleneck computation. We propose best-first beam search, an algorithm that provably returns the same set of results as standard beam search, albeit in the minimum number of scoring function calls to guarantee optimality (modulo beam size).  We show that best-first beam search can be used with length normalization and mutual information decoding, among other rescoring functions.  Lastly, we propose a memory-reduced variant of best-first beam search, which has a similar search bias in terms of downstream performance, but runs in a fraction of the time.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://rycolab.github.io/publication/meisteral-tacl-20/">
@@ -83,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.9e06077373a91d565d5acccf020cbf91.css">
+  <link rel="stylesheet" href="/css/academic.min.3db5da9c7a52786fdc788d5ad8f4ef12.css">
 
   
 
@@ -116,11 +116,11 @@
   <meta property="og:site_name" content="Rycolab">
   <meta property="og:url" content="https://rycolab.github.io/publication/meisteral-tacl-20/">
   <meta property="og:title" content="Best-First Beam Search | Rycolab">
-  <meta property="og:description" content=""><meta property="og:image" content="https://rycolab.github.io/img/logo_l.png">
+  <meta property="og:description" content="Decoding for many NLP tasks requires a heuristic algorithm for approximating exact search since the full search space is often intractable if not simply too large to traverse efficiently. The default algorithm for this job is beam search---a pruned version of breadth-first search---which in practice, returns better results than exact inference due to beneficial search bias. In this work, we show that standard beam search is a computationally inefficient choice for many decoding tasks; specifically, when the scoring function is a monotonic function in sequence length, other search algorithms can be used to reduce the number of calls to the scoring function (e.g., a neural network), which is often the bottleneck computation. We propose best-first beam search, an algorithm that provably returns the same set of results as standard beam search, albeit in the minimum number of scoring function calls to guarantee optimality (modulo beam size).  We show that best-first beam search can be used with length normalization and mutual information decoding, among other rescoring functions.  Lastly, we propose a memory-reduced variant of best-first beam search, which has a similar search bias in terms of downstream performance, but runs in a fraction of the time."><meta property="og:image" content="https://rycolab.github.io/img/logo_l.png">
   <meta property="twitter:image" content="https://rycolab.github.io/img/logo_l.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-09-02T19:50:39&#43;00:00">
+      <meta property="article:published_time" content="2020-09-03T06:45:20&#43;00:00">
     
     <meta property="article:modified_time" content="2020-01-01T00:00:00&#43;00:00">
   
@@ -150,7 +150,7 @@
   },
   "headline": "Best-First Beam Search",
   
-  "datePublished": "2020-09-02T19:50:39Z",
+  "datePublished": "2020-09-03T06:45:20Z",
   "dateModified": "2020-01-01T00:00:00Z",
   
   "author": {
@@ -166,7 +166,7 @@
       "url": "https://rycolab.github.io/img/logo_l.png"
     }
   },
-  "description": ""
+  "description": "Decoding for many NLP tasks requires a heuristic algorithm for approximating exact search since the full search space is often intractable if not simply too large to traverse efficiently. The default algorithm for this job is beam search---a pruned version of breadth-first search---which in practice, returns better results than exact inference due to beneficial search bias. In this work, we show that standard beam search is a computationally inefficient choice for many decoding tasks; specifically, when the scoring function is a monotonic function in sequence length, other search algorithms can be used to reduce the number of calls to the scoring function (e.g., a neural network), which is often the bottleneck computation. We propose best-first beam search, an algorithm that provably returns the same set of results as standard beam search, albeit in the minimum number of scoring function calls to guarantee optimality (modulo beam size).  We show that best-first beam search can be used with length normalization and mutual information decoding, among other rescoring functions.  Lastly, we propose a memory-reduced variant of best-first beam search, which has a similar search bias in terms of downstream performance, but runs in a fraction of the time."
 }
 </script>
 
@@ -682,6 +682,9 @@ if (!doNotTrack) {
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Decoding for many NLP tasks requires a heuristic algorithm for approximating exact search since the full search space is often intractable if not simply too large to traverse efficiently. The default algorithm for this job is beam search&mdash;a pruned version of breadth-first search&mdash;which in practice, returns better results than exact inference due to beneficial search bias. In this work, we show that standard beam search is a computationally inefficient choice for many decoding tasks; specifically, when the scoring function is a monotonic function in sequence length, other search algorithms can be used to reduce the number of calls to the scoring function (e.g., a neural network), which is often the bottleneck computation. We propose best-first beam search, an algorithm that provably returns the same set of results as standard beam search, albeit in the minimum number of scoring function calls to guarantee optimality (modulo beam size).  We show that best-first beam search can be used with length normalization and mutual information decoding, among other rescoring functions.  Lastly, we propose a memory-reduced variant of best-first beam search, which has a similar search bias in terms of downstream performance, but runs in a fraction of the time.</p>
     
 
     
