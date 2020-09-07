@@ -673,11 +673,6 @@
   </url>
   
   <url>
-    <loc>https://rycolab.github.io/authors/kevin-duh./</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rycolab.github.io/publication/cotterellduh-ijcnlp-17/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -888,11 +883,19 @@
   </url>
   
   <url>
+    <loc>https://rycolab.github.io/authors/group/</loc>
+  </url>
+  
+  <url>
     <loc>https://rycolab.github.io/authors/adina/</loc>
   </url>
   
   <url>
     <loc>https://rycolab.github.io/authors/alex/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/categories/</loc>
   </url>
   
   <url>
@@ -908,15 +911,19 @@
   </url>
   
   <url>
+    <loc>https://rycolab.github.io/authors/kat/</loc>
+  </url>
+  
+  <url>
     <loc>https://rycolab.github.io/authors/eleftheria/</loc>
   </url>
   
   <url>
-    <loc>https://rycolab.github.io/authors/ema/</loc>
+    <loc>https://rycolab.github.io/authors/liz/</loc>
   </url>
   
   <url>
-    <loc>https://rycolab.github.io/authors/group/</loc>
+    <loc>https://rycolab.github.io/authors/ema/</loc>
   </url>
   
   <url>
@@ -948,11 +955,7 @@
   </url>
   
   <url>
-    <loc>https://rycolab.github.io/authors/kat/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rycolab.github.io/authors/liz/</loc>
+    <loc>https://rycolab.github.io/authors/kevin-duh./</loc>
   </url>
   
   <url>
@@ -972,6 +975,14 @@
   </url>
   
   <url>
+    <loc>https://rycolab.github.io/classes/intro-nlp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
     <loc>https://rycolab.github.io/authors/niklas/</loc>
   </url>
   
@@ -980,7 +991,15 @@
   </url>
   
   <url>
+    <loc>https://rycolab.github.io/post/</loc>
+  </url>
+  
+  <url>
     <loc>https://rycolab.github.io/authors/ran/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/talk/</loc>
   </url>
   
   <url>
@@ -1008,6 +1027,14 @@
   </url>
   
   <url>
+    <loc>https://rycolab.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rycolab.github.io/classes/</loc>
+  </url>
+  
+  <url>
     <loc>https://rycolab.github.io/authors/tiago/</loc>
   </url>
   
@@ -1021,30 +1048,6 @@
   
   <url>
     <loc>https://rycolab.github.io/authors/yuchen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rycolab.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rycolab.github.io/classes/intro-nlp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rycolab.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rycolab.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rycolab.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rycolab.github.io/classes/</loc>
   </url>
   
 </urlset>
