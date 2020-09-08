@@ -597,6 +597,110 @@
     </item>
     
     <item>
+      <title>ETHZ&#43;&#43; NLP Reading Group</title>
+      <link>https://rycolab.github.io/readinggroup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/readinggroup/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; Fri 15-16h via Zoom&lt;/p&gt;
+
+&lt;h2 id=&#34;reading-list&#34;&gt;Reading List&lt;/h2&gt;
+
+&lt;table class=&#34;table&#34; style=&#39;word-wrap:break-word&#39;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Date&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Presenter(s)&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Topic&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Title&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Authors&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Bib&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;25/9&lt;/th&gt;
+      &lt;td&gt;Tianyu&lt;/td&gt;
+      &lt;td&gt;Centering Theory&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.07045&#34;&gt;End-to-end Neural Creference Resolution&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;18/9&lt;/th&gt;
+      &lt;td&gt;Eleanor&lt;/td&gt;
+      &lt;td&gt;Centering Theory&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/J95-2003/&#34;&gt;Centering: A Framework for Modeling the Local Coherence of Discourse&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Barbara J. Grosz, Aravind K. Joshi, Scott Weinstein&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;2/7 - 23/7&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Reinforcement Learning&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus&#34;&gt;Fundamentals of Reinforcement Learning&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Univeristy of Waterloo&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+      &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;1/5&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Nonparametric Modeling&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://links.jstor.org/sici?sici=0162-1459%28199506%2990%3A430%3C577%3ABDEAIU%3E2.0.CO%3B2-8&#34;&gt;Bayesian density estimation and inference using mixtures&lt;/a&gt;&lt;/br&gt;
+      &lt;a href=&#34;http://links.jstor.org/sici?sici=1061-8600%28200006%299%3A2%3C249%3AMCSMFD%3E2.0.CO%3B2-R&#34;&gt;Markov chain sampling methods for Dirichlet process mixture models&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;28/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;NLP Retrospective&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/2004.10151.pdf&#34;&gt;Experience Grounds Language&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://openreview.net/pdf?id=GKTvAcb12b&#34;&gt;Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;24/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Bayesian Models&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/1312.7857.pdf&#34;&gt;Bayesian Models of Graphs, Arrays and Other Exchangeable Random Structures&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;17/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Bayesian Nonparametrics&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf&#34;&gt;Lecture Notes on Bayesian Nonparametrics - Ch.6: Exchangeability&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;15/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Probing&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/2003.12298.pdf&#34;&gt;Information-Theoretic Probing with Minimum Description Length&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;14/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Bayesian Nonparametrics&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf&#34;&gt;Lecture Notes on Bayesian Nonparametrics - Ch.2: Clustering and the Dirichlet Process&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;http://web.stanford.edu/class/stats362/lec1.pdf&#34;&gt;Stat 362: Bayesian Nonparametrics - Lecture 1&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Natural Language Processing</title>
       <link>https://rycolab.github.io/classes/intro-nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
