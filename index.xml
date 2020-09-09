@@ -622,8 +622,8 @@
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;25/9&lt;/th&gt;
       &lt;td&gt;Tianyu&lt;/td&gt;
-      &lt;td&gt;Centering Theory&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.07045&#34;&gt;End-to-end Neural Creference Resolution&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Coreference Resolution&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.07045&#34;&gt;End-to-end Neural Coreference Resolution&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
