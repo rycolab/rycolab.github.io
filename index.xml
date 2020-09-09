@@ -640,13 +640,13 @@
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Reinforcement Learning&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus&#34;&gt;Fundamentals of Reinforcement Learning&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;Univeristy of Waterloo&lt;/td&gt;
+      &lt;td&gt;Martha White and Adam White&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
       &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;1/5&lt;/th&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Nonparametric Modeling&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;http://links.jstor.org/sici?sici=0162-1459%28199506%2990%3A430%3C577%3ABDEAIU%3E2.0.CO%3B2-8&#34;&gt;Bayesian density estimation and inference using mixtures&lt;/a&gt;&lt;/br&gt;
       &lt;a href=&#34;http://links.jstor.org/sici?sici=1061-8600%28200006%299%3A2%3C249%3AMCSMFD%3E2.0.CO%3B2-R&#34;&gt;Markov chain sampling methods for Dirichlet process mixture models&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
@@ -664,7 +664,7 @@
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;24/4&lt;/th&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Bayesian Models&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/1312.7857.pdf&#34;&gt;Bayesian Models of Graphs, Arrays and Other Exchangeable Random Structures&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
@@ -673,7 +673,7 @@
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;17/4&lt;/th&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Bayesian Nonparametrics&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf&#34;&gt;Lecture Notes on Bayesian Nonparametrics - Ch.6: Exchangeability&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
@@ -689,7 +689,7 @@
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;14/4&lt;/th&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Bayesian Nonparametrics&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf&#34;&gt;Lecture Notes on Bayesian Nonparametrics - Ch.2: Clustering and the Dirichlet Process&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;http://web.stanford.edu/class/stats362/lec1.pdf&#34;&gt;Stat 362: Bayesian Nonparametrics - Lecture 1&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
