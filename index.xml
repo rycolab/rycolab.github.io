@@ -607,11 +607,6 @@
 
 &lt;h2 id=&#34;reading-list&#34;&gt;Reading List&lt;/h2&gt;
 
-&lt;!-- &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
-        data-filename=&#34;{{ .RelPermalink }}&#34;&gt;
-  Cite
-&lt;/button&gt; --&gt;
-
 &lt;table class=&#34;table&#34; style=&#39;word-wrap:break-word&#39;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
@@ -620,7 +615,7 @@
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Topic&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Title&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Authors&lt;/th&gt;
-      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Bib&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Bib&amp;emsp;&amp;emsp;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -630,8 +625,8 @@
       &lt;td&gt;Coreference Resolution&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.07045&#34;&gt;End-to-end Neural Coreference Resolution&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer&lt;/td&gt;
-      &lt;td&gt;
-&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/lee-etal-2017-end.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;18/9&lt;/th&gt;
@@ -639,7 +634,8 @@
       &lt;td&gt;Centering Theory&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/J95-2003/&#34;&gt;Centering: A Framework for Modeling the Local Coherence of Discourse&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Barbara J. Grosz, Aravind K. Joshi, Scott Weinstein&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/grosz-etal-1995-centering.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;2/7 - 23/7&lt;/th&gt;
