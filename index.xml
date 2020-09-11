@@ -607,6 +607,11 @@
 
 &lt;h2 id=&#34;reading-list&#34;&gt;Reading List&lt;/h2&gt;
 
+&lt;!-- &lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;{{ .RelPermalink }}&#34;&gt;
+  Cite
+&lt;/button&gt; --&gt;
+
 &lt;table class=&#34;table&#34; style=&#39;word-wrap:break-word&#39;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
@@ -625,7 +630,8 @@
       &lt;td&gt;Coreference Resolution&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.07045&#34;&gt;End-to-end Neural Coreference Resolution&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;
+&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;18/9&lt;/th&gt;
