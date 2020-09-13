@@ -36,7 +36,7 @@
 
 &lt;p&gt;&lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; Class website is online!&lt;br /&gt;
 &lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; We are using piazza as our discussion forum. Please enroll &lt;a href=&#34;https://www.piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;14.09&lt;/strong&gt; &amp;emsp; First lecture.&lt;/p&gt;
+&lt;strong&gt;21.09&lt;/strong&gt; &amp;emsp; First lecture.&lt;/p&gt;
 
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
 
@@ -81,7 +81,7 @@
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Week&lt;/th&gt;
-      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Date&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Date&amp;emsp;&amp;emsp;&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Topic&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Slides&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Readings&lt;/th&gt;
@@ -90,8 +90,16 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;-&lt;/th&gt;
+      &lt;td&gt;14.09.20&lt;/td&gt;
+      &lt;td&gt;Knabenschiessen (no class)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;1&lt;/th&gt;
-      &lt;td&gt;14.09.2020&lt;/td&gt;
+      &lt;td&gt;21.09.20&lt;/td&gt;
       &lt;td&gt;Introduction to Natural Language&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
@@ -99,7 +107,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;2&lt;/th&gt;
-      &lt;td&gt;21.09.2020&lt;/td&gt;
+      &lt;td&gt;28.09.20&lt;/td&gt;
       &lt;td&gt;Backpropagation&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
@@ -114,7 +122,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;3&lt;/th&gt;
-      &lt;td&gt;28.09.2020 &lt;/td&gt;
+      &lt;td&gt;5.10.20 &lt;/td&gt;
       &lt;td&gt;Log-Linear Modeling&amp;mdash;Meet the Softmax&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 2&lt;/td&gt;
@@ -123,7 +131,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;4&lt;/th&gt;
-      &lt;td&gt;5.10.2020 &lt;/td&gt;
+      &lt;td&gt;12.10.20&lt;/td&gt;
       &lt;td&gt;Sentiment Analysis with Multi-layer Perceptrons&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 3 and Ch. 4&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 6&lt;/td&gt;
@@ -135,7 +143,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;5&lt;/th&gt;
-      &lt;td&gt;12.10.2020 &lt;/td&gt;
+      &lt;td&gt;19.10.20&lt;/td&gt;
       &lt;td&gt;Language Modeling with &lt;em&gt;n&lt;/em&gt;-grams and LSTMs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 6&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 10&lt;/td&gt;
@@ -147,7 +155,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;6&lt;/th&gt;
-      &lt;td&gt;19.10.2020 &lt;/td&gt;
+      &lt;td&gt;26.10.20&lt;/td&gt;
       &lt;td&gt;Part-of-Speech Tagging with CRFs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 7 and 8&lt;/td&gt;
@@ -158,7 +166,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;7&lt;/th&gt;
-      &lt;td&gt;26.10.2020 &lt;/td&gt;
+      &lt;td&gt;2.11.20&lt;/td&gt;
       &lt;td&gt;Context-Free Parsing with CKY&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 10&lt;/td&gt;
@@ -170,7 +178,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;8&lt;/th&gt;
-      &lt;td&gt;2.11.2020 &lt;/td&gt;
+      &lt;td&gt;9.11.20&lt;/td&gt;
       &lt;td&gt;Dependency Parsing with the Matrix-Tree Theorem&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 11&lt;/td&gt;
@@ -181,7 +189,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;9&lt;/th&gt;
-      &lt;td&gt;9.11.2020 &lt;/td&gt;
+      &lt;td&gt;16.11.20&lt;/td&gt;
       &lt;td&gt;Transliteration with WFSTs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 9&lt;/td&gt;
@@ -190,7 +198,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;10&lt;/th&gt;
-      &lt;td&gt;16.11.2020 &lt;/td&gt;
+      &lt;td&gt;23.11.20&lt;/td&gt;
       &lt;td&gt;Machine Translation with Transformers&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 18&lt;/td&gt;
@@ -200,7 +208,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;11&lt;/th&gt;
-      &lt;td&gt;23.11.2020&lt;/td&gt;
+      &lt;td&gt;30.11.20&lt;/td&gt;
       &lt;td&gt;Axes of Modeling&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
@@ -208,7 +216,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;12&lt;/th&gt;
-      &lt;td&gt;30.11.2020&lt;/td&gt;
+      &lt;td&gt;7.12.20&lt;/td&gt;
       &lt;td&gt;Bias and Fairness in NLP&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
