@@ -5,12 +5,20 @@
     <link>https://rycolab.github.io/authors/shijia-liu/</link>
       <atom:link href="https://rycolab.github.io/authors/shijia-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shijia Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Shijia Liu</title>
       <link>https://rycolab.github.io/authors/shijia-liu/</link>
     </image>
+    
+    <item>
+      <title>Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Idiosyncrasies of the Mandarin Chinese Classifier System</title>
