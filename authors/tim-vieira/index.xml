@@ -5,12 +5,28 @@
     <link>https://rycolab.github.io/authors/tim-vieira/</link>
       <atom:link href="https://rycolab.github.io/authors/tim-vieira/index.xml" rel="self" type="application/rss+xml" />
     <description>Tim Vieira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Tim Vieira</title>
       <link>https://rycolab.github.io/authors/tim-vieira/</link>
     </image>
+    
+    <item>
+      <title>If Beam Search is the Answer, What was the Question?</title>
+      <link>https://rycolab.github.io/publication/meisteral-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/meisteral-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Please Mind the Root: Decoding Arborescences for Dependency Parsing</title>
+      <link>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Best-First Beam Search</title>

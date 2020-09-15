@@ -5,12 +5,76 @@
     <link>https://rycolab.github.io/authors/ryan-cotterell/</link>
       <atom:link href="https://rycolab.github.io/authors/ryan-cotterell/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan Cotterell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Ryan Cotterell</title>
       <link>https://rycolab.github.io/authors/ryan-cotterell/</link>
     </image>
+    
+    <item>
+      <title>Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation</title>
+      <link>https://rycolab.github.io/publication/palomocotterell-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/palomocotterell-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Concept-specific Biases in Form–Meaning Associations</title>
+      <link>https://rycolab.github.io/publication/pimentel-3-al-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentel-3-al-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If Beam Search is the Answer, What was the Question?</title>
+      <link>https://rycolab.github.io/publication/meisteral-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/meisteral-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic Probing through Dimension Selection</title>
+      <link>https://rycolab.github.io/publication/hennigenal-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hennigenal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model</title>
+      <link>https://rycolab.github.io/publication/leungal-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/leungal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pareto Probing: Trading Off Accuracy and Simplicity</title>
+      <link>https://rycolab.github.io/publication/pimentelal-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Please Mind the Root: Decoding Arborescences for Dependency Parsing</title>
+      <link>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speakers Fill Semantic Gaps with Context</title>
+      <link>https://rycolab.github.io/publication/pimentel-2-al-emnlp-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentel-2-al-emnlp-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Corpus for Large-Scale Phonetic Typology</title>
@@ -89,6 +153,14 @@
       <link>https://rycolab.github.io/publication/williamsal-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/publication/williamsal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages</title>
+      <link>https://rycolab.github.io/publication/pontial-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pontial-tacl-20/</guid>
       <description></description>
     </item>
     
