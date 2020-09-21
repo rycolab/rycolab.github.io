@@ -83,7 +83,7 @@
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Week&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Date&amp;emsp;&amp;emsp;&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Topic&lt;/th&gt;
-      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Slides&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Slides&amp;emsp;&amp;emsp;&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Readings&lt;/th&gt;
       &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Supplementary Material&lt;/th&gt;
     &lt;/tr&gt;
@@ -101,7 +101,7 @@
       &lt;th scope=&#34;row&#34;&gt;1&lt;/th&gt;
       &lt;td&gt;21.09.20&lt;/td&gt;
       &lt;td&gt;Introduction to Natural Language&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture1.pdf&#34;&gt;Lecture 1&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
