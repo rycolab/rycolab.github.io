@@ -700,6 +700,15 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;2/10&lt;/th&gt;
+      &lt;td&gt;Tiago&lt;/td&gt;
+      &lt;td&gt;V-Information&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://openreview.net/forum?id=r1eBeyHFDH&#34;&gt;A Theory of Usable Information under Computational Constraints&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Yilun Xu, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/xu-etal-2020-information.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;25/9&lt;/th&gt;
       &lt;td&gt;Tianyu&lt;/td&gt;
       &lt;td&gt;Coreference Resolution&lt;/td&gt;
