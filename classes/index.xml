@@ -160,7 +160,8 @@
       &lt;td&gt;Part-of-Speech Tagging with CRFs&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 7 and 8&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.5555/645529.658277&#34;&gt;McCallum et al. (2000)&lt;/a&gt;&lt;/br&gt;
+      &lt;td&gt;&lt;a href=&#34;https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/&#34;&gt;Tim Vieira&amp;rsquo;s Blog&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://dl.acm.org/doi/10.5555/645529.658277&#34;&gt;McCallum et al. (2000)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&amp;context=cis_papers&#34;&gt;Lafferty et al. (2001)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf&#34;&gt;Sutton and McCallum (2011)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://mitpress.mit.edu/books/probabilistic-graphical-models&#34;&gt;Koller and Friedman (2009)&lt;/a&gt;&lt;/td&gt;
