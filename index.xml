@@ -906,7 +906,8 @@
       &lt;th scope=&#34;row&#34;&gt;3&lt;/th&gt;
       &lt;td&gt;5.10.20 &lt;/td&gt;
       &lt;td&gt;Log-Linear Modeling&amp;mdash;Meet the Softmax&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;slides/lecture3.pdf&#34;&gt;Lecture 3&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture3.pdf&#34;&gt;Lecture 3&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;slides/log-linear-tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 2&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf&#34;&gt;Ferraro and Eisner (2013)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;http://cs.jhu.edu/~jason/tutorials/loglin/further.html&#34;&gt;Jason Eisner’s list of further resources on log-linear modeling&lt;/a&gt;&lt;/td&gt;
