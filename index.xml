@@ -822,6 +822,12 @@
 
 &lt;p&gt;The objective of the course is to learn the basic concepts in the statistical processing of natural languages. The course will be project-oriented so that the students can also gain hands-on experience with state-of-the-art tools and techniques.&lt;/p&gt;
 
+&lt;h4 id=&#34;grading&#34;&gt;Grading&lt;/h4&gt;
+
+&lt;p&gt;Marks for the course will be determined by the following formula:&lt;br /&gt;
+* 70% Final Exam&lt;br /&gt;
+* 30% Course Project/Assignment&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Mon 12-14h Zoom (link to be emailed and posted on piazza day of lecture)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Discussion Sections:&lt;/strong&gt; Wednesday 13-14h Zoom (link to be emailed and posted on piazza day of discussion)&lt;/p&gt;
@@ -833,8 +839,9 @@
 
 &lt;p&gt;&lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; Class website is online!&lt;br /&gt;
 &lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; We are using piazza as our discussion forum. Please enroll &lt;a href=&#34;https://www.piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;21.09&lt;/strong&gt; &amp;emsp; First lecture.
-&lt;strong&gt;30.09&lt;/strong&gt; &amp;emsp; First discussion section.&lt;/p&gt;
+&lt;strong&gt;21.09&lt;/strong&gt; &amp;emsp; First lecture.&lt;br /&gt;
+&lt;strong&gt;30.09&lt;/strong&gt; &amp;emsp; First discussion section.&lt;br /&gt;
+&lt;strong&gt;1.11&lt;/strong&gt; &amp;emsp; Project proposals due for groups electing to do research project (submission instructions to come).&lt;/p&gt;
 
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
 
@@ -1035,6 +1042,12 @@
 
 &lt;p&gt;&lt;/tbody&gt;
 &lt;/table&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;course-project-assignment&#34;&gt;Course Project/Assignment&lt;/h2&gt;
+
+&lt;p&gt;The course project/assigment will be worth 30% of your final mark. Every student has the option of completing either a research project or a structured assignment. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser.&lt;/p&gt;
+
+&lt;p&gt;Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 (submission instructions to be released soon). We will (unless severely impeded) release the assignment before the proposal deadline in case students would like to see both options before choosing. All projects/assigments will be due at the end of the semester.&lt;/p&gt;
 
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 
