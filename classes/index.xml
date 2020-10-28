@@ -244,7 +244,11 @@
       &lt;td&gt;Bias and Fairness in NLP&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf&#34;&gt;A Course in Machine Learning Chapter 8&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf&#34;&gt;Bolukabasi et al. (2016)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://arxiv.org/abs/1903.03862&#34;&gt;Gonen and Goldberg (2019)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://arxiv.org/abs/1909.00871&#34;&gt;Hall Maudslay et al. (2019)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://arxiv.org/abs/2009.09435&#34;&gt;Vargas and Cotterell (2020)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf&#34;&gt;A Course in Machine Learning Chapter 8&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/tbody&gt;
