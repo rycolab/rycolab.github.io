@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adina Williams | Rycolab</title>
+    <link>https://rycolab.github.io/authors/adina-williams/</link>
+      <atom:link href="https://rycolab.github.io/authors/adina-williams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adina Williams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Adina Williams</title>
+      <link>https://rycolab.github.io/authors/adina-williams/</link>
+    </image>
+    
+    <item>
+      <title>Intrinsic Probing through Dimension Selection</title>
+      <link>https://rycolab.github.io/publication/hennigenal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hennigenal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pareto Probing: Trading Off Accuracy for Simplicity</title>
+      <link>https://rycolab.github.io/publication/pimentelal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tale of a Probe and a Parser</title>
+      <link>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Theoretic Probing for Linguistic Structure</title>
+      <link>https://rycolab.github.io/publication/pimentelal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Declension Class from Form and Meaning</title>
+      <link>https://rycolab.github.io/publication/williamsal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs</title>
+      <link>https://rycolab.github.io/publication/williamsal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the Semantic Core of Gender Systems</title>
+      <link>https://rycolab.github.io/publication/williamsal-emnlp-ijcnlp-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-emnlp-ijcnlp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Idiosyncrasies of the Mandarin Chinese Classifier System</title>
+      <link>https://rycolab.github.io/publication/liual-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/liual-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

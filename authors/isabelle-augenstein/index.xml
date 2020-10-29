@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabelle Augenstein | Rycolab</title>
+    <link>https://rycolab.github.io/authors/isabelle-augenstein/</link>
+      <atom:link href="https://rycolab.github.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isabelle Augenstein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Isabelle Augenstein</title>
+      <link>https://rycolab.github.io/authors/isabelle-augenstein/</link>
+    </image>
+    
+    <item>
+      <title>Uncovering Typological Implications with Belief Nets</title>
+      <link>https://rycolab.github.io/publication/bjervaal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bjervaal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
+      <link>https://rycolab.github.io/publication/hoyleal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hoyleal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Generative Model of Linguistic Typology</title>
+      <link>https://rycolab.github.io/publication/bjervaal-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bjervaal-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Sentiment Lexica with a Multi-View Variational Autoencoder</title>
+      <link>https://rycolab.github.io/publication/hoyleal-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hoyleal-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

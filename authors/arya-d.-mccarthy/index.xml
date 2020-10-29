@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arya D. McCarthy | Rycolab</title>
+    <link>https://rycolab.github.io/authors/arya-d.-mccarthy/</link>
+      <atom:link href="https://rycolab.github.io/authors/arya-d.-mccarthy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arya D. McCarthy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Arya D. McCarthy</title>
+      <link>https://rycolab.github.io/authors/arya-d.-mccarthy/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-tacl-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying Universal Dependencies and Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-udw-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-udw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

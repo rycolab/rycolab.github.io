@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Roark | Rycolab</title>
+    <link>https://rycolab.github.io/authors/brian-roark/</link>
+      <atom:link href="https://rycolab.github.io/authors/brian-roark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Roark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Brian Roark</title>
+      <link>https://rycolab.github.io/authors/brian-roark/</link>
+    </image>
+    
+    <item>
+      <title>Phonotactic Complexity and its Trade-offs</title>
+      <link>https://rycolab.github.io/publication/pimentelal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaning to Form: Measuring Systematicity as Information</title>
+      <link>https://rycolab.github.io/publication/pimentelal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Kind of Language Is Hard to Language-Model?</title>
+      <link>https://rycolab.github.io/publication/mielkeal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mielkeal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are All Languages Equally Hard to Language-Model?</title>
+      <link>https://rycolab.github.io/publication/cotterellal-naacl-18-a/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-naacl-18-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

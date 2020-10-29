@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shijie Wu | Rycolab</title>
+    <link>https://rycolab.github.io/authors/shijie-wu/</link>
+      <atom:link href="https://rycolab.github.io/authors/shijie-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shijie Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Shijie Wu</title>
+      <link>https://rycolab.github.io/authors/shijie-wu/</link>
+    </image>
+    
+    <item>
+      <title>The Paradigm Discovery Problem</title>
+      <link>https://rycolab.github.io/publication/erdmannal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/erdmannal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-tacl-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Hard Monotonic Attention for Character-Level Transduction</title>
+      <link>https://rycolab.github.io/publication/wucotterell-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/wucotterell-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Morphological Irregularity</title>
+      <link>https://rycolab.github.io/publication/wual-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/wual-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Joint Model for Improved Contextual Neural Lemmatization</title>
+      <link>https://rycolab.github.io/publication/malaviyanaal-acl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/malaviyanaal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hard Non-Monotonic Attention for Character-Level Transduction</title>
+      <link>https://rycolab.github.io/publication/wual-emnlp-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/wual-emnlp-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

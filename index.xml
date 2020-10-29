@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rycolab</title>
+    <link>https://rycolab.github.io/</link>
+      <atom:link href="https://rycolab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rycolab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Rycolab</title>
+      <link>https://rycolab.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation</title>
+      <link>https://rycolab.github.io/publication/palomocotterell-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/palomocotterell-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If Beam Search is the Answer, What was the Question?</title>
+      <link>https://rycolab.github.io/publication/meisteral-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/meisteral-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic Probing through Dimension Selection</title>
+      <link>https://rycolab.github.io/publication/hennigenal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hennigenal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model</title>
+      <link>https://rycolab.github.io/publication/leungal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/leungal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pareto Probing: Trading Off Accuracy for Simplicity</title>
+      <link>https://rycolab.github.io/publication/pimentelal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Please Mind the Root: Decoding Arborescences for Dependency Parsing</title>
+      <link>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speakers Fill Semantic Gaps with Context</title>
+      <link>https://rycolab.github.io/publication/pimentel-2-al-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentel-2-al-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Corpus for Large-Scale Phonetic Typology</title>
+      <link>https://rycolab.github.io/publication/saleskyal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/saleskyal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tale of a Probe and a Parser</title>
+      <link>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Entropy Regularization or: There&#39;s Nothing Special about Label Smoothing</title>
+      <link>https://rycolab.github.io/publication/meisteral-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/meisteral-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-Theoretic Probing for Linguistic Structure</title>
+      <link>https://rycolab.github.io/publication/pimentelal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It&#39;s Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information</title>
+      <link>https://rycolab.github.io/publication/bugliarelloal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bugliarelloal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Declension Class from Form and Meaning</title>
+      <link>https://rycolab.github.io/publication/williamsal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Paradigm Discovery Problem</title>
+      <link>https://rycolab.github.io/publication/erdmannal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/erdmannal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best-First Beam Search</title>
+      <link>https://rycolab.github.io/publication/meisteral-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/meisteral-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Computation of Expectations under Spanning Tree Distributions</title>
+      <link>https://rycolab.github.io/publication/zmigrodal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/zmigrodal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs</title>
+      <link>https://rycolab.github.io/publication/williamsal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages</title>
+      <link>https://rycolab.github.io/publication/pontial-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pontial-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonotactic Complexity and its Trade-offs</title>
+      <link>https://rycolab.github.io/publication/pimentelal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don’t Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction</title>
+      <link>https://rycolab.github.io/publication/czarnowskaal-emnlp-ijcnlp-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/czarnowskaal-emnlp-ijcnlp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining Gender Bias in Languages with Grammatical Gender</title>
+      <link>https://rycolab.github.io/publication/zhoual-emnlp-ijcnlp-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/zhoual-emnlp-ijcnlp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution</title>
+      <link>https://rycolab.github.io/publication/hall-maudslayal-emnlp-ijcnlp-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hall-maudslayal-emnlp-ijcnlp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the Semantic Core of Gender Systems</title>
+      <link>https://rycolab.github.io/publication/williamsal-emnlp-ijcnlp-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-emnlp-ijcnlp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Zero-Shot Language Modeling</title>
+      <link>https://rycolab.github.io/publication/pontial-emnlp-ijcnlp-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pontial-emnlp-ijcnlp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-tacl-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual Data Augmentation for Mitigating Gender Bias in Languages with Rich Morphology</title>
+      <link>https://rycolab.github.io/publication/zmigrodal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/zmigrodal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Hard Monotonic Attention for Character-Level Transduction</title>
+      <link>https://rycolab.github.io/publication/wucotterell-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/wucotterell-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaning to Form: Measuring Systematicity as Information</title>
+      <link>https://rycolab.github.io/publication/pimentelal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Morphological Irregularity</title>
+      <link>https://rycolab.github.io/publication/wual-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/wual-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the distribution of deep clausal embeddings: A large cross-linguistic study</title>
+      <link>https://rycolab.github.io/publication/blasial-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/blasial-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Typological Implications with Belief Nets</title>
+      <link>https://rycolab.github.io/publication/bjervaal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bjervaal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
+      <link>https://rycolab.github.io/publication/hoyleal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hoyleal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Kind of Language Is Hard to Language-Model?</title>
+      <link>https://rycolab.github.io/publication/mielkeal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mielkeal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Generative Model of Linguistic Typology</title>
+      <link>https://rycolab.github.io/publication/bjervaal-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bjervaal-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Joint Model for Improved Contextual Neural Lemmatization</title>
+      <link>https://rycolab.github.io/publication/malaviyanaal-acl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/malaviyanaal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Sentiment Lexica with a Multi-View Variational Autoencoder</title>
+      <link>https://rycolab.github.io/publication/hoyleal-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hoyleal-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualization of Morphological Inflection</title>
+      <link>https://rycolab.github.io/publication/vylomovaal-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vylomovaal-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender Bias in Contextualized Word Embeddings</title>
+      <link>https://rycolab.github.io/publication/zhoual-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/zhoual-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Idiosyncrasies of the Mandarin Chinese Classifier System</title>
+      <link>https://rycolab.github.io/publication/liual-naacl-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/liual-naacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Complexity and Typology of Inflectional Morphological Systems</title>
+      <link>https://rycolab.github.io/publication/cotterellal-tacl-19/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Discriminative Latent-Variable Model for Bilingual Lexicon Induction</title>
+      <link>https://rycolab.github.io/publication/ruderal-emnlp-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/ruderal-emnlp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction</title>
+      <link>https://rycolab.github.io/publication/kementchedjhievaal-conll-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kementchedjhievaal-conll-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hard Non-Monotonic Attention for Character-Level Transduction</title>
+      <link>https://rycolab.github.io/publication/wual-emnlp-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/wual-emnlp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying Universal Dependencies and Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-udw-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-udw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Structured Variational Autoencoder for Contextual Morphological Inflection</title>
+      <link>https://rycolab.github.io/publication/wolf-sonkin-acl-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/wolf-sonkin-acl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Generative Model of Vowel Formant Typology</title>
+      <link>https://rycolab.github.io/publication/cotterelleisner-naacl-18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterelleisner-naacl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are All Languages Equally Hard to Language-Model?</title>
+      <link>https://rycolab.github.io/publication/cotterellal-naacl-18-a/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-naacl-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Disambiguation of Syncretism in Inflected Lexicons</title>
+      <link>https://rycolab.github.io/publication/cotterellal-naacl-18-b/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-naacl-18-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniMorph 2.0: Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/kiroval-lrec-18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kiroval-lrec-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining and Generalizing Back-Translation through Wake-Sleep</title>
+      <link>https://rycolab.github.io/publication/cotterellkreutzer-arxiv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellkreutzer-arxiv-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Semantic Synthesis and Morphological Analysis of the Derived Word</title>
+      <link>https://rycolab.github.io/publication/cotterellschuetze-tacl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellschuetze-tacl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Diachronic Stability of Irregularity in Inflectional Morphology</title>
+      <link>https://rycolab.github.io/publication/cotterellal-arxiv-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-arxiv-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate</title>
+      <link>https://rycolab.github.io/publication/kirovcotterell-tacl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kirovcotterell-tacl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Resource Named Entity Recognition with Cross-lingual, Character-Level Neural Conditional Random Fields</title>
+      <link>https://rycolab.github.io/publication/cotterellduh-ijcnlp-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellduh-ijcnlp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-lingual, Character-Level Neural Morphological Tagging</title>
+      <link>https://rycolab.github.io/publication/cotterellheigold-emnlp-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellheigold-emnlp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradigm Completion for Derivational Morphology</title>
+      <link>https://rycolab.github.io/publication/cotterellal-emnlp-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoNLL--SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frame-Based Continuous Lexical Semantics through Exponential Family Tensor Factorization and Semantic Proto-Roles</title>
+      <link>https://rycolab.github.io/publication/ferraroal-starsem-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/ferraroal-starsem-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Neural Cross-Lingual Transfer for Paradigm Completion</title>
+      <link>https://rycolab.github.io/publication/kannal-acl-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kannal-acl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Typology: Deep Generative Models of Vowel Inventories</title>
+      <link>https://rycolab.github.io/publication/cotterelleisner-acl-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterelleisner-acl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rich Morphological Tagger for English: Exploring the Cross-Linguistic Tradeoff Between Morphology and Syntax</title>
+      <link>https://rycolab.github.io/publication/kiroval-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kiroval-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Prediction of Derivational Word-forms</title>
+      <link>https://rycolab.github.io/publication/vylomovaal-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vylomovaal-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining and Generalizing Skip-Gram through Exponential Family Principal Component Analysis</title>
+      <link>https://rycolab.github.io/publication/cotterellalb-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellalb-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Analysis of the Dravidian Language Family</title>
+      <link>https://rycolab.github.io/publication/kumaral-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kumaral-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Graphical Models over Strings for Principal Parts Morphological Paradigm Completion</title>
+      <link>https://rycolab.github.io/publication/cotterellala-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellala-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Multi-Source Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/kannal-eacl-17/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kannal-eacl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Segmentation Inside-Out</title>
+      <link>https://rycolab.github.io/publication/cotterellal-emnlp-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Morphological Analysis: Encoding-Decoding Canonical Segments</title>
+      <link>https://rycolab.github.io/publication/kannal-emnlp-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kannal-emnlp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speed-Accuracy Tradeoffs in Tagging with Variable-Order CRFs and Structured Sparsity</title>
+      <link>https://rycolab.github.io/publication/vieiraal-emnlp-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vieiraal-emnlp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Smoothing and Extrapolation of Word Embeddings</title>
+      <link>https://rycolab.github.io/publication/cotterellal-acl-16/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-acl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGMORPHON 2016 Shared Task—Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Joint Model of Orthography and Morphological Segmentation</title>
+      <link>https://rycolab.github.io/publication/cotterellal-naacl-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-naacl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighting Finite-State Transductions With Neural Context</title>
+      <link>https://rycolab.github.io/publication/rastogial-naacl-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/rastogial-naacl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Decomposition Inference for Graphical Models over Strings</title>
+      <link>https://rycolab.github.io/publication/pengal-emnlp-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pengal-emnlp-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Lemmatization and Morphological Tagging with Lemming</title>
+      <link>https://rycolab.github.io/publication/muelleral-conll-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/muelleral-conll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labeled Morphological Segmentation with Semi-Markov Models</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological Word Embeddings</title>
+      <link>https://rycolab.github.io/publication/cotterellschuetze-naacl-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellschuetze-naacl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penalized Expectation Propagation for Graphical Models over Strings</title>
+      <link>https://rycolab.github.io/publication/cotterelleisner-naacl-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterelleisner-naacl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Word Forms Using Latent Underlying Morphs and Phonology</title>
+      <link>https://rycolab.github.io/publication/cotterellal-tacl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-tacl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Contextual Edit Distance and Probabilistic FSTs</title>
+      <link>https://rycolab.github.io/publication/cotterellal-acl-14/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-acl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETHZ&#43;&#43; NLP Reading Group</title>
+      <link>https://rycolab.github.io/readinggroup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/readinggroup/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; Fri 15-16h via Zoom&lt;/p&gt;
+
+&lt;h2 id=&#34;reading-list&#34;&gt;Reading List&lt;/h2&gt;
+
+&lt;table class=&#34;table&#34; style=&#39;word-wrap:break-word&#39;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Date&amp;emsp;&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Presenter(s)&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Topic&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Title&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Authors&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Bib&amp;emsp;&amp;emsp;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;30/10&lt;/th&gt;
+      &lt;td&gt;Marinela&lt;/td&gt;
+      &lt;td&gt;Pruning&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/1803.03635.pdf&#34;&gt;The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Jonathan Frankle, Michael Carbin&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/frankle-2019-lottery.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;23/10&lt;/th&gt;
+      &lt;td&gt;Afra&lt;/td&gt;
+      &lt;td&gt;Sampling without Replacement&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/2002.09067.pdf&#34;&gt;Incremental Sampling Without Replacement for Sequence Models&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Kensen Shi, David Bieber, Charles Sutton&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/shi-swor-2020.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;16/10&lt;/th&gt;
+      &lt;td&gt;Shehzaad&lt;/td&gt;
+      &lt;td&gt;Critique of Leaderboards&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/2009.13888.pdf&#34;&gt;Utility is in the Eye of the User: A Critique of NLP Leaderboards&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Kawin Ethayarajh, Dan Jurafsky&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/ethayarajh-2020-utility.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;9/10&lt;/th&gt;
+      &lt;td&gt;Jiaoda&lt;/td&gt;
+      &lt;td&gt;Dropout and Pruning&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1905.13678&#34;&gt;Learning Sparse Networks Using Targeted Dropout&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Aidan N. Gomez, Ivan Zhang, Siddhartha Rao Kamalakara, Divyam Madaan, Kevin Swersky, Yarin Gal, Geoffrey E. Hinton&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/gomez-2020-dropout.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;2/10&lt;/th&gt;
+      &lt;td&gt;Tiago&lt;/td&gt;
+      &lt;td&gt;V-Information&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://openreview.net/forum?id=r1eBeyHFDH&#34;&gt;A Theory of Usable Information under Computational Constraints&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Yilun Xu, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/xu-etal-2020-information.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;25/9&lt;/th&gt;
+      &lt;td&gt;Tianyu&lt;/td&gt;
+      &lt;td&gt;Coreference Resolution&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.07045&#34;&gt;End-to-end Neural Coreference Resolution&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/lee-etal-2017-end.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;18/9&lt;/th&gt;
+      &lt;td&gt;Eleanor&lt;/td&gt;
+      &lt;td&gt;Centering Theory&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/J95-2003/&#34;&gt;Centering: A Framework for Modeling the Local Coherence of Discourse&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Barbara J. Grosz, Aravind K. Joshi, Scott Weinstein&lt;/td&gt;
+      &lt;td&gt;&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal&#34;
+        data-filename=&#34;bibs/grosz-etal-1995-centering.bib&#34;&gt;Cite&lt;/button&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;2/7 - 23/7&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Reinforcement Learning&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus&#34;&gt;Fundamentals of Reinforcement Learning&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Martha White and Adam White&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+      &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;1/5&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://links.jstor.org/sici?sici=0162-1459%28199506%2990%3A430%3C577%3ABDEAIU%3E2.0.CO%3B2-8&#34;&gt;Bayesian density estimation and inference using mixtures&lt;/a&gt;&lt;/br&gt;
+      &lt;a href=&#34;http://links.jstor.org/sici?sici=1061-8600%28200006%299%3A2%3C249%3AMCSMFD%3E2.0.CO%3B2-R&#34;&gt;Markov chain sampling methods for Dirichlet process mixture models&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;28/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;NLP Retrospective&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/2004.10151.pdf&#34;&gt;Experience Grounds Language&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://openreview.net/pdf?id=GKTvAcb12b&#34;&gt;Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;24/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/1312.7857.pdf&#34;&gt;Bayesian Models of Graphs, Arrays and Other Exchangeable Random Structures&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;17/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf&#34;&gt;Lecture Notes on Bayesian Nonparametrics - Ch.6: Exchangeability&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;15/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Probing&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://arxiv.org/pdf/2003.12298.pdf&#34;&gt;Information-Theoretic Probing with Minimum Description Length&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;14/4&lt;/th&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Bayesian Non-Parametrics&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf&#34;&gt;Lecture Notes on Bayesian Nonparametrics - Ch.2: Clustering and the Dirichlet Process&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;http://web.stanford.edu/class/stats362/lec1.pdf&#34;&gt;Stat 362: Bayesian Nonparametrics - Lecture 1&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://rycolab.github.io/classes/intro-nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/classes/intro-nlp/</guid>
+      <description>
+
+&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
+
+&lt;p&gt;This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.e processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.&lt;/p&gt;
+
+&lt;p&gt;The objective of the course is to learn the basic concepts in the statistical processing of natural languages. The course will be project-oriented so that the students can also gain hands-on experience with state-of-the-art tools and techniques.&lt;/p&gt;
+
+&lt;h4 id=&#34;grading&#34;&gt;Grading&lt;/h4&gt;
+
+&lt;p&gt;Marks for the course will be determined by the following formula:&lt;br /&gt;
+* 70% Final Exam&lt;br /&gt;
+* 30% Course Project/Assignment&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Mon 12-14h Zoom (link to be emailed and posted on piazza day of lecture)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discussion Sections:&lt;/strong&gt; Wednesday 13-14h Zoom (link to be emailed and posted on piazza day of discussion)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Textbooks:&lt;/strong&gt; &lt;a href=&#34;https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=30OMHV1C018JY&amp;amp;dchild=1&amp;amp;keywords=introduction+to+natural+language+processing&amp;amp;qid=1598878964&amp;amp;sprefix=introduction+to+na%2Caps%2C148&amp;amp;sr=8-1&#34;&gt;Introduction to Natural Language Processing (Eisenstein)&lt;/a&gt;&lt;br /&gt;
+&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp; &lt;a href=&#34;https://www.deeplearningbook.org/&#34;&gt;Deep Learning (Goodfellow, Bengio and Courville)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;news&#34;&gt;News&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; Class website is online!&lt;br /&gt;
+&lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; We are using piazza as our discussion forum. Please enroll &lt;a href=&#34;https://www.piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
+&lt;strong&gt;21.09&lt;/strong&gt; &amp;emsp; First lecture.&lt;br /&gt;
+&lt;strong&gt;30.09&lt;/strong&gt; &amp;emsp; First discussion section.&lt;br /&gt;
+&lt;strong&gt;1.11&lt;/strong&gt; &amp;emsp; Project proposals due for groups electing to do research project (submission instructions to come).&lt;/p&gt;
+
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This is the first year the class is being taught in this format. It will progress, and may change, as the semester carries on.
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://rycolab.github.io/classes/intro-nlp/roller-coaster_hu4858935a858db53d3a5f68c44ca972c4_671304_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://rycolab.github.io/classes/intro-nlp/roller-coaster_hu4858935a858db53d3a5f68c44ca972c4_671304_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;40%&#34; height=&#34;842&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;table class=&#34;table&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Week&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Date&amp;emsp;&amp;emsp;&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Topic&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Slides&amp;emsp;&amp;emsp;&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Readings&lt;/th&gt;
+      &lt;th scope=&#34;col&#34; style=&#39;white-space:nowrap&#39;&gt;Supplementary Material&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;-&lt;/th&gt;
+      &lt;td&gt;14.09.20&lt;/td&gt;
+      &lt;td&gt;Knabenschiessen (no class)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;1&lt;/th&gt;
+      &lt;td&gt;21.09.20&lt;/td&gt;
+      &lt;td&gt;Introduction to Natural Language&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture1.pdf&#34;&gt;Lecture 1&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 1&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;2&lt;/th&gt;
+      &lt;td&gt;28.09.20&lt;/td&gt;
+      &lt;td&gt;Backpropagation&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture2.pdf&#34;&gt;Lecture 2&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;a href=&#34;https://colah.github.io/posts/2015-08-Backprop/&#34;&gt;Chris Olah&amp;rsquo;s Blog&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf&#34;&gt;Justin Domke’s Notes&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/&#34;&gt;Tim Vieira’s Blog&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://ee227c.github.io/notes/ee227c-lecture16.pdf&#34;&gt;Moritz Hardt’s Notes&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://core.ac.uk/download/pdf/82480031.pdf&#34;&gt;Baur and Strassen (1983)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.amazon.co.uk/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&amp;keywords=griewank&amp;qid=1598888684&amp;s=books&amp;sr=1-1&#34;&gt;Griewank and Walter (2008)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf&#34;&gt;Eisner (2016)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;materials/mlp_comp_graph.pdf&#34;&gt;Computation Graph for MLP&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;materials/comp_graph.pdf&#34;&gt;Computation Graph Example&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;3&lt;/th&gt;
+      &lt;td&gt;5.10.20 &lt;/td&gt;
+      &lt;td&gt;Log-Linear Modeling&amp;mdash;Meet the Softmax&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture3.pdf&#34;&gt;Lecture 3&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;slides/log-linear-tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 2&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf&#34;&gt;Ferraro and Eisner (2013)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;http://cs.jhu.edu/~jason/tutorials/loglin/further.html&#34;&gt;Jason Eisner’s list of further resources on log-linear modeling&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;4&lt;/th&gt;
+      &lt;td&gt;12.10.20&lt;/td&gt;
+      &lt;td&gt;Sentiment Analysis with Multi-layer Perceptrons&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;Lecture 4&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;slides/recnn-tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 3 and Ch. 4&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 6&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_approximation_theorem&#34;&gt;Wikipedia&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&amp;rep=rep1&amp;type=pdf&#34;&gt;Cybenko (1989)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://arxiv.org/pdf/1710.11278.pdf&#34;&gt;Hanin and Selke (2018)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.cs.cornell.edu/home/llee/omsa/omsa.pdf&#34;&gt;Pang and Lee (2008)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.aclweb.org/anthology/P15-1162/&#34;&gt;Iyyer et al. (2015)&lt;/a&gt;&lt;/br&gt;
+      &lt;a href=&#34;https://arxiv.org/pdf/1411.2738.pdf&#34;&gt;word2vec Parameter Learning Explained&lt;/a&gt;&lt;/br&gt;
+    &lt;a href=&#34;https://arxiv.org/pdf/1402.3722.pdf&#34;&gt;word2vec Explained&lt;/a&gt;&lt;/br&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;5&lt;/th&gt;
+      &lt;td&gt;19.10.20&lt;/td&gt;
+      &lt;td&gt;Language Modeling with &lt;em&gt;n&lt;/em&gt;-grams and LSTMs&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;Lecture 5&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;slides/lang-model-tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 6&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 10&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf&#34;&gt;Good Tutorial on n-gram smoothing&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation&#34;&gt;Good–Turing Smoothing&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://ieeexplore.ieee.org/document/479394&#34;&gt;Kneser and Ney (1995)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf&#34;&gt;Bengio et al. (2003)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf&#34;&gt;Mikolov et al. (2010)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;6&lt;/th&gt;
+      &lt;td&gt;26.10.20&lt;/td&gt;
+      &lt;td&gt;Part-of-Speech Tagging with CRFs&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;slides/lecture6.pdf&#34;&gt;Lecture 6&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 7 and 8&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/&#34;&gt;Tim Vieira&amp;rsquo;s Blog&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://dl.acm.org/doi/10.5555/645529.658277&#34;&gt;McCallum et al. (2000)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&amp;context=cis_papers&#34;&gt;Lafferty et al. (2001)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf&#34;&gt;Sutton and McCallum (2011)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://mitpress.mit.edu/books/probabilistic-graphical-models&#34;&gt;Koller and Friedman (2009)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;7&lt;/th&gt;
+      &lt;td&gt;2.11.20&lt;/td&gt;
+      &lt;td&gt;Context-Free Parsing with CKY&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 10&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;http://www.cs.columbia.edu/~mcollins/io.pdf&#34;&gt;The Inside-Outside Algorithm&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt&#34;&gt;Jason Eisner’s Slides&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.ideals.illinois.edu/handle/2142/74304&#34;&gt;Kasami (1966)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub&#34;&gt;Younger (1967)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf&#34;&gt;Cocke and Schwartz (1970)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;8&lt;/th&gt;
+      &lt;td&gt;9.11.20&lt;/td&gt;
+      &lt;td&gt;Dependency Parsing with the Matrix-Tree Theorem&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 11&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/D07-1015/&#34;&gt;Koo et al. (2007)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.aclweb.org/anthology/D07-1014/&#34;&gt;Smith and Smith (2007)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.aclweb.org/anthology/W07-2216/&#34;&gt;McDonald and Satta (2007)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002&#34;&gt;McDonald, Kübler and Nivre (2009)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;9&lt;/th&gt;
+      &lt;td&gt;16.11.20&lt;/td&gt;
+      &lt;td&gt;Transliteration with WFSTs&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 9&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/J98-4003.pdf&#34;&gt;Knight and Graehl (1998)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://cs.nyu.edu/~mohri/pub/hbka.pdf&#34;&gt;Mohri, Pereira and Riley (2008)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;10&lt;/th&gt;
+      &lt;td&gt;23.11.20&lt;/td&gt;
+      &lt;td&gt;No Class (NAACL Deadline)&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;11&lt;/th&gt;
+      &lt;td&gt;30.11.20&lt;/td&gt;
+      &lt;td&gt;Machine Translation with Transformers&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 18&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1108497322&amp;linkCode=as2&amp;tag=statismachint-20&amp;linkId=ca7b8315b48f309c992019761c3ac4e4&#34;&gt;Neural Machine Translation&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf&#34;&gt;Vaswani et al. (2017)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://www.aclweb.org/anthology/W18-2509/&#34;&gt;Rush (2018)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;12&lt;/th&gt;
+      &lt;td&gt;7.12.20&lt;/td&gt;
+      &lt;td&gt;Axes of Modeling&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;13&lt;/th&gt;
+      &lt;td&gt;14.12.20&lt;/td&gt;
+      &lt;td&gt;Bias and Fairness in NLP&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf&#34;&gt;Bolukabasi et al. (2016)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://arxiv.org/abs/1903.03862&#34;&gt;Gonen and Goldberg (2019)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://arxiv.org/abs/1909.00871&#34;&gt;Hall Maudslay et al. (2019)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://arxiv.org/abs/2009.09435&#34;&gt;Vargas and Cotterell (2020)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf&#34;&gt;A Course in Machine Learning Chapter 8&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/tbody&gt;
+&lt;/table&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;course-project-assignment&#34;&gt;Course Project/Assignment&lt;/h2&gt;
+
+&lt;p&gt;The course project/assigment will be worth 30% of your final mark. Every student has the option of completing either a research project or a structured assignment. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines &lt;a href=&#34;materials/project_guidelines.pdf&#34;&gt;here&lt;/a&gt;. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment &lt;a href=&#34;materials/assignment.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email proposals to Clara (email address below) by the deadline. All projects/assigments will be due at the end of the semester.&lt;/p&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;You can ask questions on &lt;a href=&#34;https://www.piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;piazza&lt;/a&gt;. Please post questions there, so others can see them and share in the discussion.&lt;/p&gt;
+
+&lt;p&gt;If you have questions which are not of general interest, please don&amp;rsquo;t hesitate to contact us directly.&lt;/p&gt;
+
+&lt;table class=&#34;table&#34;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lecturer&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;mailto:ryan.cotterell@inf.ethz.ch&#34;&gt;Ryan Cotterell&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Teaching Assistants&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;mailto:meistecl@inf.ethz.ch&#34;&gt;Clara Meister&lt;/a&gt;, &lt;a href=&#34;mailto:niklas.stoehr@inf.ethz.ch&#34;&gt;Niklas Stoehr&lt;/a&gt;, &lt;a href=&#34;mailto:pinjia.he@inf.ethz.ch&#34;&gt;Pinjia He&lt;/a&gt;, &lt;a href=&#34;mailto:mkuznetsova@inf.ethz.ch&#34;&gt;Rita Kuznetsova&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

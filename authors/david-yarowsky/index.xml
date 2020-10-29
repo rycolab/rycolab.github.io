@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Yarowsky | Rycolab</title>
+    <link>https://rycolab.github.io/authors/david-yarowsky/</link>
+      <atom:link href="https://rycolab.github.io/authors/david-yarowsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Yarowsky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>David Yarowsky</title>
+      <link>https://rycolab.github.io/authors/david-yarowsky/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marrying Universal Dependencies and Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-udw-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-udw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniMorph 2.0: Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/kiroval-lrec-18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kiroval-lrec-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradigm Completion for Derivational Morphology</title>
+      <link>https://rycolab.github.io/publication/cotterellal-emnlp-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoNLL--SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages</title>
+      <link>https://rycolab.github.io/publication/cotterellal-conll-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-conll-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGMORPHON 2016 Shared Task—Morphological Reinflection</title>
+      <link>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

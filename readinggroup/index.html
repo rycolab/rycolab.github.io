@@ -1,0 +1,1142 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic ">
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Time: Fri 15-16h via Zoom
+Reading List   Date&emsp; Presenter(s) Topic Title Authors Bib&emsp;&emsp;     30/10 Marinela Pruning The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks Jonathan Frankle, Michael Carbin Cite   23/10 Afra Sampling without Replacement Incremental Sampling Without Replacement for Sequence Models Kensen Shi, David Bieber, Charles Sutton Cite   16/10 Shehzaad Critique of Leaderboards Utility is in the Eye of the User: A Critique of NLP Leaderboards Kawin Ethayarajh, Dan Jurafsky Cite   9/10 Jiaoda Dropout and Pruning Learning Sparse Networks Using Targeted Dropout Aidan N.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://rycolab.github.io/readinggroup/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#B0648B">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164386574-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-164386574-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu83f82bba91fc8623224ffe662d699efd_78958_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu83f82bba91fc8623224ffe662d699efd_78958_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://rycolab.github.io/readinggroup/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Rycolab">
+  <meta property="og:url" content="https://rycolab.github.io/readinggroup/">
+  <meta property="og:title" content="ETHZ&#43;&#43; NLP Reading Group | Rycolab">
+  <meta property="og:description" content="Time: Fri 15-16h via Zoom
+Reading List   Date&emsp; Presenter(s) Topic Title Authors Bib&emsp;&emsp;     30/10 Marinela Pruning The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks Jonathan Frankle, Michael Carbin Cite   23/10 Afra Sampling without Replacement Incremental Sampling Without Replacement for Sequence Models Kensen Shi, David Bieber, Charles Sutton Cite   16/10 Shehzaad Critique of Leaderboards Utility is in the Eye of the User: A Critique of NLP Leaderboards Kawin Ethayarajh, Dan Jurafsky Cite   9/10 Jiaoda Dropout and Pruning Learning Sparse Networks Using Targeted Dropout Aidan N."><meta property="og:image" content="https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  
+    
+    
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>ETHZ&#43;&#43; NLP Reading Group | Rycolab</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/js/load-theme.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_0x70_resize_lanczos_2.png" alt="Rycolab"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_0x70_resize_lanczos_2.png" alt="Rycolab"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Thesis Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#readinggroup"><span>Reading Group</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#joining"><span>Joining</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>ETHZ&#43;&#43; NLP Reading Group</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+<p><strong>Time:</strong> Fri 15-16h via Zoom</p>
+
+<h2 id="reading-list">Reading List</h2>
+
+<table class="table" style='word-wrap:break-word'>
+  <thead>
+    <tr>
+      <th scope="col" style='white-space:nowrap'>Date&emsp;</th>
+      <th scope="col" style='white-space:nowrap'>Presenter(s)</th>
+      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Title</th>
+      <th scope="col" style='white-space:nowrap'>Authors</th>
+      <th scope="col" style='white-space:nowrap'>Bib&emsp;&emsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">30/10</th>
+      <td>Marinela</td>
+      <td>Pruning</td>
+      <td><a href="https://arxiv.org/pdf/1803.03635.pdf">The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</a></td>
+      <td>Jonathan Frankle, Michael Carbin</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/frankle-2019-lottery.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">23/10</th>
+      <td>Afra</td>
+      <td>Sampling without Replacement</td>
+      <td><a href="https://arxiv.org/pdf/2002.09067.pdf">Incremental Sampling Without Replacement for Sequence Models</a></td>
+      <td>Kensen Shi, David Bieber, Charles Sutton</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/shi-swor-2020.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">16/10</th>
+      <td>Shehzaad</td>
+      <td>Critique of Leaderboards</td>
+      <td><a href="https://arxiv.org/pdf/2009.13888.pdf">Utility is in the Eye of the User: A Critique of NLP Leaderboards</a></td>
+      <td>Kawin Ethayarajh, Dan Jurafsky</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/ethayarajh-2020-utility.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">9/10</th>
+      <td>Jiaoda</td>
+      <td>Dropout and Pruning</td>
+      <td><a href="https://arxiv.org/abs/1905.13678">Learning Sparse Networks Using Targeted Dropout</a></td>
+      <td>Aidan N. Gomez, Ivan Zhang, Siddhartha Rao Kamalakara, Divyam Madaan, Kevin Swersky, Yarin Gal, Geoffrey E. Hinton</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/gomez-2020-dropout.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">2/10</th>
+      <td>Tiago</td>
+      <td>V-Information</td>
+      <td><a href="https://openreview.net/forum?id=r1eBeyHFDH">A Theory of Usable Information under Computational Constraints</a></td>
+      <td>Yilun Xu, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/xu-etal-2020-information.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">25/9</th>
+      <td>Tianyu</td>
+      <td>Coreference Resolution</td>
+      <td><a href="https://arxiv.org/abs/1707.07045">End-to-end Neural Coreference Resolution</a></td>
+      <td>Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/lee-etal-2017-end.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">18/9</th>
+      <td>Eleanor</td>
+      <td>Centering Theory</td>
+      <td><a href="https://www.aclweb.org/anthology/J95-2003/">Centering: A Framework for Modeling the Local Coherence of Discourse</a></td>
+      <td>Barbara J. Grosz, Aravind K. Joshi, Scott Weinstein</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/grosz-etal-1995-centering.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">2/7 - 23/7</th>
+      <td></td>
+      <td>Reinforcement Learning</td>
+      <td><a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus">Fundamentals of Reinforcement Learning</a></td>
+      <td>Martha White and Adam White</td>
+      <td></td>
+    </tr>
+      <tr>
+      <th scope="row">1/5</th>
+      <td></td>
+      <td>Bayesian Non-Parametrics</td>
+      <td><a href="http://links.jstor.org/sici?sici=0162-1459%28199506%2990%3A430%3C577%3ABDEAIU%3E2.0.CO%3B2-8">Bayesian density estimation and inference using mixtures</a></br>
+      <a href="http://links.jstor.org/sici?sici=1061-8600%28200006%299%3A2%3C249%3AMCSMFD%3E2.0.CO%3B2-R">Markov chain sampling methods for Dirichlet process mixture models</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">28/4</th>
+      <td></td>
+      <td>NLP Retrospective</td>
+      <td><a href="https://arxiv.org/pdf/2004.10151.pdf">Experience Grounds Language</a></br>
+        <a href="https://openreview.net/pdf?id=GKTvAcb12b">Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">24/4</th>
+      <td></td>
+      <td>Bayesian Non-Parametrics</td>
+      <td><a href="https://arxiv.org/pdf/1312.7857.pdf">Bayesian Models of Graphs, Arrays and Other Exchangeable Random Structures</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <th scope="row">17/4</th>
+      <td></td>
+      <td>Bayesian Non-Parametrics</td>
+      <td><a href="http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf">Lecture Notes on Bayesian Nonparametrics - Ch.6: Exchangeability</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">15/4</th>
+      <td></td>
+      <td>Probing</td>
+      <td><a href="https://arxiv.org/pdf/2003.12298.pdf">Information-Theoretic Probing with Minimum Description Length</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">14/4</th>
+      <td></td>
+      <td>Bayesian Non-Parametrics</td>
+      <td><a href="http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf">Lecture Notes on Bayesian Nonparametrics - Ch.2: Clustering and the Dirichlet Process</a></br>
+        <a href="http://web.stanford.edu/class/stats362/lec1.pdf">Stat 362: Bayesian Nonparametrics - Lecture 1</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.ead2eecd1015f645b5face39bb6390ca.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    Published with
+    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy Website Builder</a>
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

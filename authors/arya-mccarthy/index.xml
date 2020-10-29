@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arya McCarthy | Rycolab</title>
+    <link>https://rycolab.github.io/authors/arya-mccarthy/</link>
+      <atom:link href="https://rycolab.github.io/authors/arya-mccarthy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arya McCarthy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Arya McCarthy</title>
+      <link>https://rycolab.github.io/authors/arya-mccarthy/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Declension Class from Form and Meaning</title>
+      <link>https://rycolab.github.io/publication/williamsal-acl-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/williamsal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaning to Form: Measuring Systematicity as Information</title>
+      <link>https://rycolab.github.io/publication/pimentelal-acl-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/pimentelal-acl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniMorph 2.0: Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/kiroval-lrec-18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/kiroval-lrec-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
