@@ -44,9 +44,10 @@
 &lt;strong&gt;31.08&lt;/strong&gt; &amp;emsp; We are using piazza as our discussion forum. Please enroll &lt;a href=&#34;https://www.piazza.com/ethz.ch/fall2020/252300500l&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
 &lt;strong&gt;21.09&lt;/strong&gt; &amp;emsp; First lecture.&lt;br /&gt;
 &lt;strong&gt;30.09&lt;/strong&gt; &amp;emsp; First discussion section.&lt;br /&gt;
-&lt;strong&gt;16.10&lt;/strong&gt; &amp;emsp; &lt;a href=&#34;materials/project_guidelines.pdf&#34;&gt;Project guidelines&lt;/a&gt; released.&lt;br /&gt;
-&lt;strong&gt;23.10&lt;/strong&gt; &amp;emsp; &lt;a href=&#34;materials/assignment.pdf&#34;&gt;First part&lt;/a&gt; of course assignment released.&lt;br /&gt;
-&lt;strong&gt;1.11&lt;/strong&gt; &amp;emsp;&amp;ensp; Project proposals due for groups electing to do research project (submission instructions to come).&lt;/p&gt;
+&lt;strong&gt;16.10&lt;/strong&gt; &amp;emsp; &lt;a href=&#34;https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing&#34;&gt;Project guidelines&lt;/a&gt; released.&lt;br /&gt;
+&lt;strong&gt;23.10&lt;/strong&gt; &amp;emsp; &lt;a href=&#34;https://drive.google.com/file/d/1amwSapXHa-PkxIM45nRyK_jaTYeHtw2b/view?usp=sharing&#34;&gt;First part&lt;/a&gt; of course assignment released.&lt;br /&gt;
+&lt;strong&gt;1.11&lt;/strong&gt; &amp;emsp;&amp;ensp; Project proposals due for groups electing to do research project (submission instructions to come).&lt;br /&gt;
+&lt;strong&gt;4.11&lt;/strong&gt; &amp;emsp;&amp;ensp; &lt;a href=&#34;https://www.overleaf.com/read/vdpvbjpwrrvb&#34;&gt;LaTex template&lt;/a&gt; for course assignment released.&lt;/p&gt;
 
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
 
@@ -111,7 +112,7 @@
       &lt;th scope=&#34;row&#34;&gt;1&lt;/th&gt;
       &lt;td&gt;21.09.20&lt;/td&gt;
       &lt;td&gt;Introduction to Natural Language&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;slides/lecture1.pdf&#34;&gt;Lecture 1&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1QzLLQ5vEzMSG5T-FWaGSHwwHxiw-htD1/view?usp=sharing&#34;&gt;Lecture 1&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 1&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
@@ -119,7 +120,7 @@
       &lt;th scope=&#34;row&#34;&gt;2&lt;/th&gt;
       &lt;td&gt;28.09.20&lt;/td&gt;
       &lt;td&gt;Backpropagation&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;slides/lecture2.pdf&#34;&gt;Lecture 2&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1eK14-qNV7t6aZrrnLp3_4jCTFB-vFMEw/view?usp=sharing&#34;&gt;Lecture 2&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;
         &lt;a href=&#34;https://colah.github.io/posts/2015-08-Backprop/&#34;&gt;Chris Olah&amp;rsquo;s Blog&lt;/a&gt;&lt;/br&gt;
@@ -129,15 +130,15 @@
         &lt;a href=&#34;https://core.ac.uk/download/pdf/82480031.pdf&#34;&gt;Baur and Strassen (1983)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://www.amazon.co.uk/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&amp;keywords=griewank&amp;qid=1598888684&amp;s=books&amp;sr=1-1&#34;&gt;Griewank and Walter (2008)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf&#34;&gt;Eisner (2016)&lt;/a&gt;&lt;/br&gt;
-        &lt;a href=&#34;materials/mlp_comp_graph.pdf&#34;&gt;Computation Graph for MLP&lt;/a&gt;&lt;/br&gt;
-        &lt;a href=&#34;materials/comp_graph.pdf&#34;&gt;Computation Graph Example&lt;/a&gt;&lt;/td&gt;
+        &lt;a href=&#34;https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing&#34;&gt;Computation Graph for MLP&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing&#34;&gt;Computation Graph Example&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;3&lt;/th&gt;
       &lt;td&gt;5.10.20 &lt;/td&gt;
       &lt;td&gt;Log-Linear Modeling&amp;mdash;Meet the Softmax&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;slides/lecture3.pdf&#34;&gt;Lecture 3&lt;/a&gt;&lt;/br&gt;
-        &lt;a href=&#34;slides/log-linear-tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1lIyqnOTmHdBMaF7ZJGXK_1FAVoYcy4UU/view?usp=sharing&#34;&gt;Lecture 3&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://drive.google.com/file/d/1ZDzByTlWmnrM4xpFZc2FOVt_-JZQNoG-/view?usp=sharing&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 2&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf&#34;&gt;Ferraro and Eisner (2013)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;http://cs.jhu.edu/~jason/tutorials/loglin/further.html&#34;&gt;Jason Eisner’s list of further resources on log-linear modeling&lt;/a&gt;&lt;/td&gt;
@@ -146,8 +147,8 @@
       &lt;th scope=&#34;row&#34;&gt;4&lt;/th&gt;
       &lt;td&gt;12.10.20&lt;/td&gt;
       &lt;td&gt;Sentiment Analysis with Multi-layer Perceptrons&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;slides/lecture4.pdf&#34;&gt;Lecture 4&lt;/a&gt;&lt;/br&gt;
-        &lt;a href=&#34;slides/recnn-tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1wgVbAq5bpm-YGDHU0YCsB4JwM-5WZqRp/view?usp=sharing&#34;&gt;Lecture 4&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://drive.google.com/file/d/1s2i8M28bfVaVkM-YQs4Vv1ilJalqAuDn/view?usp=sharing&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 3 and Ch. 4&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 6&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_approximation_theorem&#34;&gt;Wikipedia&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&amp;rep=rep1&amp;type=pdf&#34;&gt;Cybenko (1989)&lt;/a&gt;&lt;/br&gt;
@@ -161,8 +162,8 @@
       &lt;th scope=&#34;row&#34;&gt;5&lt;/th&gt;
       &lt;td&gt;19.10.20&lt;/td&gt;
       &lt;td&gt;Language Modeling with &lt;em&gt;n&lt;/em&gt;-grams and LSTMs&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;slides/lecture5.pdf&#34;&gt;Lecture 5&lt;/a&gt;&lt;/br&gt;
-        &lt;a href=&#34;slides/lang-model-tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1oh3GCSaELhR9sbtmu2Ek_WKDUtD5LVdt/view?usp=sharing&#34;&gt;Lecture 5&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://drive.google.com/file/d/1bKJaHOZjvbYJgkssFmIi7Qaw6z1Otnxa/view?usp=sharing&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 6&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 10&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf&#34;&gt;Good Tutorial on n-gram smoothing&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation&#34;&gt;Good–Turing Smoothing&lt;/a&gt;&lt;/br&gt;
@@ -174,7 +175,8 @@
       &lt;th scope=&#34;row&#34;&gt;6&lt;/th&gt;
       &lt;td&gt;26.10.20&lt;/td&gt;
       &lt;td&gt;Part-of-Speech Tagging with CRFs&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;slides/lecture6.pdf&#34;&gt;Lecture 6&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1obhXXD9i_1sUMFXijYJ-Y5Rcmdb1su2Y/view?usp=sharing&#34;&gt;Lecture 6&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://drive.google.com/file/d/1obhXXD9i_1sUMFXijYJ-Y5Rcmdb1su2Y/view?usp=sharing&#34;&gt;Tutorial&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 7 and 8&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/&#34;&gt;Tim Vieira&amp;rsquo;s Blog&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://dl.acm.org/doi/10.5555/645529.658277&#34;&gt;McCallum et al. (2000)&lt;/a&gt;&lt;/br&gt;
@@ -185,6 +187,14 @@
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;7&lt;/th&gt;
       &lt;td&gt;2.11.20&lt;/td&gt;
+      &lt;td&gt;Review&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;8&lt;/th&gt;
+      &lt;td&gt;9.11.20&lt;/td&gt;
       &lt;td&gt;Context-Free Parsing with CKY&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 10&lt;/td&gt;
@@ -195,8 +205,8 @@
         &lt;a href=&#34;http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf&#34;&gt;Cocke and Schwartz (1970)&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;th scope=&#34;row&#34;&gt;8&lt;/th&gt;
-      &lt;td&gt;9.11.20&lt;/td&gt;
+      &lt;th scope=&#34;row&#34;&gt;9&lt;/th&gt;
+      &lt;td&gt;16.11.20&lt;/td&gt;
       &lt;td&gt;Dependency Parsing with the Matrix-Tree Theorem&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 11&lt;/td&gt;
@@ -204,15 +214,6 @@
         &lt;a href=&#34;https://www.aclweb.org/anthology/D07-1014/&#34;&gt;Smith and Smith (2007)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://www.aclweb.org/anthology/W07-2216/&#34;&gt;McDonald and Satta (2007)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002&#34;&gt;McDonald, Kübler and Nivre (2009)&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope=&#34;row&#34;&gt;9&lt;/th&gt;
-      &lt;td&gt;16.11.20&lt;/td&gt;
-      &lt;td&gt;Transliteration with WFSTs&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;Eisenstein Ch. 9&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/J98-4003.pdf&#34;&gt;Knight and Graehl (1998)&lt;/a&gt;&lt;/br&gt;
-        &lt;a href=&#34;https://cs.nyu.edu/~mohri/pub/hbka.pdf&#34;&gt;Mohri, Pereira and Riley (2008)&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;10&lt;/th&gt;
@@ -225,20 +226,21 @@
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;11&lt;/th&gt;
       &lt;td&gt;30.11.20&lt;/td&gt;
+      &lt;td&gt;Transliteration with WFSTs&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;Eisenstein Ch. 9&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/J98-4003.pdf&#34;&gt;Knight and Graehl (1998)&lt;/a&gt;&lt;/br&gt;
+        &lt;a href=&#34;https://cs.nyu.edu/~mohri/pub/hbka.pdf&#34;&gt;Mohri, Pereira and Riley (2008)&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;12&lt;/th&gt;
+      &lt;td&gt;7.12.20&lt;/td&gt;
       &lt;td&gt;Machine Translation with Transformers&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 18&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1108497322&amp;linkCode=as2&amp;tag=statismachint-20&amp;linkId=ca7b8315b48f309c992019761c3ac4e4&#34;&gt;Neural Machine Translation&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf&#34;&gt;Vaswani et al. (2017)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://www.aclweb.org/anthology/W18-2509/&#34;&gt;Rush (2018)&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th scope=&#34;row&#34;&gt;12&lt;/th&gt;
-      &lt;td&gt;7.12.20&lt;/td&gt;
-      &lt;td&gt;Axes of Modeling&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;13&lt;/th&gt;
@@ -258,9 +260,17 @@
 
 &lt;h2 id=&#34;course-project-assignment&#34;&gt;Course Project/Assignment&lt;/h2&gt;
 
-&lt;p&gt;Every student has the option of completing &lt;em&gt;either&lt;/em&gt; a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines &lt;a href=&#34;materials/project_guidelines.pdf&#34;&gt;here&lt;/a&gt;. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment &lt;a href=&#34;materials/assignment.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Every student has the option of completing &lt;em&gt;either&lt;/em&gt; a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines below. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment and the writeup template below.&lt;/p&gt;
 
 &lt;p&gt;Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email proposals to Clara (email address below) by the deadline. All projects/assigments will be due at the end of the semester.&lt;/p&gt;
+
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing&#34;&gt;Project Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1amwSapXHa-PkxIM45nRyK_jaTYeHtw2b/view?usp=sharing&#34;&gt;Course Assignment: Part 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com/read/vdpvbjpwrrvb&#34;&gt;Course Assignment LaTex Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 
