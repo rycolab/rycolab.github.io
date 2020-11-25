@@ -692,6 +692,14 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
+      &lt;th scope=&#34;row&#34;&gt;27/11&lt;/th&gt;
+      &lt;td&gt;Clara&lt;/td&gt;
+      &lt;td&gt;Mirror Descent&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://vene.ro/blog/mirror-descent.html&#34;&gt;Optimizing with constraints: reparametrization and geometry&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Vlad Niculae&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;th scope=&#34;row&#34;&gt;6/11&lt;/th&gt;
       &lt;td&gt;Sankalan&lt;/td&gt;
       &lt;td&gt;MC-Dropout&lt;/td&gt;
