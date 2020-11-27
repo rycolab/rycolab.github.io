@@ -357,7 +357,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -366,7 +366,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -409,7 +409,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -696,7 +696,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -966,6 +966,14 @@
     <tr>
       <th scope="row">8</th>
       <td>9.11.20</td>
+      <td>Class canceled</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>16.11.20</td>
       <td>Context-Free Parsing with CKY</td>
       <td><a href="https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view">Lecture 8</a></td>
       <td>Eisenstein Ch. 10</td>
@@ -974,17 +982,6 @@
         <a href="https://www.ideals.illinois.edu/handle/2142/74304">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf">Cocke and Schwartz (1970)</a></td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>16.11.20</td>
-      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td></td>
-      <td>Eisenstein Ch. 11</td>
-      <td><a href="https://www.aclweb.org/anthology/D07-1015/">Koo et al. (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
-        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -997,6 +994,17 @@
     <tr>
       <th scope="row">11</th>
       <td>30.11.20</td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td></td>
+      <td>Eisenstein Ch. 11</td>
+      <td><a href="https://www.aclweb.org/anthology/D07-1015/">Koo et al. (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
+        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>TBA</td>
       <td>Transliteration with WFSTs</td>
       <td></td>
       <td>Eisenstein Ch. 9</td>
@@ -1005,7 +1013,7 @@
     </tr>
     <tr>
       <th scope="row">12</th>
-      <td>7.12.20</td>
+      <td>TBA</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td>Eisenstein Ch. 18</td>
@@ -1132,13 +1140,13 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1246,7 +1254,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1256,10 +1264,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>
