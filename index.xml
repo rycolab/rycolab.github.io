@@ -855,7 +855,7 @@
 * 70% Final Exam&lt;br /&gt;
 * 30% Course Project/Assignment&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Mon 12-14h Zoom (link to be emailed and posted on piazza day of lecture)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lectures:&lt;/strong&gt; Mon 12-14h Zoom (recurring link, same password as previous lectures: &lt;a href=&#34;https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09&#34;&gt;https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Discussion Sections:&lt;/strong&gt; Wednesday 13-14h Zoom (link to be emailed and posted on piazza day of discussion)&lt;/p&gt;
 
@@ -872,7 +872,8 @@
 &lt;strong&gt;23.10&lt;/strong&gt; &amp;emsp; &lt;a href=&#34;https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing&#34;&gt;First part&lt;/a&gt; of course assignment released.&lt;br /&gt;
 &lt;strong&gt;1.11&lt;/strong&gt; &amp;emsp;&amp;ensp; Project proposals due for groups electing to do research project (submission instructions to come).&lt;br /&gt;
 &lt;strong&gt;4.11&lt;/strong&gt; &amp;emsp;&amp;ensp; &lt;a href=&#34;https://www.overleaf.com/read/vdpvbjpwrrvb&#34;&gt;LaTex template&lt;/a&gt; for course assignment released.&lt;br /&gt;
-&lt;strong&gt;30.11&lt;/strong&gt; &amp;emsp; Makeup class to be held on last Friday of semester (18.12).&lt;/p&gt;
+&lt;strong&gt;30.11&lt;/strong&gt; &amp;emsp; Makeup class to be held on last Friday of semester (18.12).&lt;br /&gt;
+&lt;strong&gt;11.12&lt;/strong&gt; &amp;emsp; Progress report for class project is due.&lt;/p&gt;
 
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
 
@@ -1029,7 +1030,7 @@
       &lt;th scope=&#34;row&#34;&gt;9&lt;/th&gt;
       &lt;td&gt;16.11.20&lt;/td&gt;
       &lt;td&gt;Context-Free Parsing with CKY&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view&#34;&gt;Lecture 8&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view&#34;&gt;Lecture 7&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 10&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;http://www.cs.columbia.edu/~mcollins/io.pdf&#34;&gt;The Inside-Outside Algorithm&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt&#34;&gt;Jason Eisner’s Slides&lt;/a&gt;&lt;/br&gt;
@@ -1049,7 +1050,7 @@
       &lt;th scope=&#34;row&#34;&gt;11&lt;/th&gt;
       &lt;td&gt;30.11.20&lt;/td&gt;
       &lt;td&gt;Dependency Parsing with the Matrix-Tree Theorem&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1OpcMu9K69zXt2KhaKvozaOQK9O-hKxj9/view?usp=sharing&#34;&gt;Lecture 8&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 11&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.aclweb.org/anthology/D07-1015/&#34;&gt;Koo et al. (2007)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://www.aclweb.org/anthology/D07-1014/&#34;&gt;Smith and Smith (2007)&lt;/a&gt;&lt;/br&gt;
@@ -1095,7 +1096,7 @@
 
 &lt;p&gt;Every student has the option of completing &lt;em&gt;either&lt;/em&gt; a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines below. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment and the writeup template below.&lt;/p&gt;
 
-&lt;p&gt;Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email proposals to Clara (email address below) by the deadline. All projects/assigments will be due at the end of the semester.&lt;/p&gt;
+&lt;p&gt;Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due &lt;strong&gt;December 11, 2020 23:59 CEST&lt;/strong&gt;. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. All projects/assigments will be due at the end of the semester.&lt;/p&gt;
 
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
 
