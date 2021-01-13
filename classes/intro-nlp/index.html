@@ -357,7 +357,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -366,7 +366,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -409,7 +409,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -696,7 +696,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -799,7 +799,7 @@
 <h4 id="grading">Grading</h4>
 
 <p>Marks for the course will be determined by the following formula:<br />
-* 70% Final Exam  (Feb. 17, 2021; One A4 sheet of handwritten notes will be permitted)
+* 70% Final Exam  (Feb. 17, 2021; no notes allowed)
 * 30% Course Project/Assignment</p>
 
 <p><strong>Lectures:</strong> Mon 12-14h Zoom (recurring link, same password as previous lectures: <a href="https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09">https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09</a>)</p>
@@ -821,7 +821,8 @@
 <strong>4.11</strong> &emsp;&ensp; <a href="https://www.overleaf.com/read/vdpvbjpwrrvb">LaTex template</a> for course assignment released.<br />
 <strong>30.11</strong> &emsp; Makeup class to be held on last Friday of semester (18.12).<br />
 <strong>11.12</strong> &emsp; Progress report for class project is due.<br />
-<strong>14.12</strong> &emsp; <a href="https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing">Second part</a> of course assignment released.</p>
+<strong>14.12</strong> &emsp; <a href="https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing">Second part</a> of course assignment released.<br />
+<strong>13.01</strong> &emsp; <strong>Due to ETH policy, students are not allowed to bring addtional material, e.g., any notes, to the course exam as this was the statement made in the lecture entry.</strong></p>
 
 <h2 id="syllabus">Syllabus</h2>
 
@@ -1048,7 +1049,7 @@
 
 <p>If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline.</p>
 
-<p>The writeup for all projects/assigments will be due on <strong>January 15, 2021</strong>. Groups completing the project must additionally create a presentation, pre-record it, and submit on the week of January 18, 2021 (details TBA); writeups can be sent to your assigned TA. For those doing the assignment, you should email both portions in the same document to the TAs (addresses are in the contact info below) <strong>using the following subject line</strong>: [penguins on a hot summer&rsquo;s day]. You&rsquo;re nethz id and legi number should be written in the submitted document.</p>
+<p>The writeup for all projects/assigments will be due on <strong>January 15, 2021</strong>. Groups completing the project must additionally create a presentation, pre-record it, and submit to your assigned TA on <strong>January 18, 2021</strong>; writeups can be sent to your assigned TA. For those doing the assignment, you should email both portions in the same document to the TAs (addresses are in the contact info below) <strong>using the following subject line</strong>: [penguins on a hot summer&rsquo;s day]. Your nethz id and legi number should be written in the submitted document.</p>
 
 <h2 id="materials">Materials</h2>
 
@@ -1148,13 +1149,13 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1262,7 +1263,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1272,10 +1273,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>
