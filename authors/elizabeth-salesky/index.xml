@@ -5,12 +5,20 @@
     <link>https://rycolab.github.io/authors/elizabeth-salesky/</link>
       <atom:link href="https://rycolab.github.io/authors/elizabeth-salesky/index.xml" rel="self" type="application/rss+xml" />
     <description>Elizabeth Salesky</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Elizabeth Salesky</title>
       <link>https://rycolab.github.io/authors/elizabeth-salesky/</link>
     </image>
+    
+    <item>
+      <title>SIGTYP 2020 Shared Task: Prediction of Typological Features</title>
+      <link>https://rycolab.github.io/publication/bjervaal-sigtyp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bjervaal-sigtyp-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Corpus for Large-Scale Phonetic Typology</title>
@@ -25,6 +33,14 @@
       <link>https://rycolab.github.io/publication/meisteral-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/publication/meisteral-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection</title>
+      <link>https://rycolab.github.io/publication/vylomovaal-sigm-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vylomovaal-sigm-20/</guid>
       <description></description>
     </item>
     

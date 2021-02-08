@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cassandra L. Jacobs | Rycolab</title>
+    <link>https://rycolab.github.io/authors/cassandra-l.-jacobs/</link>
+      <atom:link href="https://rycolab.github.io/authors/cassandra-l.-jacobs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cassandra L. Jacobs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Cassandra L. Jacobs</title>
+      <link>https://rycolab.github.io/authors/cassandra-l.-jacobs/</link>
+    </image>
+    
+    <item>
+      <title>UniMorph 3.0: Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-lrec-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-lrec-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://rycolab.github.io/publication_types/1/</link>
       <atom:link href="https://rycolab.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://rycolab.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Morphologically Aware Word-Level Translation</title>
+      <link>https://rycolab.github.io/publication/czarnowskaal-coling-20/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/czarnowskaal-coling-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation</title>
@@ -69,6 +77,14 @@
     </item>
     
     <item>
+      <title>SIGTYP 2020 Shared Task: Prediction of Typological Features</title>
+      <link>https://rycolab.github.io/publication/bjervaal-sigtyp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/bjervaal-sigtyp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speakers Fill Semantic Gaps with Context</title>
       <link>https://rycolab.github.io/publication/pimentel-2-al-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
@@ -117,6 +133,14 @@
     </item>
     
     <item>
+      <title>Metaphor Detection Using Context and Concreteness</title>
+      <link>https://rycolab.github.io/publication/hall-maudslayal-wflp-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/hall-maudslayal-wflp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Declension Class from Form and Meaning</title>
       <link>https://rycolab.github.io/publication/williamsal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -125,10 +149,34 @@
     </item>
     
     <item>
+      <title>SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection</title>
+      <link>https://rycolab.github.io/publication/vylomovaal-sigm-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vylomovaal-sigm-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Paradigm Discovery Problem</title>
       <link>https://rycolab.github.io/publication/erdmannal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://rycolab.github.io/publication/erdmannal-acl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMORPHON 2020 Task 0 System Description: ETH Zürich Team</title>
+      <link>https://rycolab.github.io/publication/forstermeister-sigm-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/forstermeister-sigm-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniMorph 3.0: Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-lrec-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-lrec-20/</guid>
       <description></description>
     </item>
     

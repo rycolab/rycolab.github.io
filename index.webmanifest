@@ -2,8 +2,8 @@
   "name": "Rycolab",
   "short_name": "Rycolab",
   "lang": "en-us",
-  "theme_color": "#B0648B",
-  "background_color": "#B0648B",
+  "theme_color": "#0e629e",
+  "background_color": "#0e629e",
   "icons": [{
     "src": "/images/icon_hu83f82bba91fc8623224ffe662d699efd_78958_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

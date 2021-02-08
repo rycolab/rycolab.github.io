@@ -5,12 +5,28 @@
     <link>https://rycolab.github.io/authors/christo-kirov/</link>
       <atom:link href="https://rycolab.github.io/authors/christo-kirov/index.xml" rel="self" type="application/rss+xml" />
     <description>Christo Kirov</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Christo Kirov</title>
       <link>https://rycolab.github.io/authors/christo-kirov/</link>
     </image>
+    
+    <item>
+      <title>SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection</title>
+      <link>https://rycolab.github.io/publication/vylomovaal-sigm-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/vylomovaal-sigm-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniMorph 3.0: Universal Morphology</title>
+      <link>https://rycolab.github.io/publication/mccarthyal-lrec-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.github.io/publication/mccarthyal-lrec-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
