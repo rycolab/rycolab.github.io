@@ -1270,7 +1270,7 @@
       &lt;th scope=&#34;row&#34;&gt;2&lt;/th&gt;
       &lt;td&gt;03.03.21&lt;/td&gt;
       &lt;td&gt;Backpropagation&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing&#34;&gt;Lecture 2&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;/td&gt;
       &lt;td&gt;
         &lt;a href=&#34;https://colah.github.io/posts/2015-08-Backprop/&#34;&gt;Chris Olah&#39;s Blog&lt;/a&gt;&lt;/br&gt;
@@ -1287,7 +1287,7 @@
       &lt;th scope=&#34;row&#34;&gt;3&lt;/th&gt;
       &lt;td&gt;10.03.21 &lt;/td&gt;
       &lt;td&gt;Log-Linear Modeling---Meet the Softmax&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing&#34;&gt;Lecture 3&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 2&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf&#34;&gt;Ferraro and Eisner (2013)&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;http://cs.jhu.edu/~jason/tutorials/loglin/further.html&#34;&gt;Jason Eisner’s list of further resources on log-linear modeling&lt;/a&gt;&lt;/td&gt;
@@ -1296,7 +1296,7 @@
       &lt;th scope=&#34;row&#34;&gt;4&lt;/th&gt;
       &lt;td&gt;17.03.21&lt;/td&gt;
       &lt;td&gt;Sentiment Analysis with Multi-layer Perceptrons&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing&#34;&gt;Lecture 4&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 3 and Ch. 4&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 6&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Universal_approximation_theorem&#34;&gt;Wikipedia&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&amp;rep=rep1&amp;type=pdf&#34;&gt;Cybenko (1989)&lt;/a&gt;&lt;/br&gt;
@@ -1310,7 +1310,7 @@
       &lt;th scope=&#34;row&#34;&gt;5&lt;/th&gt;
       &lt;td&gt;24.03.21&lt;/td&gt;
       &lt;td&gt;Language Modeling with *n*-grams and LSTMs&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing&#34;&gt;Lecture 5&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 6&lt;/br&gt;Goodfellow, Bengio and Courville Ch. 10&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf&#34;&gt;Good Tutorial on n-gram smoothing&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation&#34;&gt;Good–Turing Smoothing&lt;/a&gt;&lt;/br&gt;
@@ -1322,7 +1322,7 @@
       &lt;th scope=&#34;row&#34;&gt;6&lt;/th&gt;
       &lt;td&gt;31.03.21&lt;/td&gt;
       &lt;td&gt;Part-of-Speech Tagging with CRFs&lt;/td&gt;
-      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/16jvZdoMmr4SAUKJaN3PeDi-nlWF82_xF/view?usp=sharing&#34;&gt;Lecture 6&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Eisenstein Ch. 7 and 8&lt;/td&gt;
       &lt;td&gt;&lt;a href=&#34;https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/&#34;&gt;Tim Vieira&#39;s Blog&lt;/a&gt;&lt;/br&gt;
         &lt;a href=&#34;https://dl.acm.org/doi/10.5555/645529.658277&#34;&gt;McCallum et al. (2000)&lt;/a&gt;&lt;/br&gt;
