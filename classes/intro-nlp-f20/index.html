@@ -340,7 +340,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class=" ">
 
   
   
@@ -357,7 +357,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -366,7 +366,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -409,7 +409,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -696,7 +696,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -712,41 +712,29 @@
 
 
 
-  <article class="article">
-
   
-
-
-
-
-
-
-
-
+<span class="js-widget-page d-none"></span>
 
 
 
 
 
   
-
   
   
-  
-<div class="article-container pt-3">
-  <h1>Natural Language Processing, Autumn 2020</h1>
-
-  
-  <p class="page-subtitle">ETH Zürich, Autumn 2020: <a href="http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&amp;lang=de&amp;ansicht=EINSCHRAENKUNGEN&amp;lerneinheitId=141758">Course catalog</a></p>
   
 
-  
-    
 
 
-<div class="article-metadata">
 
   
+  
+  
+
+  
+
+  
+
   
 
   
@@ -758,37 +746,38 @@
 
   
   
+
+  
+  
+  
+
+  
+  
+  
+  
   
 
   
   
 
-</div>
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
   
-</div>
+  
 
-
-
-  <div class="article-container">
-
-    <div class="article-style">
+  <section id="main" class="home-section wg-blank   "  >
+    <div class="container">
       
+
+
+
+<div class="row">
+  
+    
+      <div class="col-lg-12">
+        <h1>Natural Language Processing, Autumn 2020</h1>
+        <p>ETH Zürich, Autumn 2020: <a href="http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&amp;lang=de&amp;ansicht=EINSCHRAENKUNGEN&amp;lerneinheitId=141758">Course catalog</a></p>
+        
 
 <h2 id="course-description">Course Description</h2>
 
@@ -836,12 +825,7 @@
 
 
 
-  
 
-
-
-  
-  
 
 
 
@@ -856,10 +840,10 @@
 <figure >
 
 
-  <a data-fancybox="" href="/classes/intro-nlp-f20/roller-coaster_hu4858935a858db53d3a5f68c44ca972c4_671304_2000x2000_fit_lanczos_2.png" >
+  <a data-fancybox="" href="roller-coaster.png" >
 
 
-  <img data-src="/classes/intro-nlp-f20/roller-coaster_hu4858935a858db53d3a5f68c44ca972c4_671304_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="40%" height="842">
+  <img src="roller-coaster.png" alt="" width="40%" >
 </a>
 
 
@@ -1082,35 +1066,15 @@
   </tbody>
 </table>
 
+      </div>
+      
+  
+</div>
+
     </div>
-
-    
-
+  </section>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-</article>
 
       
 
@@ -1153,13 +1117,13 @@
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -1267,7 +1231,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1277,10 +1241,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>
