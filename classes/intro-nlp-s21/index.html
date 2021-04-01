@@ -357,7 +357,7 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1></h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -366,7 +366,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="" autocapitalize="off"
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
@@ -409,7 +409,7 @@
 
     
     <button type="button" class="navbar-toggler" data-toggle="collapse"
-            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="">
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
     
@@ -696,7 +696,7 @@
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label=""><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
       
 
@@ -807,7 +807,8 @@
 <strong>24.02</strong> &emsp; First lecture.<br />
 <strong>03.03</strong> &emsp; <a href="https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing" target="_blank">Project guidelines</a> released.<br />
 <strong>04.03</strong> &emsp; First discussion section.<br />
-<strong>31.03</strong> &emsp; Project proposals due.</p>
+<strong>31.03</strong> &emsp; Project proposals due.<br />
+<strong>01.04</strong> &emsp; <a href="https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing" target="_blank">Assignment Part 1</a> released (draft).</p>
 
 <h2 id="syllabus">Syllabus</h2>
 
@@ -1010,6 +1011,7 @@
 
 <ul>
 <li><a href="https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing" target="_blank">Project Guidelines</a></li>
+<li><a href="https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing" target="_blank">Assignment Part 1</a> (draft)</li>
 </ul>
 
 <!-- ### Submission Instructions
@@ -2024,13 +2026,13 @@ The writeup for all projects/assigments will be due on **January 15, 2021**. Gro
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"","placeholder":"","results":""};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
-        'post': "",
-        'project': "",
-        'publication' : "",
-        'talk' : "",
-        'slides' : ""
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Events",
+        'slides' : "Slides"
         };
     </script>
     
@@ -2138,7 +2140,7 @@ The writeup for all projects/assigments will be due on **January 15, 2021**. Gro
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title"></h5>
+        <h5 class="modal-title">Cite</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -2148,10 +2150,10 @@ The writeup for all projects/assigments will be due on **January 15, 2021**. Gro
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> 
+          <i class="fas fa-copy"></i> Copy
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> 
+          <i class="fas fa-download"></i> Download
         </a>
         <div id="modal-error"></div>
       </div>
