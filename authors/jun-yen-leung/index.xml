@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jun Yen Leung | Rycolab</title>
-    <link>https://rycolab.github.io/authors/jun-yen-leung/</link>
-      <atom:link href="https://rycolab.github.io/authors/jun-yen-leung/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/authors/jun-yen-leung/</link>
+      <atom:link href="https://rycolab.io/authors/jun-yen-leung/index.xml" rel="self" type="application/rss+xml" />
     <description>Jun Yen Leung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Jun Yen Leung</title>
-      <link>https://rycolab.github.io/authors/jun-yen-leung/</link>
+      <link>https://rycolab.io/authors/jun-yen-leung/</link>
     </image>
     
     <item>
       <title>Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model</title>
-      <link>https://rycolab.github.io/publication/leungal-emnlp-20/</link>
+      <link>https://rycolab.io/publication/leungal-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/leungal-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/leungal-emnlp-20/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arun Kumar | Rycolab</title>
-    <link>https://rycolab.github.io/authors/arun-kumar/</link>
-      <atom:link href="https://rycolab.github.io/authors/arun-kumar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/authors/arun-kumar/</link>
+      <atom:link href="https://rycolab.io/authors/arun-kumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Arun Kumar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Arun Kumar</title>
-      <link>https://rycolab.github.io/authors/arun-kumar/</link>
+      <link>https://rycolab.io/authors/arun-kumar/</link>
     </image>
     
     <item>
       <title>Morphological Analysis of the Dravidian Language Family</title>
-      <link>https://rycolab.github.io/publication/kumaral-eacl-17/</link>
+      <link>https://rycolab.io/publication/kumaral-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kumaral-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/kumaral-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Segmentation Inside-Out</title>
-      <link>https://rycolab.github.io/publication/cotterellal-emnlp-16/</link>
+      <link>https://rycolab.io/publication/cotterellal-emnlp-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-16/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-emnlp-16/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nanyun Peng | Rycolab</title>
-    <link>https://rycolab.github.io/authors/nanyun-peng/</link>
-      <atom:link href="https://rycolab.github.io/authors/nanyun-peng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/authors/nanyun-peng/</link>
+      <atom:link href="https://rycolab.io/authors/nanyun-peng/index.xml" rel="self" type="application/rss+xml" />
     <description>Nanyun Peng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Nanyun Peng</title>
-      <link>https://rycolab.github.io/authors/nanyun-peng/</link>
+      <link>https://rycolab.io/authors/nanyun-peng/</link>
     </image>
     
     <item>
       <title>Dual Decomposition Inference for Graphical Models over Strings</title>
-      <link>https://rycolab.github.io/publication/pengal-emnlp-15/</link>
+      <link>https://rycolab.io/publication/pengal-emnlp-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pengal-emnlp-15/</guid>
+      <guid>https://rycolab.io/publication/pengal-emnlp-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Word Forms Using Latent Underlying Morphs and Phonology</title>
-      <link>https://rycolab.github.io/publication/cotterellal-tacl-15/</link>
+      <link>https://rycolab.io/publication/cotterellal-tacl-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-tacl-15/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-tacl-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Contextual Edit Distance and Probabilistic FSTs</title>
-      <link>https://rycolab.github.io/publication/cotterellal-acl-14/</link>
+      <link>https://rycolab.io/publication/cotterellal-acl-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-acl-14/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-acl-14/</guid>
       <description></description>
     </item>
     

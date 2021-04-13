@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pamela Shapiro | Rycolab</title>
-    <link>https://rycolab.github.io/authors/pamela-shapiro/</link>
-      <atom:link href="https://rycolab.github.io/authors/pamela-shapiro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/authors/pamela-shapiro/</link>
+      <atom:link href="https://rycolab.io/authors/pamela-shapiro/index.xml" rel="self" type="application/rss+xml" />
     <description>Pamela Shapiro</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Pamela Shapiro</title>
-      <link>https://rycolab.github.io/authors/pamela-shapiro/</link>
+      <link>https://rycolab.io/authors/pamela-shapiro/</link>
     </image>
     
     <item>
       <title>Hard Non-Monotonic Attention for Character-Level Transduction</title>
-      <link>https://rycolab.github.io/publication/wual-emnlp-18/</link>
+      <link>https://rycolab.io/publication/wual-emnlp-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/wual-emnlp-18/</guid>
+      <guid>https://rycolab.io/publication/wual-emnlp-18/</guid>
       <description></description>
     </item>
     

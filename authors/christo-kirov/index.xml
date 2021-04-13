@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christo Kirov | Rycolab</title>
-    <link>https://rycolab.github.io/authors/christo-kirov/</link>
-      <atom:link href="https://rycolab.github.io/authors/christo-kirov/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/authors/christo-kirov/</link>
+      <atom:link href="https://rycolab.io/authors/christo-kirov/index.xml" rel="self" type="application/rss+xml" />
     <description>Christo Kirov</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Christo Kirov</title>
-      <link>https://rycolab.github.io/authors/christo-kirov/</link>
+      <link>https://rycolab.io/authors/christo-kirov/</link>
     </image>
     
     <item>
       <title>SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection</title>
-      <link>https://rycolab.github.io/publication/vylomovaal-sigm-20/</link>
+      <link>https://rycolab.io/publication/vylomovaal-sigm-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/vylomovaal-sigm-20/</guid>
+      <guid>https://rycolab.io/publication/vylomovaal-sigm-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniMorph 3.0: Universal Morphology</title>
-      <link>https://rycolab.github.io/publication/mccarthyal-lrec-20/</link>
+      <link>https://rycolab.io/publication/mccarthyal-lrec-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/mccarthyal-lrec-20/</guid>
+      <guid>https://rycolab.io/publication/mccarthyal-lrec-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
-      <link>https://rycolab.github.io/publication/mccarthyal-tacl-19/</link>
+      <link>https://rycolab.io/publication/mccarthyal-tacl-19/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/mccarthyal-tacl-19/</guid>
+      <guid>https://rycolab.io/publication/mccarthyal-tacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Complexity and Typology of Inflectional Morphological Systems</title>
-      <link>https://rycolab.github.io/publication/cotterellal-tacl-19/</link>
+      <link>https://rycolab.io/publication/cotterellal-tacl-19/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-tacl-19/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-tacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection</title>
-      <link>https://rycolab.github.io/publication/cotterellal-conll-18/</link>
+      <link>https://rycolab.io/publication/cotterellal-conll-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-conll-18/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-conll-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Disambiguation of Syncretism in Inflected Lexicons</title>
-      <link>https://rycolab.github.io/publication/cotterellal-naacl-18-b/</link>
+      <link>https://rycolab.io/publication/cotterellal-naacl-18-b/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-naacl-18-b/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-naacl-18-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniMorph 2.0: Universal Morphology</title>
-      <link>https://rycolab.github.io/publication/kiroval-lrec-18/</link>
+      <link>https://rycolab.io/publication/kiroval-lrec-18/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kiroval-lrec-18/</guid>
+      <guid>https://rycolab.io/publication/kiroval-lrec-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Diachronic Stability of Irregularity in Inflectional Morphology</title>
-      <link>https://rycolab.github.io/publication/cotterellal-arxiv-18/</link>
+      <link>https://rycolab.io/publication/cotterellal-arxiv-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-arxiv-18/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-arxiv-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate</title>
-      <link>https://rycolab.github.io/publication/kirovcotterell-tacl-18/</link>
+      <link>https://rycolab.io/publication/kirovcotterell-tacl-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kirovcotterell-tacl-18/</guid>
+      <guid>https://rycolab.io/publication/kirovcotterell-tacl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paradigm Completion for Derivational Morphology</title>
-      <link>https://rycolab.github.io/publication/cotterellal-emnlp-17/</link>
+      <link>https://rycolab.io/publication/cotterellal-emnlp-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-emnlp-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CoNLL--SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages</title>
-      <link>https://rycolab.github.io/publication/cotterellal-conll-17/</link>
+      <link>https://rycolab.io/publication/cotterellal-conll-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-conll-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-conll-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Rich Morphological Tagger for English: Exploring the Cross-Linguistic Tradeoff Between Morphology and Syntax</title>
-      <link>https://rycolab.github.io/publication/kiroval-eacl-17/</link>
+      <link>https://rycolab.io/publication/kiroval-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kiroval-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/kiroval-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Graphical Models over Strings for Principal Parts Morphological Paradigm Completion</title>
-      <link>https://rycolab.github.io/publication/cotterellala-eacl-17/</link>
+      <link>https://rycolab.io/publication/cotterellala-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellala-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellala-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The SIGMORPHON 2016 Shared Task—Morphological Reinflection</title>
-      <link>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</link>
+      <link>https://rycolab.io/publication/cotterellal-sigmorphon-16/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-sigmorphon-16/</guid>
       <description></description>
     </item>
     

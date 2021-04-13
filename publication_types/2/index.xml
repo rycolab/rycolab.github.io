@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Rycolab</title>
-    <link>https://rycolab.github.io/publication_types/2/</link>
-      <atom:link href="https://rycolab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/publication_types/2/</link>
+      <atom:link href="https://rycolab.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>2</title>
-      <link>https://rycolab.github.io/publication_types/2/</link>
+      <link>https://rycolab.io/publication_types/2/</link>
     </image>
     
     <item>
       <title>Best-First Beam Search</title>
-      <link>https://rycolab.github.io/publication/meisteral-tacl-20/</link>
+      <link>https://rycolab.io/publication/meisteral-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/meisteral-tacl-20/</guid>
+      <guid>https://rycolab.io/publication/meisteral-tacl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Computation of Expectations under Spanning Tree Distributions</title>
-      <link>https://rycolab.github.io/publication/zmigrodal-tacl-20/</link>
+      <link>https://rycolab.io/publication/zmigrodal-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/zmigrodal-tacl-20/</guid>
+      <guid>https://rycolab.io/publication/zmigrodal-tacl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs</title>
-      <link>https://rycolab.github.io/publication/williamsal-tacl-20/</link>
+      <link>https://rycolab.io/publication/williamsal-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/williamsal-tacl-20/</guid>
+      <guid>https://rycolab.io/publication/williamsal-tacl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages</title>
-      <link>https://rycolab.github.io/publication/pontial-tacl-20/</link>
+      <link>https://rycolab.io/publication/pontial-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pontial-tacl-20/</guid>
+      <guid>https://rycolab.io/publication/pontial-tacl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phonotactic Complexity and its Trade-offs</title>
-      <link>https://rycolab.github.io/publication/pimentelal-tacl-20/</link>
+      <link>https://rycolab.io/publication/pimentelal-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pimentelal-tacl-20/</guid>
+      <guid>https://rycolab.io/publication/pimentelal-tacl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Complexity and Typology of Inflectional Morphological Systems</title>
-      <link>https://rycolab.github.io/publication/cotterellal-tacl-19/</link>
+      <link>https://rycolab.io/publication/cotterellal-tacl-19/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-tacl-19/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-tacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Semantic Synthesis and Morphological Analysis of the Derived Word</title>
-      <link>https://rycolab.github.io/publication/cotterellschuetze-tacl-18/</link>
+      <link>https://rycolab.io/publication/cotterellschuetze-tacl-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellschuetze-tacl-18/</guid>
+      <guid>https://rycolab.io/publication/cotterellschuetze-tacl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate</title>
-      <link>https://rycolab.github.io/publication/kirovcotterell-tacl-18/</link>
+      <link>https://rycolab.io/publication/kirovcotterell-tacl-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kirovcotterell-tacl-18/</guid>
+      <guid>https://rycolab.io/publication/kirovcotterell-tacl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Word Forms Using Latent Underlying Morphs and Phonology</title>
-      <link>https://rycolab.github.io/publication/cotterellal-tacl-15/</link>
+      <link>https://rycolab.io/publication/cotterellal-tacl-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-tacl-15/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-tacl-15/</guid>
       <description></description>
     </item>
     

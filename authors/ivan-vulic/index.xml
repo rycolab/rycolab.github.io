@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ivan Vulić | Rycolab</title>
-    <link>https://rycolab.github.io/authors/ivan-vulic/</link>
-      <atom:link href="https://rycolab.github.io/authors/ivan-vulic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/authors/ivan-vulic/</link>
+      <atom:link href="https://rycolab.io/authors/ivan-vulic/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivan Vulić</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Ivan Vulić</title>
-      <link>https://rycolab.github.io/authors/ivan-vulic/</link>
+      <link>https://rycolab.io/authors/ivan-vulic/</link>
     </image>
     
     <item>
       <title>Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages</title>
-      <link>https://rycolab.github.io/publication/pontial-tacl-20/</link>
+      <link>https://rycolab.io/publication/pontial-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pontial-tacl-20/</guid>
+      <guid>https://rycolab.io/publication/pontial-tacl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Zero-Shot Language Modeling</title>
-      <link>https://rycolab.github.io/publication/pontial-emnlp-ijcnlp-19/</link>
+      <link>https://rycolab.io/publication/pontial-emnlp-ijcnlp-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pontial-emnlp-ijcnlp-19/</guid>
+      <guid>https://rycolab.io/publication/pontial-emnlp-ijcnlp-19/</guid>
       <description></description>
     </item>
     

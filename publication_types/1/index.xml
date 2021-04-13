@@ -2,629 +2,629 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Rycolab</title>
-    <link>https://rycolab.github.io/publication_types/1/</link>
-      <atom:link href="https://rycolab.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rycolab.io/publication_types/1/</link>
+      <atom:link href="https://rycolab.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.github.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>1</title>
-      <link>https://rycolab.github.io/publication_types/1/</link>
+      <link>https://rycolab.io/publication_types/1/</link>
     </image>
     
     <item>
       <title>Morphologically Aware Word-Level Translation</title>
-      <link>https://rycolab.github.io/publication/czarnowskaal-coling-20/</link>
+      <link>https://rycolab.io/publication/czarnowskaal-coling-20/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/czarnowskaal-coling-20/</guid>
+      <guid>https://rycolab.io/publication/czarnowskaal-coling-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation</title>
-      <link>https://rycolab.github.io/publication/palomocotterell-emnlp-20/</link>
+      <link>https://rycolab.io/publication/palomocotterell-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/palomocotterell-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/palomocotterell-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>If Beam Search is the Answer, What was the Question?</title>
-      <link>https://rycolab.github.io/publication/meisteral-emnlp-20/</link>
+      <link>https://rycolab.io/publication/meisteral-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/meisteral-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/meisteral-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intrinsic Probing through Dimension Selection</title>
-      <link>https://rycolab.github.io/publication/hennigenal-emnlp-20/</link>
+      <link>https://rycolab.io/publication/hennigenal-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/hennigenal-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/hennigenal-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model</title>
-      <link>https://rycolab.github.io/publication/leungal-emnlp-20/</link>
+      <link>https://rycolab.io/publication/leungal-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/leungal-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/leungal-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</title>
-      <link>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</link>
+      <link>https://rycolab.io/publication/mccarthyal-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/mccarthyal-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/mccarthyal-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pareto Probing: Trading Off Accuracy for Simplicity</title>
-      <link>https://rycolab.github.io/publication/pimentelal-emnlp-20/</link>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pimentelal-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Please Mind the Root: Decoding Arborescences for Dependency Parsing</title>
-      <link>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</link>
+      <link>https://rycolab.io/publication/zmigrodal-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/zmigrodal-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/zmigrodal-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIGTYP 2020 Shared Task: Prediction of Typological Features</title>
-      <link>https://rycolab.github.io/publication/bjervaal-sigtyp-20/</link>
+      <link>https://rycolab.io/publication/bjervaal-sigtyp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/bjervaal-sigtyp-20/</guid>
+      <guid>https://rycolab.io/publication/bjervaal-sigtyp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speakers Fill Semantic Gaps with Context</title>
-      <link>https://rycolab.github.io/publication/pimentel-2-al-emnlp-20/</link>
+      <link>https://rycolab.io/publication/pimentel-2-al-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pimentel-2-al-emnlp-20/</guid>
+      <guid>https://rycolab.io/publication/pimentel-2-al-emnlp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Corpus for Large-Scale Phonetic Typology</title>
-      <link>https://rycolab.github.io/publication/saleskyal-acl-20/</link>
+      <link>https://rycolab.io/publication/saleskyal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/saleskyal-acl-20/</guid>
+      <guid>https://rycolab.io/publication/saleskyal-acl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Tale of a Probe and a Parser</title>
-      <link>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</link>
+      <link>https://rycolab.io/publication/hall-maudslayal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/hall-maudslayal-acl-20/</guid>
+      <guid>https://rycolab.io/publication/hall-maudslayal-acl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Entropy Regularization or: There&#39;s Nothing Special about Label Smoothing</title>
-      <link>https://rycolab.github.io/publication/meisteral-acl-20/</link>
+      <link>https://rycolab.io/publication/meisteral-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/meisteral-acl-20/</guid>
+      <guid>https://rycolab.io/publication/meisteral-acl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information-Theoretic Probing for Linguistic Structure</title>
-      <link>https://rycolab.github.io/publication/pimentelal-acl-20/</link>
+      <link>https://rycolab.io/publication/pimentelal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pimentelal-acl-20/</guid>
+      <guid>https://rycolab.io/publication/pimentelal-acl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It&#39;s Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information</title>
-      <link>https://rycolab.github.io/publication/bugliarelloal-acl-20/</link>
+      <link>https://rycolab.io/publication/bugliarelloal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/bugliarelloal-acl-20/</guid>
+      <guid>https://rycolab.io/publication/bugliarelloal-acl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metaphor Detection Using Context and Concreteness</title>
-      <link>https://rycolab.github.io/publication/hall-maudslayal-wflp-20/</link>
+      <link>https://rycolab.io/publication/hall-maudslayal-wflp-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/hall-maudslayal-wflp-20/</guid>
+      <guid>https://rycolab.io/publication/hall-maudslayal-wflp-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Declension Class from Form and Meaning</title>
-      <link>https://rycolab.github.io/publication/williamsal-acl-20/</link>
+      <link>https://rycolab.io/publication/williamsal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/williamsal-acl-20/</guid>
+      <guid>https://rycolab.io/publication/williamsal-acl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection</title>
-      <link>https://rycolab.github.io/publication/vylomovaal-sigm-20/</link>
+      <link>https://rycolab.io/publication/vylomovaal-sigm-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/vylomovaal-sigm-20/</guid>
+      <guid>https://rycolab.io/publication/vylomovaal-sigm-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Paradigm Discovery Problem</title>
-      <link>https://rycolab.github.io/publication/erdmannal-acl-20/</link>
+      <link>https://rycolab.io/publication/erdmannal-acl-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/erdmannal-acl-20/</guid>
+      <guid>https://rycolab.io/publication/erdmannal-acl-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIGMORPHON 2020 Task 0 System Description: ETH Zürich Team</title>
-      <link>https://rycolab.github.io/publication/forstermeister-sigm-20/</link>
+      <link>https://rycolab.io/publication/forstermeister-sigm-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/forstermeister-sigm-20/</guid>
+      <guid>https://rycolab.io/publication/forstermeister-sigm-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniMorph 3.0: Universal Morphology</title>
-      <link>https://rycolab.github.io/publication/mccarthyal-lrec-20/</link>
+      <link>https://rycolab.io/publication/mccarthyal-lrec-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/mccarthyal-lrec-20/</guid>
+      <guid>https://rycolab.io/publication/mccarthyal-lrec-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Don’t Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction</title>
-      <link>https://rycolab.github.io/publication/czarnowskaal-emnlp-ijcnlp-19/</link>
+      <link>https://rycolab.io/publication/czarnowskaal-emnlp-ijcnlp-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/czarnowskaal-emnlp-ijcnlp-19/</guid>
+      <guid>https://rycolab.io/publication/czarnowskaal-emnlp-ijcnlp-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examining Gender Bias in Languages with Grammatical Gender</title>
-      <link>https://rycolab.github.io/publication/zhoual-emnlp-ijcnlp-19/</link>
+      <link>https://rycolab.io/publication/zhoual-emnlp-ijcnlp-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/zhoual-emnlp-ijcnlp-19/</guid>
+      <guid>https://rycolab.io/publication/zhoual-emnlp-ijcnlp-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution</title>
-      <link>https://rycolab.github.io/publication/hall-maudslayal-emnlp-ijcnlp-19/</link>
+      <link>https://rycolab.io/publication/hall-maudslayal-emnlp-ijcnlp-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/hall-maudslayal-emnlp-ijcnlp-19/</guid>
+      <guid>https://rycolab.io/publication/hall-maudslayal-emnlp-ijcnlp-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying the Semantic Core of Gender Systems</title>
-      <link>https://rycolab.github.io/publication/williamsal-emnlp-ijcnlp-19/</link>
+      <link>https://rycolab.io/publication/williamsal-emnlp-ijcnlp-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/williamsal-emnlp-ijcnlp-19/</guid>
+      <guid>https://rycolab.io/publication/williamsal-emnlp-ijcnlp-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Zero-Shot Language Modeling</title>
-      <link>https://rycolab.github.io/publication/pontial-emnlp-ijcnlp-19/</link>
+      <link>https://rycolab.io/publication/pontial-emnlp-ijcnlp-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pontial-emnlp-ijcnlp-19/</guid>
+      <guid>https://rycolab.io/publication/pontial-emnlp-ijcnlp-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection</title>
-      <link>https://rycolab.github.io/publication/mccarthyal-tacl-19/</link>
+      <link>https://rycolab.io/publication/mccarthyal-tacl-19/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/mccarthyal-tacl-19/</guid>
+      <guid>https://rycolab.io/publication/mccarthyal-tacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Counterfactual Data Augmentation for Mitigating Gender Bias in Languages with Rich Morphology</title>
-      <link>https://rycolab.github.io/publication/zmigrodal-acl-19/</link>
+      <link>https://rycolab.io/publication/zmigrodal-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/zmigrodal-acl-19/</guid>
+      <guid>https://rycolab.io/publication/zmigrodal-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exact Hard Monotonic Attention for Character-Level Transduction</title>
-      <link>https://rycolab.github.io/publication/wucotterell-acl-19/</link>
+      <link>https://rycolab.io/publication/wucotterell-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/wucotterell-acl-19/</guid>
+      <guid>https://rycolab.io/publication/wucotterell-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meaning to Form: Measuring Systematicity as Information</title>
-      <link>https://rycolab.github.io/publication/pimentelal-acl-19/</link>
+      <link>https://rycolab.io/publication/pimentelal-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pimentelal-acl-19/</guid>
+      <guid>https://rycolab.io/publication/pimentelal-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Morphological Irregularity</title>
-      <link>https://rycolab.github.io/publication/wual-acl-19/</link>
+      <link>https://rycolab.io/publication/wual-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/wual-acl-19/</guid>
+      <guid>https://rycolab.io/publication/wual-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the distribution of deep clausal embeddings: A large cross-linguistic study</title>
-      <link>https://rycolab.github.io/publication/blasial-acl-19/</link>
+      <link>https://rycolab.io/publication/blasial-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/blasial-acl-19/</guid>
+      <guid>https://rycolab.io/publication/blasial-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncovering Typological Implications with Belief Nets</title>
-      <link>https://rycolab.github.io/publication/bjervaal-acl-19/</link>
+      <link>https://rycolab.io/publication/bjervaal-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/bjervaal-acl-19/</guid>
+      <guid>https://rycolab.io/publication/bjervaal-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Discovery of Gendered Language through Latent-Variable Modeling</title>
-      <link>https://rycolab.github.io/publication/hoyleal-acl-19/</link>
+      <link>https://rycolab.io/publication/hoyleal-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/hoyleal-acl-19/</guid>
+      <guid>https://rycolab.io/publication/hoyleal-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Kind of Language Is Hard to Language-Model?</title>
-      <link>https://rycolab.github.io/publication/mielkeal-acl-19/</link>
+      <link>https://rycolab.io/publication/mielkeal-acl-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/mielkeal-acl-19/</guid>
+      <guid>https://rycolab.io/publication/mielkeal-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Probabilistic Generative Model of Linguistic Typology</title>
-      <link>https://rycolab.github.io/publication/bjervaal-naacl-19/</link>
+      <link>https://rycolab.io/publication/bjervaal-naacl-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/bjervaal-naacl-19/</guid>
+      <guid>https://rycolab.io/publication/bjervaal-naacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Simple Joint Model for Improved Contextual Neural Lemmatization</title>
-      <link>https://rycolab.github.io/publication/malaviyanaal-acl-19/</link>
+      <link>https://rycolab.io/publication/malaviyanaal-acl-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/malaviyanaal-acl-19/</guid>
+      <guid>https://rycolab.io/publication/malaviyanaal-acl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Sentiment Lexica with a Multi-View Variational Autoencoder</title>
-      <link>https://rycolab.github.io/publication/hoyleal-naacl-19/</link>
+      <link>https://rycolab.io/publication/hoyleal-naacl-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/hoyleal-naacl-19/</guid>
+      <guid>https://rycolab.io/publication/hoyleal-naacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contextualization of Morphological Inflection</title>
-      <link>https://rycolab.github.io/publication/vylomovaal-naacl-19/</link>
+      <link>https://rycolab.io/publication/vylomovaal-naacl-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/vylomovaal-naacl-19/</guid>
+      <guid>https://rycolab.io/publication/vylomovaal-naacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gender Bias in Contextualized Word Embeddings</title>
-      <link>https://rycolab.github.io/publication/zhoual-naacl-19/</link>
+      <link>https://rycolab.io/publication/zhoual-naacl-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/zhoual-naacl-19/</guid>
+      <guid>https://rycolab.io/publication/zhoual-naacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Idiosyncrasies of the Mandarin Chinese Classifier System</title>
-      <link>https://rycolab.github.io/publication/liual-naacl-19/</link>
+      <link>https://rycolab.io/publication/liual-naacl-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/liual-naacl-19/</guid>
+      <guid>https://rycolab.io/publication/liual-naacl-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Discriminative Latent-Variable Model for Bilingual Lexicon Induction</title>
-      <link>https://rycolab.github.io/publication/ruderal-emnlp-18/</link>
+      <link>https://rycolab.io/publication/ruderal-emnlp-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/ruderal-emnlp-18/</guid>
+      <guid>https://rycolab.io/publication/ruderal-emnlp-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction</title>
-      <link>https://rycolab.github.io/publication/kementchedjhievaal-conll-18/</link>
+      <link>https://rycolab.io/publication/kementchedjhievaal-conll-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kementchedjhievaal-conll-18/</guid>
+      <guid>https://rycolab.io/publication/kementchedjhievaal-conll-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hard Non-Monotonic Attention for Character-Level Transduction</title>
-      <link>https://rycolab.github.io/publication/wual-emnlp-18/</link>
+      <link>https://rycolab.io/publication/wual-emnlp-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/wual-emnlp-18/</guid>
+      <guid>https://rycolab.io/publication/wual-emnlp-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marrying Universal Dependencies and Universal Morphology</title>
-      <link>https://rycolab.github.io/publication/mccarthyal-udw-18/</link>
+      <link>https://rycolab.io/publication/mccarthyal-udw-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/mccarthyal-udw-18/</guid>
+      <guid>https://rycolab.io/publication/mccarthyal-udw-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The CoNLL--SIGMORPHON 2018 Shared Task: Universal Morphological Reinflection</title>
-      <link>https://rycolab.github.io/publication/cotterellal-conll-18/</link>
+      <link>https://rycolab.io/publication/cotterellal-conll-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-conll-18/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-conll-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Structured Variational Autoencoder for Contextual Morphological Inflection</title>
-      <link>https://rycolab.github.io/publication/wolf-sonkin-acl-18/</link>
+      <link>https://rycolab.io/publication/wolf-sonkin-acl-18/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/wolf-sonkin-acl-18/</guid>
+      <guid>https://rycolab.io/publication/wolf-sonkin-acl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deep Generative Model of Vowel Formant Typology</title>
-      <link>https://rycolab.github.io/publication/cotterelleisner-naacl-18/</link>
+      <link>https://rycolab.io/publication/cotterelleisner-naacl-18/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterelleisner-naacl-18/</guid>
+      <guid>https://rycolab.io/publication/cotterelleisner-naacl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are All Languages Equally Hard to Language-Model?</title>
-      <link>https://rycolab.github.io/publication/cotterellal-naacl-18-a/</link>
+      <link>https://rycolab.io/publication/cotterellal-naacl-18-a/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-naacl-18-a/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-naacl-18-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Disambiguation of Syncretism in Inflected Lexicons</title>
-      <link>https://rycolab.github.io/publication/cotterellal-naacl-18-b/</link>
+      <link>https://rycolab.io/publication/cotterellal-naacl-18-b/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-naacl-18-b/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-naacl-18-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniMorph 2.0: Universal Morphology</title>
-      <link>https://rycolab.github.io/publication/kiroval-lrec-18/</link>
+      <link>https://rycolab.io/publication/kiroval-lrec-18/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kiroval-lrec-18/</guid>
+      <guid>https://rycolab.io/publication/kiroval-lrec-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-Resource Named Entity Recognition with Cross-lingual, Character-Level Neural Conditional Random Fields</title>
-      <link>https://rycolab.github.io/publication/cotterellduh-ijcnlp-17/</link>
+      <link>https://rycolab.io/publication/cotterellduh-ijcnlp-17/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellduh-ijcnlp-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellduh-ijcnlp-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-lingual, Character-Level Neural Morphological Tagging</title>
-      <link>https://rycolab.github.io/publication/cotterellheigold-emnlp-17/</link>
+      <link>https://rycolab.io/publication/cotterellheigold-emnlp-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellheigold-emnlp-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellheigold-emnlp-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paradigm Completion for Derivational Morphology</title>
-      <link>https://rycolab.github.io/publication/cotterellal-emnlp-17/</link>
+      <link>https://rycolab.io/publication/cotterellal-emnlp-17/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-emnlp-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CoNLL--SIGMORPHON 2017 Shared Task: Universal Morphological Reinflection in 52 Languages</title>
-      <link>https://rycolab.github.io/publication/cotterellal-conll-17/</link>
+      <link>https://rycolab.io/publication/cotterellal-conll-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-conll-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-conll-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frame-Based Continuous Lexical Semantics through Exponential Family Tensor Factorization and Semantic Proto-Roles</title>
-      <link>https://rycolab.github.io/publication/ferraroal-starsem-17/</link>
+      <link>https://rycolab.io/publication/ferraroal-starsem-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/ferraroal-starsem-17/</guid>
+      <guid>https://rycolab.io/publication/ferraroal-starsem-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-Shot Neural Cross-Lingual Transfer for Paradigm Completion</title>
-      <link>https://rycolab.github.io/publication/kannal-acl-17/</link>
+      <link>https://rycolab.io/publication/kannal-acl-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kannal-acl-17/</guid>
+      <guid>https://rycolab.io/publication/kannal-acl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Typology: Deep Generative Models of Vowel Inventories</title>
-      <link>https://rycolab.github.io/publication/cotterelleisner-acl-17/</link>
+      <link>https://rycolab.io/publication/cotterelleisner-acl-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterelleisner-acl-17/</guid>
+      <guid>https://rycolab.io/publication/cotterelleisner-acl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Rich Morphological Tagger for English: Exploring the Cross-Linguistic Tradeoff Between Morphology and Syntax</title>
-      <link>https://rycolab.github.io/publication/kiroval-eacl-17/</link>
+      <link>https://rycolab.io/publication/kiroval-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kiroval-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/kiroval-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-Aware Prediction of Derivational Word-forms</title>
-      <link>https://rycolab.github.io/publication/vylomovaal-eacl-17/</link>
+      <link>https://rycolab.io/publication/vylomovaal-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/vylomovaal-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/vylomovaal-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining and Generalizing Skip-Gram through Exponential Family Principal Component Analysis</title>
-      <link>https://rycolab.github.io/publication/cotterellalb-eacl-17/</link>
+      <link>https://rycolab.io/publication/cotterellalb-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellalb-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellalb-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Analysis of the Dravidian Language Family</title>
-      <link>https://rycolab.github.io/publication/kumaral-eacl-17/</link>
+      <link>https://rycolab.io/publication/kumaral-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kumaral-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/kumaral-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Graphical Models over Strings for Principal Parts Morphological Paradigm Completion</title>
-      <link>https://rycolab.github.io/publication/cotterellala-eacl-17/</link>
+      <link>https://rycolab.io/publication/cotterellala-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellala-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/cotterellala-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Multi-Source Morphological Reinflection</title>
-      <link>https://rycolab.github.io/publication/kannal-eacl-17/</link>
+      <link>https://rycolab.io/publication/kannal-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kannal-eacl-17/</guid>
+      <guid>https://rycolab.io/publication/kannal-eacl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Segmentation Inside-Out</title>
-      <link>https://rycolab.github.io/publication/cotterellal-emnlp-16/</link>
+      <link>https://rycolab.io/publication/cotterellal-emnlp-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-emnlp-16/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-emnlp-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Morphological Analysis: Encoding-Decoding Canonical Segments</title>
-      <link>https://rycolab.github.io/publication/kannal-emnlp-16/</link>
+      <link>https://rycolab.io/publication/kannal-emnlp-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/kannal-emnlp-16/</guid>
+      <guid>https://rycolab.io/publication/kannal-emnlp-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speed-Accuracy Tradeoffs in Tagging with Variable-Order CRFs and Structured Sparsity</title>
-      <link>https://rycolab.github.io/publication/vieiraal-emnlp-16/</link>
+      <link>https://rycolab.io/publication/vieiraal-emnlp-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/vieiraal-emnlp-16/</guid>
+      <guid>https://rycolab.io/publication/vieiraal-emnlp-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Smoothing and Extrapolation of Word Embeddings</title>
-      <link>https://rycolab.github.io/publication/cotterellal-acl-16/</link>
+      <link>https://rycolab.io/publication/cotterellal-acl-16/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-acl-16/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-acl-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The SIGMORPHON 2016 Shared Task—Morphological Reinflection</title>
-      <link>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</link>
+      <link>https://rycolab.io/publication/cotterellal-sigmorphon-16/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-sigmorphon-16/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-sigmorphon-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Joint Model of Orthography and Morphological Segmentation</title>
-      <link>https://rycolab.github.io/publication/cotterellal-naacl-16/</link>
+      <link>https://rycolab.io/publication/cotterellal-naacl-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-naacl-16/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-naacl-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weighting Finite-State Transductions With Neural Context</title>
-      <link>https://rycolab.github.io/publication/rastogial-naacl-16/</link>
+      <link>https://rycolab.io/publication/rastogial-naacl-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/rastogial-naacl-16/</guid>
+      <guid>https://rycolab.io/publication/rastogial-naacl-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual Decomposition Inference for Graphical Models over Strings</title>
-      <link>https://rycolab.github.io/publication/pengal-emnlp-15/</link>
+      <link>https://rycolab.io/publication/pengal-emnlp-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/pengal-emnlp-15/</guid>
+      <guid>https://rycolab.io/publication/pengal-emnlp-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joint Lemmatization and Morphological Tagging with Lemming</title>
-      <link>https://rycolab.github.io/publication/muelleral-conll-15/</link>
+      <link>https://rycolab.io/publication/muelleral-conll-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/muelleral-conll-15/</guid>
+      <guid>https://rycolab.io/publication/muelleral-conll-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Labeled Morphological Segmentation with Semi-Markov Models</title>
-      <link>https://rycolab.github.io/publication/cotterellal-conll-15/</link>
+      <link>https://rycolab.io/publication/cotterellal-conll-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-conll-15/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-conll-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological Word Embeddings</title>
-      <link>https://rycolab.github.io/publication/cotterellschuetze-naacl-15/</link>
+      <link>https://rycolab.io/publication/cotterellschuetze-naacl-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellschuetze-naacl-15/</guid>
+      <guid>https://rycolab.io/publication/cotterellschuetze-naacl-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Penalized Expectation Propagation for Graphical Models over Strings</title>
-      <link>https://rycolab.github.io/publication/cotterelleisner-naacl-15/</link>
+      <link>https://rycolab.io/publication/cotterelleisner-naacl-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterelleisner-naacl-15/</guid>
+      <guid>https://rycolab.io/publication/cotterelleisner-naacl-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Contextual Edit Distance and Probabilistic FSTs</title>
-      <link>https://rycolab.github.io/publication/cotterellal-acl-14/</link>
+      <link>https://rycolab.io/publication/cotterellal-acl-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.github.io/publication/cotterellal-acl-14/</guid>
+      <guid>https://rycolab.io/publication/cotterellal-acl-14/</guid>
       <description></description>
     </item>
     
