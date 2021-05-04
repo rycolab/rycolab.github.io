@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rowan Hall Mauslay | Rycolab</title>
+    <link>https://rycolab.io/authors/rowan-hall-mauslay/</link>
+      <atom:link href="https://rycolab.io/authors/rowan-hall-mauslay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rowan Hall Mauslay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Rowan Hall Mauslay</title>
+      <link>https://rycolab.io/authors/rowan-hall-mauslay/</link>
+    </image>
+    
+    <item>
+      <title>Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing</title>
+      <link>https://rycolab.io/publication/hall-mauslayal-naacl-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/hall-mauslayal-naacl-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
