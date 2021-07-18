@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Futrell | Rycolab</title>
+    <link>https://rycolab.io/authors/richard/</link>
+      <atom:link href="https://rycolab.io/authors/richard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Futrell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <title>Richard Futrell</title>
+      <link>https://rycolab.io/authors/richard/</link>
+    </image>
+    
+  </channel>
+</rss>
