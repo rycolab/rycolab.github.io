@@ -5,7 +5,7 @@
     <link>https://rycolab.io/authors/clara-meister/</link>
       <atom:link href="https://rycolab.io/authors/clara-meister/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara Meister</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Clara Meister</title>
@@ -13,9 +13,41 @@
     </image>
     
     <item>
+      <title>A cognitive regularizer for language modeling</title>
+      <link>https://rycolab.io/publication/weial-acl-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/weial-acl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinantal Beam Search</title>
+      <link>https://rycolab.io/publication/meisteral-acl-2021-a/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Sparse Attention more Interpretable?</title>
+      <link>https://rycolab.io/publication/meisteral-acl-2021-b/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Model Evaluation Beyond Perplexity</title>
+      <link>https://rycolab.io/publication/meisteral-acl-2021-c/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-2021-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Searching for Search Errors in Neural Morphological Inflection</title>
       <link>https://rycolab.io/publication/forsteral-eacl-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/forsteral-eacl-2021/</guid>
       <description></description>
     </item>
