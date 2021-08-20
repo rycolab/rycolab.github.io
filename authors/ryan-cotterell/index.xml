@@ -325,14 +325,6 @@
     </item>
     
     <item>
-      <title>Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages</title>
-      <link>https://rycolab.io/publication/pontial-tacl-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pontial-tacl-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Phonotactic Complexity and its Trade-offs</title>
       <link>https://rycolab.io/publication/pimentelal-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -789,6 +781,22 @@
     </item>
     
     <item>
+      <title>Analysis of Morphology in Topic Modeling</title>
+      <link>https://rycolab.io/publication/mayal-arxiv-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/mayal-arxiv-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Morphological Typology and Logical Hierarchies</title>
+      <link>https://rycolab.io/publication/glassmanal-cls-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/glassmanal-cls-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dual Decomposition Inference for Graphical Models over Strings</title>
       <link>https://rycolab.io/publication/pengal-emnlp-15/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -841,6 +849,30 @@
       <link>https://rycolab.io/publication/cotterellal-acl-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellal-acl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Dialect, Multi-Genre Corpus of Informal Written Arabic</title>
+      <link>https://rycolab.io/publication/cotterellcallison-burch-lrec-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/cotterellcallison-burch-lrec-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algerian Arabic-French Code-Switched Corpus</title>
+      <link>https://rycolab.io/publication/cotterellal-lrec-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/cotterellal-lrec-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translation of the CALLHOME Egyptian Arabic Corpus For Conversational Speech Translation</title>
+      <link>https://rycolab.io/publication/kumaral-iwslt-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/kumaral-iwslt-14/</guid>
       <description></description>
     </item>
     
