@@ -5,12 +5,36 @@
     <link>https://rycolab.io/authors/tim-vieira/</link>
       <atom:link href="https://rycolab.io/authors/tim-vieira/index.xml" rel="self" type="application/rss+xml" />
     <description>Tim Vieira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Tim Vieira</title>
       <link>https://rycolab.io/authors/tim-vieira/</link>
     </image>
+    
+    <item>
+      <title>Conditional Poisson Stochastic Beams</title>
+      <link>https://rycolab.io/publication/meisteral-emnlp-2021-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-emnlp-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Sampling of Dependency Structure</title>
+      <link>https://rycolab.io/publication/zmigrodal-emnlp-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-emnlp-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for More Efficient Dynamic Programs</title>
+      <link>https://rycolab.io/publication/vieiraal-emnlp-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/vieiraal-emnlp-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Higher-order Derivatives of Weighted Finite-state Machines</title>
