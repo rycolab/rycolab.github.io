@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Differentiable Subset Pruning of Transformer Heads</title>
+      <link>https://rycolab.io/publication/lial-tacl-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lial-tacl-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Computation of Expectations under Spanning Tree Distributions</title>
       <link>https://rycolab.io/publication/zmigrodal-tacl-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/zmigrodal-tacl-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs</title>
+      <link>https://rycolab.io/publication/bugliarelloal-tacl-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/bugliarelloal-tacl-21/</guid>
       <description></description>
     </item>
     

@@ -14,33 +14,41 @@
     
     <item>
       <title>A Bayesian Framework for Information-Theoretic Probing</title>
-      <link>https://rycolab.io/publication/tiagocotterell-emnlp-2021/</link>
+      <link>https://rycolab.io/publication/pimentelcotterell-emnlp-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/tiagocotterell-emnlp-2021/</guid>
+      <guid>https://rycolab.io/publication/pimentelcotterell-emnlp-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-21-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-21-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Homophony and Rényi Entropy</title>
-      <link>https://rycolab.io/publication/pimentelal-emnlp-2021-b/</link>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-21-b/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pimentelal-emnlp-2021-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phone-level Uniform Information Density across and within Languages</title>
-      <link>https://rycolab.io/publication/pimentelal-emnlp-2021-a/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pimentelal-emnlp-2021-a/</guid>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-21-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting the Uniform Information Density Hypothesis</title>
-      <link>https://rycolab.io/publication/meisteral-emnlp-2021-a/</link>
+      <link>https://rycolab.io/publication/meisteral-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/meisteral-emnlp-2021-a/</guid>
+      <guid>https://rycolab.io/publication/meisteral-emnlp-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling the Unigram Distribution</title>
+      <link>https://rycolab.io/publication/nikkarinenal-acl-findings-21/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/nikkarinenal-acl-findings-21/</guid>
       <description></description>
     </item>
     
@@ -62,17 +70,17 @@
     
     <item>
       <title>Finding Concept-specific Biases in Form--Meaning Associations</title>
-      <link>https://rycolab.io/publication/pimentelal-naacl-2021-a/</link>
+      <link>https://rycolab.io/publication/pimentelal-naacl-21-a/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pimentelal-naacl-2021-a/</guid>
+      <guid>https://rycolab.io/publication/pimentelal-naacl-21-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How (Non-)Optimal is the Lexicon?</title>
-      <link>https://rycolab.io/publication/pimentelal-naacl-2021-b/</link>
+      <link>https://rycolab.io/publication/pimentelal-naacl-21-b/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pimentelal-naacl-2021-b/</guid>
+      <guid>https://rycolab.io/publication/pimentelal-naacl-21-b/</guid>
       <description></description>
     </item>
     
@@ -81,6 +89,14 @@
       <link>https://rycolab.io/publication/valvodaal-naacl-2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/valvodaal-naacl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What About the Precedent: An Information-Theoretic Analysis of Common Law</title>
+      <link>https://rycolab.io/publication/valvodaal-naacl-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-naacl-21/</guid>
       <description></description>
     </item>
     
