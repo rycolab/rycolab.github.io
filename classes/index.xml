@@ -7,10 +7,18 @@
     <description>Teaching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Teaching</title>
       <link>https://rycolab.io/classes/</link>
     </image>
+    
+    <item>
+      <title>Advanced Formal Language Theory, Spring 2022</title>
+      <link>https://rycolab.io/classes/aflm-s22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/classes/aflm-s22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dependency Structures and Lexicalized Grammars</title>
