@@ -1,1008 +1,1720 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://rycolab.io/publication_types/0/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/talatal-local-21/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/adina-williams/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/hagen-blix/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/josef-valvoda/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/maya-indira-ganesh/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication_types/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ryan-cotterell/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/zeerak-talat/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication_types/1/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelcotterell-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/pimentelcotterell-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pascualal-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/pascualal-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-emnlp-21-a/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/pimentelal-emnlp-21-a/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/afra-amini/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/beni-egressy/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/clara-meister/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/stoehral-emnlp-21-a/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/stoehral-emnlp-21-a/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-emnlp-21-b/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/meisteral-emnlp-21-b/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/damian-blasi/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/damian-pascual/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zmigrodal-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/zmigrodal-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/elizabeth-salesky/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jason-eisner/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/lena-jager/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/lucas-torroba-hennigen/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/niklas-stoehr/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-emnlp-21-b/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/pimentelal-emnlp-21-b/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/patrick-haller/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ran-zmigrod/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-emnlp-21-a/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/meisteral-emnlp-21-a/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/robert-west/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/roger-levy/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/roger-wattenhofer/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/samin-ahbab/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/vieiraal-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/talk/vieiraal-emnlp-21/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/simone-teufel/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/tiago-pimentel/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/tim-vieira/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/weial-acl-21/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-acl-21-a/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/whitecotterell-acl-21/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zmigrodal-acl-21-b/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/irene-nikkarinen/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-acl-21-b/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/isabelle-augenstein/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jason-wei/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jennifer-c.-white/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-acl-21-c/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/martina-forster/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/nikkarinenal-acl-findings-21/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zmigrodal-acl-21-a/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/stefan-lazov/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/whiteal-naacl-21/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/brian-roark/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/hall-mauslayal-naacl-21/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-naacl-21-a/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-naacl-21-b/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/kyle-mahowald/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/naomi-saphra/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/rowan-hall-mauslay/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/s%C3%B8ren-wichmann/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/valvodaal-naacl-21/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/wual-eacl-21/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-eacl-21/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/mans-hulden/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/forsteral-eacl-21/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/shijie-wu/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication_types/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/anna-korhonen/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/desmond-elliott/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/lial-tacl-21/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/edoardo-m.-ponti/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zmigrodal-tacl-21/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/emanuele-bugliarello/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/hanna-wallach/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ivan-vulic/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jiaoda-li/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/lawrence-wolf-sonkin/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/marinela-parovic/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/mrinmaya-sachan/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/bugliarelloal-tacl-21/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/naoaki-okazaki/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/williamsal-tacl-21/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pontial-tacl-21/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/roi-reichart/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ann-copestake/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/czarnowskaal-coling-20/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/paula-czarnowska/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/sebastian-ruder/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/aditi-chaudhary/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/arya-d.-mccarthy/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/david-yarowsky/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ekaterina-vylomova/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/vargascotterell-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/francisco-vargas/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/giuseppe-g.-a.-celano/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/guy-emerson/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/hennigenal-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/torroba-hennigenal-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/leungal-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/johannes-bjerva/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jun-yen-leung/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/mccarthyal-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zmigrodal-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/rowan-hall-maudslay/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/sabrina-j.-mielke/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/shijia-liu/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/bjervaal-sigtyp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentel-2-al-emnlp-20/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/saleskyal-acl-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/hall-maudslayal-acl-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alan-w-black/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alexander-erdmann/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/andrew-krizhanovsky/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/antonios-anastasopoulos/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/arya-mccarthy/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/christo-kirov/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/edoardo-maria-ponti/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/eleanor-chodroff/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/elena-klyachko/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/francis-tyers/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/garrett-nicolai/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-acl-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/hilaria-cruz/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ilya-yegorov/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-acl-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/bugliarelloal-acl-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jennifer-white/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/matthew-wiesner/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/hall-maudslayal-wflp-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/micha-elsner/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/miikka-silfverberg/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/natalia-krizhanovsky/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/nizar-habash/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/williamsal-acl-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/vylomovaal-sigm-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/svetlana-toldova/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/erdmannal-acl-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alexey-sorokin/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/amrit-nidhi/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/meisteral-tacl-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/cassandra-l.-jacobs/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/john-mansfield/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/kyle-gorman/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/matteo-grella/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/nataly-krizhanovsky/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/patrick-xia/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-tacl-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/forstermeister-sigm-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/timofey-arkhangelskiy/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/mccarthyal-lrec-20/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/valts-ernstreits/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/yuval-pinter/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/czarnowskaal-emnlp-ijcnlp-19/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/edouard-grave/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zhoual-emnlp-ijcnlp-19/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/hila-gonen/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/hall-maudslayal-emnlp-ijcnlp-19/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jieyu-zhao/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/kai-wei-chang/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/kuan-hao-huang/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/muhao-chen/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/pei-zhou/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/williamsal-emnlp-ijcnlp-19/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pontial-emnlp-ijcnlp-19/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/weijia-shi/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/chaitanya-malaviya/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jeffrey-heinz/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/sabrina-mielke/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/mccarthyal-tacl-19/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alexander-m.-hoyle/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/balthasar-bickel/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zmigrodal-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/wucotterell-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/marco-baroni/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pimentelal-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/wual-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/blasial-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/sabine-stoll/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/timothy-j.-odonnell/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/bjervaal-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/hoyleal-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/mielkeal-acl-19/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/yova-kementchedjhieva/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/bjervaal-naacl-19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/malaviyanaal-acl-19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alexander-hoyle/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/hoyleal-naacl-19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/vylomovaal-naacl-19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/zhoual-naacl-19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/hongyuan-mei/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/mark-yatskar/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/liual-naacl-19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/tianlu-wang/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/timothy-baldwin/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/trevor-cohn/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/vicente-ordonez/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-tacl-19/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/ruderal-emnlp-18/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/anders-s%C3%B8gaard/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kementchedjhievaal-conll-18/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/geraldine-walther/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/wual-emnlp-18/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/john-sylak-glassman/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/katharina-kann/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/mccarthyal-udw-18/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/pamela-shapiro/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-conll-18/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/wolf-sonkin-acl-18/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jason-naradowsky/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterelleisner-naacl-18/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-naacl-18-a/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-naacl-18-b/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/manaal-faruqui/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/sandra-kubler/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kiroval-lrec-18/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellkreutzer-arxiv-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/hinrich-schutze/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellschuetze-tacl-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/julia-kreutzer/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-arxiv-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kirovcotterell-tacl-18/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellduh-ijcnlp-17/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellheigold-emnlp-17/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/georg-heigold/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/huda-khayrallah/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-emnlp-17/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/adam-poliak/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/benjamin-van-durme/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-conll-17/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/ferraroal-starsem-17/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/francis-ferraro/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kannal-acl-17/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterelleisner-acl-17/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kiroval-eacl-17/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/antoni-oliver/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/arun-kumar/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ben-van-durme/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/vylomovaal-eacl-17/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellalb-eacl-17/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/lluis-padro/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/matt-post/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kumaral-eacl-17/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellala-eacl-17/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kannal-eacl-17/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/rebecca-knowles/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-emnlp-16/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kannal-emnlp-16/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/vieiraal-emnlp-16/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-acl-16/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-sigmorphon-16/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-naacl-16/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/pushpendre-rastogi/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/rastogial-naacl-16/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/mayal-arxiv-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/chandler-may/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/glassmanal-cls-16/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alexander-fraser/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/pengal-emnlp-15/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/muelleral-conll-15/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/nanyun-peng/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/thomas-muller/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-conll-15/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellschuetze-naacl-15/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterelleisner-naacl-15/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-tacl-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-acl-14/</loc>
     <lastmod>2014-06-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellcallison-burch-lrec-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/adithya-renduchintala/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/cotterellal-lrec-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/chris-callison-burch/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/daniel-povey/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/gaurav-kumar/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/sanjeev-khudanpur/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/publication/kumaral-iwslt-14/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/yuan-cao/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/group/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/adina/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/classes/aflt-s22/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/afra/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/aleximmer/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alex/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/alexandra/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/andreas/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/anej/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/anton/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ayca/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/carlos/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/clara/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/damian/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/daniel/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/classes/dep-parsing-sem/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/edo/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/kat/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/eleftheria/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/liz/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ema/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/classes/esslli-21/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/readinggroup/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/florian/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/gian/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/irene/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/isabelle/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jen/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jiaoda/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/josef/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/jun/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/karolina/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/kevin-duh./</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/luca/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/lucas/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/mans/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/marinela/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/martina/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/marvin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/mian/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/classes/intro-nlp-f20/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/classes/intro-nlp-f21/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/classes/intro-nlp-s21/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/admin/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/niklas/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/paula/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/philippe/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/post/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/pouya/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ran/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/richard/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/rowan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/ryan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/selena/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/shijie/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/simone/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/stefan/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/tags/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/classes/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/tiago/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/tianyu/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/tim/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/yuchen/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://rycolab.io/authors/zhijing/</loc>
   </url>
+  
 </urlset>
