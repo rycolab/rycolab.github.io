@@ -5,12 +5,28 @@
     <link>https://rycolab.io/authors/lucas-torroba-hennigen/</link>
       <atom:link href="https://rycolab.io/authors/lucas-torroba-hennigen/index.xml" rel="self" type="application/rss+xml" />
     <description>Lucas Torroba Hennigen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Lucas Torroba Hennigen</title>
       <link>https://rycolab.io/authors/lucas-torroba-hennigen/</link>
     </image>
+    
+    <item>
+      <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</title>
+      <link>https://rycolab.io/publication/stanczakal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stanczakal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing as Quantifying the Inductive Bias of Pre-trained Representations</title>
+      <link>https://rycolab.io/publication/immeral-acl-22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/immeral-acl-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classifying Dyads for Militarized Conflict Analysis</title>

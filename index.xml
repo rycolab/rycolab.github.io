@@ -5,12 +5,108 @@
     <link>https://rycolab.io/</link>
       <atom:link href="https://rycolab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rycolab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Rycolab</title>
       <link>https://rycolab.io/</link>
     </image>
+    
+    <item>
+      <title>A Structured Span Selector</title>
+      <link>https://rycolab.io/publication/liual-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/liual-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Word on Machine Ethics: A Response to Jiang et al. (2021)</title>
+      <link>https://rycolab.io/publication/talatal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/talatal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation</title>
+      <link>https://rycolab.io/publication/jiangal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/jiangal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing via Prompting</title>
+      <link>https://rycolab.io/publication/lial-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lial-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</title>
+      <link>https://rycolab.io/publication/stanczakal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stanczakal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Wrap-Up Effects through an Information-Theoretic Lens</title>
+      <link>https://rycolab.io/publication/meisteral-acl-22-b/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-22-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Probing for Grammatical Number: From Encoding to Usage</title>
+      <link>https://rycolab.io/publication/lasrial-acl-22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lasrial-acl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Entropy of Linguistic Distributions</title>
+      <link>https://rycolab.io/publication/aroraal-acl-22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aroraal-acl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the probability–quality paradox in language generation generation</title>
+      <link>https://rycolab.io/publication/meisteral-acl-22-a/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing as Quantifying the Inductive Bias of Pre-trained Representations</title>
+      <link>https://rycolab.io/publication/immeral-acl-22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/immeral-acl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Relaxed Adversarial Concept Erasure</title>
+      <link>https://rycolab.io/publication/ravfogelal-icml-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ravfogelal-icml-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalistic Causal Probing for Morpho-Syntax</title>
+      <link>https://rycolab.io/publication/aminial-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-tacl-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Word on Machine Ethics: A Response to Jiang et al. (2021)</title>

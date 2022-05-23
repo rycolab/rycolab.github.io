@@ -5,12 +5,36 @@
     <link>https://rycolab.io/authors/mrinmaya-sachan/</link>
       <atom:link href="https://rycolab.io/authors/mrinmaya-sachan/index.xml" rel="self" type="application/rss+xml" />
     <description>Mrinmaya Sachan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Mrinmaya Sachan</title>
       <link>https://rycolab.io/authors/mrinmaya-sachan/</link>
     </image>
+    
+    <item>
+      <title>A Structured Span Selector</title>
+      <link>https://rycolab.io/publication/liual-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/liual-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation</title>
+      <link>https://rycolab.io/publication/jiangal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/jiangal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing via Prompting</title>
+      <link>https://rycolab.io/publication/lial-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lial-naacl-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differentiable Subset Pruning of Transformer Heads</title>

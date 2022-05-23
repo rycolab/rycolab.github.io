@@ -5,12 +5,28 @@
     <link>https://rycolab.io/authors/clara-meister/</link>
       <atom:link href="https://rycolab.io/authors/clara-meister/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara Meister</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Clara Meister</title>
       <link>https://rycolab.io/authors/clara-meister/</link>
     </image>
+    
+    <item>
+      <title>Analyzing Wrap-Up Effects through an Information-Theoretic Lens</title>
+      <link>https://rycolab.io/publication/meisteral-acl-22-b/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-22-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalistic Causal Probing for Morpho-Syntax</title>
+      <link>https://rycolab.io/publication/aminial-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-tacl-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Plug-and-Play Method for Controlled Text Generation</title>

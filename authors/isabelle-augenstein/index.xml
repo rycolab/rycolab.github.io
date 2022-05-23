@@ -5,12 +5,20 @@
     <link>https://rycolab.io/authors/isabelle-augenstein/</link>
       <atom:link href="https://rycolab.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     <description>Isabelle Augenstein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Isabelle Augenstein</title>
       <link>https://rycolab.io/authors/isabelle-augenstein/</link>
     </image>
+    
+    <item>
+      <title>Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models</title>
+      <link>https://rycolab.io/publication/stanczakal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stanczakal-naacl-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is Sparse Attention more Interpretable?</title>
