@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Mortensen | Rycolab</title>
+    <link>https://rycolab.io/authors/david-mortensen/</link>
+      <atom:link href="https://rycolab.io/authors/david-mortensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Mortensen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 13:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>David Mortensen</title>
+      <link>https://rycolab.io/authors/david-mortensen/</link>
+    </image>
+    
+    <item>
+      <title>How Cognitive Biases Do (and Do Not) Shape Lexicons: Two Computational Studies</title>
+      <link>https://rycolab.io/talk/mortensen-jul-19-22/</link>
+      <pubDate>Tue, 19 Jul 2022 13:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/mortensen-jul-19-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;David Mortensen is a computational linguist interested in phonology, morphology, language change, linguistic typology, and human-in-the-loop computation. He is currently a Systems Scientist (a non-tenure track research faculty member at the Assistant Professor level) in the Language Technologies Institute, which is part of Carnegie Mellon University’s School of Computer Science. Before coming to CMU, he was an Assistant Professor in the Department of Linguistics at the University of Pittsburgh.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

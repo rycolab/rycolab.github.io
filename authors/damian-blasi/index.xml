@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Damian Blasi | Rycolab</title>
+    <title>Damián Blasi | Rycolab</title>
     <link>https://rycolab.io/authors/damian-blasi/</link>
       <atom:link href="https://rycolab.io/authors/damian-blasi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Damian Blasi</description>
+    <description>Damián Blasi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
-      <title>Damian Blasi</title>
+      <title>Damián Blasi</title>
       <link>https://rycolab.io/authors/damian-blasi/</link>
     </image>
+    
+    <item>
+      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
+      <link>https://rycolab.io/emnlp21/pimentelal-emnlp-21-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/emnlp21/pimentelal-emnlp-21-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
-      <link>https://rycolab.io/talk/pimentelal-emnlp-21-a/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/pimentelal-emnlp-21-a/</guid>
       <description></description>
     </item>
     

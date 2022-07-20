@@ -1,87 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications at EMNLP 2021 | Rycolab</title>
+    <title>Recent &amp; Upcoming Talks | Rycolab</title>
     <link>https://rycolab.io/talk/</link>
       <atom:link href="https://rycolab.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications at EMNLP 2021</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 13:30:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
-      <title>Publications at EMNLP 2021</title>
+      <title>Recent &amp; Upcoming Talks</title>
       <link>https://rycolab.io/talk/</link>
     </image>
     
     <item>
-      <title>A Bayesian Framework for Information-Theoretic Probing</title>
-      <link>https://rycolab.io/talk/pimentelcotterell-emnlp-21/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/pimentelcotterell-emnlp-21/</guid>
+      <title>How Cognitive Biases Do (and Do Not) Shape Lexicons: Two Computational Studies</title>
+      <link>https://rycolab.io/talk/mortensen-jul-19-22/</link>
+      <pubDate>Tue, 19 Jul 2022 13:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/mortensen-jul-19-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;David Mortensen is a computational linguist interested in phonology, morphology, language change, linguistic typology, and human-in-the-loop computation. He is currently a Systems Scientist (a non-tenure track research faculty member at the Assistant Professor level) in the Language Technologies Institute, which is part of Carnegie Mellon University’s School of Computer Science. Before coming to CMU, he was an Assistant Professor in the Department of Linguistics at the University of Pittsburgh.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Losing bits and finding meaning: Efficient compression shapes meaning in language</title>
+      <link>https://rycolab.io/talk/zaslavsky-jul-4-22/</link>
+      <pubDate>Mon, 04 Jul 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/zaslavsky-jul-4-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Noga Zaslavsky is a postdoc at MIT. Her research aims to understand language, learning, and reasoning from first principles, building on ideas and methods from machine learning and information theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk by Aaron</title>
+      <link>https://rycolab.io/talk/schein-jun-10-22/</link>
+      <pubDate>Fri, 10 Jun 2022 16:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/schein-jun-10-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Aaron Schein is a postdoc at Columbia University and will start his professorship at the University of Chicago in fall. He develops statistical models to analyse large-scale data in political science, economics, and genetics, among other fields.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk by John</title>
+      <link>https://rycolab.io/talk/hewitt-22/</link>
+      <pubDate>Mon, 31 Jan 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/hewitt-22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Plug-and-Play Method for Controlled Text Generation</title>
-      <link>https://rycolab.io/talk/pascualal-emnlp-21/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/pascualal-emnlp-21/</guid>
+      <title>Talk by Kris</title>
+      <link>https://rycolab.io/talk/cao-22/</link>
+      <pubDate>Mon, 31 Jan 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/cao-22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
-      <link>https://rycolab.io/talk/pimentelal-emnlp-21-a/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/pimentelal-emnlp-21-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classifying Dyads for Militarized Conflict Analysis</title>
-      <link>https://rycolab.io/talk/stoehral-emnlp-21-a/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/stoehral-emnlp-21-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conditional Poisson Stochastic Beam Search</title>
-      <link>https://rycolab.io/talk/meisteral-emnlp-21-b/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/meisteral-emnlp-21-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Sampling of Dependency Structure</title>
-      <link>https://rycolab.io/talk/zmigrodal-emnlp-21/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/zmigrodal-emnlp-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On Homophony and Rényi Entropy</title>
-      <link>https://rycolab.io/talk/pimentelal-emnlp-21-b/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/pimentelal-emnlp-21-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting the Uniform Information Density Hypothesis</title>
-      <link>https://rycolab.io/talk/meisteral-emnlp-21-a/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/meisteral-emnlp-21-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Searching for More Efficient Dynamic Programs</title>
-      <link>https://rycolab.io/talk/vieiraal-emnlp-21/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/talk/vieiraal-emnlp-21/</guid>
-      <description></description>
+      <title>Talk by Miloš</title>
+      <link>https://rycolab.io/talk/stanojevic-22/</link>
+      <pubDate>Mon, 31 Jan 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/stanojevic-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+</description>
     </item>
     
   </channel>
