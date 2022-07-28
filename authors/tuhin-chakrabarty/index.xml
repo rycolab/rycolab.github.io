@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuhin Chakrabarty | Rycolab</title>
+    <link>https://rycolab.io/authors/tuhin-chakrabarty/</link>
+      <atom:link href="https://rycolab.io/authors/tuhin-chakrabarty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tuhin Chakrabarty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 13:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Tuhin Chakrabarty</title>
+      <link>https://rycolab.io/authors/tuhin-chakrabarty/</link>
+    </image>
+    
+    <item>
+      <title>Continual-T0: Fine-tuned Language Models are Continual Learners</title>
+      <link>https://rycolab.io/talk/chakrabarty-aug-22/</link>
+      <pubDate>Wed, 03 Aug 2022 13:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/chakrabarty-aug-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Tuhin Chakrabarty is a PhD student in Computer Science at Columbia University. Within the department he is a part of the Natural Language Processing group , where he is advised by Smaranda Muresan. His research is supported by the Columbia Center of Artificial Intelligence &amp;amp; Technology (CAIT) &amp;amp; Amazon Science Ph.D. Fellowship. His research interests are broadly in Natural Language Processing and Machine Learning, with special focus in Language Generation. His overarching research question centers around how we can control large language models to understand , interpret or generate creative text.Recently he is also working in Continual Learning of Large language models. &lt;a href=&#34;https://tuhinjubcse.github.io/&#34; target=&#34;_blank&#34;&gt;https://tuhinjubcse.github.io/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
