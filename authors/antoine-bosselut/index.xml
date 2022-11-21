@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antoine Bosselut | Rycolab</title>
+    <link>https://rycolab.io/authors/antoine-bosselut/</link>
+      <atom:link href="https://rycolab.io/authors/antoine-bosselut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antoine Bosselut</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 13:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Antoine Bosselut</title>
+      <link>https://rycolab.io/authors/antoine-bosselut/</link>
+    </image>
+    
+    <item>
+      <title>Neuro-symbolic Scaffolds for Commonsense Reasoning</title>
+      <link>https://rycolab.io/talk/bosselut-nov-23-21/</link>
+      <pubDate>Tue, 23 Nov 2021 13:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/bosselut-nov-23-21/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at EPFL. He leads the EPFL NLP group where they conduct research on natural language processing (NLP) systems that can model, represent, and reason about human and world knowledge.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

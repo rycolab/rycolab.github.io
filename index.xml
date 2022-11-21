@@ -69,6 +69,110 @@
     </item>
     
     <item>
+      <title>Understanding RNNs and Transformers using Formal Languages</title>
+      <link>https://rycolab.io/talk/hao-nov-21-22/</link>
+      <pubDate>Mon, 21 Nov 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/hao-nov-21-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Sophie Hao is a Faculty Fellow (i.e., a postdoc without a supervisor) in Data Science at New York University. Her research is on interpretability and explanability for natural language processing, with the aim of understanding what it means for a deep neural network to be &amp;lsquo;interpreted by&amp;rsquo; or &amp;lsquo;explained to&amp;rsquo; a human audience. She recently completed her PhD in Linguistics and Computer Science with Prof. Robert Frank and Prof. Dana Angluin at Yale University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collecting Knowledge Graph Explanations for Commonsense QA via Counterfactual Annotation</title>
+      <link>https://rycolab.io/talk/aglionby-nov-18-22/</link>
+      <pubDate>Fri, 18 Nov 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/aglionby-nov-18-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Guy Aglionby is a final year PhD student at the University of Cambridge Computer Lab, supervised by Prof Simone Teufel and a member of Homerton College. His PhD research is on developing interpretable models for common sense multi-hop reasoning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles of Compositionality Improve Systematic Generalization of Neural Networks</title>
+      <link>https://rycolab.io/talk/csordas-nov-16-22/</link>
+      <pubDate>Wed, 16 Nov 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/csordas-nov-16-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Róbert Csordás is a PhD candidate at the Swiss AI lab IDSIA and currently doing an internship at DeepMind. His research interests are systematic generalizationi n the context of algorithmic reasoning and network architectures with nductive biases like information routing (attention, memory) and learning modular structures.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Generation with Text-Editing Models</title>
+      <link>https://rycolab.io/talk/malmi-oct-28-22/</link>
+      <pubDate>Fri, 28 Oct 2022 09:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/malmi-oct-28-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Eric Malmi is a Senior Research Scientist at Google, Zürich. His research focuses on developing Natural Language Generation (NLG) methods for Google Assistant. He received his PhD (2018) in Computer Science from Aalto University, Finland. During his studies, Eric did internships at Google, Qatar Computing Research Institute, Idiap Research Institute, and CERN.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Searching for Structure in Unfalsifiable Claims</title>
+      <link>https://rycolab.io/talk/belongie-oct-27-22/</link>
+      <pubDate>Thu, 27 Oct 2022 14:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/belongie-oct-27-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Serge Belongie is a professor of Computer Science at the University of Copenhagen, where he also serves as the head of the Pioneer Centre for Artificial Intelligence. His research interests include Computer Vision, Machine Learning, Augmented Reality, and Human-in-the-Loop Computing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CCG on all levels of analysis: Linguistic Universals, Incremental Processing and Brain Activity</title>
+      <link>https://rycolab.io/talk/stanojevic-oct-19-22/</link>
+      <pubDate>Wed, 19 Oct 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/stanojevic-oct-19-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Miloš Stanojević is a Senior Research Scientist in DeepMind. Prior to that he did a PostDoc at University of Edinburgh with Mark Steedman where he worked on Combinatory Categorial Grammars (CCG), and collaborated with Ed Stabler on Minimalist Grammars. He has received a PhD degree from University of Amsterdam for the work on machine translation. His main research interests lie in incremental sentence processing, structured inference, formal grammars, and generative linguistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modular and Composable Transfer Learning</title>
+      <link>https://rycolab.io/talk/pfeiffer-oct-17-22/</link>
+      <pubDate>Mon, 17 Oct 2022 13:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/pfeiffer-oct-17-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Jonas Pfeiffer is a Research Scientist at Google Research. He is interested in modular representation learning in multi-task, multilingual, and multi-modal contexts, and in low-resource scenarios. He worked on his PhD at the Technical University of Darmstadt, was a visiting researcher at the New York University and a Research Scientist Intern at Meta Research. Jonas has received the IBM PhD Research Fellowship award for 2021/2022. He has given numerous invited talks at academia, industry and ML summer schools, and has co-organized multiple workshops on multilinguality and multimodality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconciling the Discrete-Continuous Divide: Towards a Mathematical Theory of Sparse Communication</title>
+      <link>https://rycolab.io/talk/martins-oct-4-22/</link>
+      <pubDate>Tue, 04 Oct 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/martins-oct-4-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;André Martins (PhD 2012, Carnegie Mellon University and University of Lisbon) is an Associate Professor at Instituto Superior Técnico, University of Lisbon, researcher at Instituto de Telecomunicações, and the VP of AI Research at Unbabel. His research, funded by a ERC Starting Grant (DeepSPIN) and other grants (P2020 project Unbabel4EU and CMU-Portugal project MAIA) include machine translation, quality estimation, structure and interpretability in deep learning systems for NLP. His work has received best paper awards at ACL 2009 (long paper) and ACL 2019 (system demonstration paper). He co-founded and co-organizes the Lisbon Machine Learning School (LxMLS), and he is a Fellow of the ELLIS society.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Benchmarking Compositionality with Formal Languages</title>
       <link>https://rycolab.io/publication/valvodaal-coling-22/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
@@ -85,10 +189,36 @@
     </item>
     
     <item>
+      <title>Faster Dependency Parsing, More Accurate Unsupervised Parsing</title>
+      <link>https://rycolab.io/talk/cohen-sep-30-22/</link>
+      <pubDate>Fri, 30 Sep 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/cohen-sep-30-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Shay Cohen is a Reader at the University of Edinburgh (School of Informatics). Before this, he was a postdoctoral research scientist in the Department of Computer Science at Columbia University and held an NSF/CRA Computing Innovation Fellowship. He received his B.Sc. and M.Sc. from Tel Aviv University in 2000 and 2004, and his Ph.D. from Carnegie Mellon University in 2011. His research interests span a range of topics in natural language processing and machine learning, focusing on structured prediction (for example, parsing) and text generation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Encoder-decoder manipulations at TartuNLP</title>
+      <link>https://rycolab.io/talk/fisel-sep-30-22/</link>
+      <pubDate>Fri, 30 Sep 2022 10:10:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/fisel-sep-30-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Mark Fišel is head of NLP at University of Tartu (Estonia) with focus on machine translation, speech synthesis, large language model usage, tuning and analysis, etc&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Continual-T0: Fine-tuned Language Models are Continual Learners</title>
-      <link>https://rycolab.io/talk/chakrabarty-aug-22/</link>
+      <link>https://rycolab.io/talk/chakrabarty-aug-8-22/</link>
       <pubDate>Wed, 03 Aug 2022 13:30:00 +0200</pubDate>
-      <guid>https://rycolab.io/talk/chakrabarty-aug-22/</guid>
+      <guid>https://rycolab.io/talk/chakrabarty-aug-8-22/</guid>
       <description>
 
 &lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
@@ -217,6 +347,19 @@
     </item>
     
     <item>
+      <title>Human Language Understanding: Research of the CALCULUS project</title>
+      <link>https://rycolab.io/talk/moens-jun-16-22/</link>
+      <pubDate>Fri, 10 Jun 2022 10:15:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/moens-jun-16-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Marie-Francine (Sien) Moens is full professor at the Department of Computer Science at KU Leuven, Belgium. She is the director of the Language Intelligence and Information Retrieval (LIIR) research lab and a member of the Human Computer Interaction group. Her main direction of research is the development of novel methods for automated content recognition in text and multimedia using machine learning and exploiting insights from linguistic and cognitive theories.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Analyzing Wrap-Up Effects through an Information-Theoretic Lens</title>
       <link>https://rycolab.io/publication/meisteral-acl-22-b/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -254,6 +397,32 @@
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/lasrial-acl-22/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic Structure and Transformer Models of Natural Language</title>
+      <link>https://rycolab.io/talk/dryer-apr-4-22/</link>
+      <pubDate>Mon, 04 Apr 2022 16:15:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/dryer-apr-4-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Chris Dyer is a principal scientist with DeepMind in London, UK, and holds an Adjunct Professor appointment in the School of Computer Science at Carnegie Mellon University. His former PhD students have gone on to research positions in major industrial labs, tenure track academic positions (CMU, UC Irvine, USC, and the University of Washington). He is a 2016 recipient of the Presidential Early Career Award for Scientists and Engineers (PECASE). He lives in London and plays the cello.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thinking like Transformers</title>
+      <link>https://rycolab.io/talk/weiss-mar-1-22/</link>
+      <pubDate>Tue, 01 Mar 2022 17:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/weiss-mar-1-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Gail is a PhD student at Technion working with Eran Yahav and Yoav Goldberg. Her research interest is in understanding sequential neural networks (such as RNNs and transformers) through the lens of formal language theory.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -326,6 +495,19 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/sevastjanovaal-vis-22/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Neuro-symbolic Scaffolds for Commonsense Reasoning</title>
+      <link>https://rycolab.io/talk/bosselut-nov-23-21/</link>
+      <pubDate>Tue, 23 Nov 2021 13:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/bosselut-nov-23-21/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Antoine Bosselut is an assistant professor in the School of Computer and Communication Sciences at EPFL. He leads the EPFL NLP group where they conduct research on natural language processing (NLP) systems that can model, represent, and reason about human and world knowledge.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -582,6 +764,19 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/valvodaal-naacl-21/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>It’s Time for Reasoning</title>
+      <link>https://rycolab.io/talk/roth-apr-26-21/</link>
+      <pubDate>Mon, 26 Apr 2021 16:15:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/roth-apr-26-21/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania, and a Fellow of the AAAS, the ACM, AAAI, and the ACL. In 2017 Roth was awarded the John McCarthy Award, the highest award the AI community gives to mid-career AI researchers. Roth was recognized “for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning.” Roth has published broadly in machine learning, natural language processing, knowledge representation and reasoning, and learning theory, and has developed advanced machine learning based tools for natural language applications that are being used widely. Until February 2017 Roth was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR). Roth has been involved in several startups; most recently he was a co-founder and chief scientist of NexLP, a startup that leverages the latest advances in Natural Language Processing (NLP), Cognitive Analytics, and Machine Learning in the legal and compliance domains. NexLP was sold to Reveal in 2020. Prof. Roth received his B.A Summa cum laude in Mathematics from the Technion, Israel, and his Ph.D. in Computer Science from Harvard University in 1995.&lt;/p&gt;
+</description>
     </item>
     
     <item>

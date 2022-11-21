@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Róbert Csordás | Rycolab</title>
+    <link>https://rycolab.io/authors/robert-csordas/</link>
+      <atom:link href="https://rycolab.io/authors/robert-csordas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Róbert Csordás</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 14:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Róbert Csordás</title>
+      <link>https://rycolab.io/authors/robert-csordas/</link>
+    </image>
+    
+    <item>
+      <title>Principles of Compositionality Improve Systematic Generalization of Neural Networks</title>
+      <link>https://rycolab.io/talk/csordas-nov-16-22/</link>
+      <pubDate>Wed, 16 Nov 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/csordas-nov-16-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Róbert Csordás is a PhD candidate at the Swiss AI lab IDSIA and currently doing an internship at DeepMind. His research interests are systematic generalizationi n the context of algorithmic reasoning and network architectures with nductive biases like information routing (attention, memory) and learning modular structures.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

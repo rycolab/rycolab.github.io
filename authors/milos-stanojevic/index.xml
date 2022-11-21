@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miloš Stanojević | Rycolab</title>
+    <link>https://rycolab.io/authors/milos-stanojevic/</link>
+      <atom:link href="https://rycolab.io/authors/milos-stanojevic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miloš Stanojević</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2022 14:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Miloš Stanojević</title>
+      <link>https://rycolab.io/authors/milos-stanojevic/</link>
+    </image>
+    
+    <item>
+      <title>CCG on all levels of analysis: Linguistic Universals, Incremental Processing and Brain Activity</title>
+      <link>https://rycolab.io/talk/stanojevic-oct-19-22/</link>
+      <pubDate>Wed, 19 Oct 2022 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/stanojevic-oct-19-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Miloš Stanojević is a Senior Research Scientist in DeepMind. Prior to that he did a PostDoc at University of Edinburgh with Mark Steedman where he worked on Combinatory Categorial Grammars (CCG), and collaborated with Ed Stabler on Minimalist Grammars. He has received a PhD degree from University of Amsterdam for the work on machine translation. His main research interests lie in incremental sentence processing, structured inference, formal grammars, and generative linguistics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

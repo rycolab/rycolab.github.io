@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serge Belongie | Rycolab</title>
+    <link>https://rycolab.io/authors/serge-belongie/</link>
+      <atom:link href="https://rycolab.io/authors/serge-belongie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serge Belongie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 14:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Serge Belongie</title>
+      <link>https://rycolab.io/authors/serge-belongie/</link>
+    </image>
+    
+    <item>
+      <title>Searching for Structure in Unfalsifiable Claims</title>
+      <link>https://rycolab.io/talk/belongie-oct-27-22/</link>
+      <pubDate>Thu, 27 Oct 2022 14:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/belongie-oct-27-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Serge Belongie is a professor of Computer Science at the University of Copenhagen, where he also serves as the head of the Pioneer Centre for Artificial Intelligence. His research interests include Computer Vision, Machine Learning, Augmented Reality, and Human-in-the-Loop Computing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

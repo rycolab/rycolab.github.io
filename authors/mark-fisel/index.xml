@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Fišel | Rycolab</title>
+    <link>https://rycolab.io/authors/mark-fisel/</link>
+      <atom:link href="https://rycolab.io/authors/mark-fisel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Fišel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 10:10:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Mark Fišel</title>
+      <link>https://rycolab.io/authors/mark-fisel/</link>
+    </image>
+    
+    <item>
+      <title>Encoder-decoder manipulations at TartuNLP</title>
+      <link>https://rycolab.io/talk/fisel-sep-30-22/</link>
+      <pubDate>Fri, 30 Sep 2022 10:10:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/fisel-sep-30-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Mark Fišel is head of NLP at University of Tartu (Estonia) with focus on machine translation, speech synthesis, large language model usage, tuning and analysis, etc&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

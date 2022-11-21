@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas Pfeiffer | Rycolab</title>
+    <link>https://rycolab.io/authors/jonas-pfeiffer/</link>
+      <atom:link href="https://rycolab.io/authors/jonas-pfeiffer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonas Pfeiffer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Oct 2022 13:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Jonas Pfeiffer</title>
+      <link>https://rycolab.io/authors/jonas-pfeiffer/</link>
+    </image>
+    
+    <item>
+      <title>Modular and Composable Transfer Learning</title>
+      <link>https://rycolab.io/talk/pfeiffer-oct-17-22/</link>
+      <pubDate>Mon, 17 Oct 2022 13:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/pfeiffer-oct-17-22/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Jonas Pfeiffer is a Research Scientist at Google Research. He is interested in modular representation learning in multi-task, multilingual, and multi-modal contexts, and in low-resource scenarios. He worked on his PhD at the Technical University of Darmstadt, was a visiting researcher at the New York University and a Research Scientist Intern at Meta Research. Jonas has received the IBM PhD Research Fellowship award for 2021/2022. He has given numerous invited talks at academia, industry and ML summer schools, and has co-organized multiple workshops on multilinguality and multimodality.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

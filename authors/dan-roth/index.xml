@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Roth | Rycolab</title>
+    <link>https://rycolab.io/authors/dan-roth/</link>
+      <atom:link href="https://rycolab.io/authors/dan-roth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Roth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Apr 2021 16:15:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Dan Roth</title>
+      <link>https://rycolab.io/authors/dan-roth/</link>
+    </image>
+    
+    <item>
+      <title>It’s Time for Reasoning</title>
+      <link>https://rycolab.io/talk/roth-apr-26-21/</link>
+      <pubDate>Mon, 26 Apr 2021 16:15:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/roth-apr-26-21/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania, and a Fellow of the AAAS, the ACM, AAAI, and the ACL. In 2017 Roth was awarded the John McCarthy Award, the highest award the AI community gives to mid-career AI researchers. Roth was recognized “for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning.” Roth has published broadly in machine learning, natural language processing, knowledge representation and reasoning, and learning theory, and has developed advanced machine learning based tools for natural language applications that are being used widely. Until February 2017 Roth was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR). Roth has been involved in several startups; most recently he was a co-founder and chief scientist of NexLP, a startup that leverages the latest advances in Natural Language Processing (NLP), Cognitive Analytics, and Machine Learning in the legal and compliance domains. NexLP was sold to Reveal in 2020. Prof. Roth received his B.A Summa cum laude in Mathematics from the Technion, Israel, and his Ph.D. in Computer Science from Harvard University in 1995.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
