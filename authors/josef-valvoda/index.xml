@@ -5,7 +5,7 @@
     <link>https://rycolab.io/authors/josef-valvoda/</link>
       <atom:link href="https://rycolab.io/authors/josef-valvoda/index.xml" rel="self" type="application/rss+xml" />
     <description>Josef Valvoda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Josef Valvoda</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
-      <title>A Word on Machine Ethics: A Response to Jiang et al. (2021)</title>
+      <title>The Architectural Bottleneck Principle</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Compositionality with Formal Languages</title>
+      <link>https://rycolab.io/publication/valvodaal-coling-22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-coling-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Machine Learning of Ethical Judgments from Natural Language</title>
       <link>https://rycolab.io/publication/talatal-naacl-22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/talatal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ordinal Latent Variable Model of Conflict Intensity</title>
+      <link>https://rycolab.io/publication/stoehral-arxiv-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-arxiv-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Negative Precedent in Legal Outcome Prediction</title>
+      <link>https://rycolab.io/publication/valvodaal-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-tacl-22/</guid>
       <description></description>
     </item>
     

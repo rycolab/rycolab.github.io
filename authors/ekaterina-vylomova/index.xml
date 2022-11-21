@@ -5,12 +5,36 @@
     <link>https://rycolab.io/authors/ekaterina-vylomova/</link>
       <atom:link href="https://rycolab.io/authors/ekaterina-vylomova/index.xml" rel="self" type="application/rss+xml" />
     <description>Ekaterina Vylomova</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Ekaterina Vylomova</title>
       <link>https://rycolab.io/authors/ekaterina-vylomova/</link>
     </image>
+    
+    <item>
+      <title>SIGMORPHON--UniMorph 2022 Shared Task 0: Generalization and Typologically Diverse Morphological Inflection</title>
+      <link>https://rycolab.io/publication/kodneral-sigmorphon-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/kodneral-sigmorphon-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGMORPHON 2022 Shared Task on Morpheme Segmentation</title>
+      <link>https://rycolab.io/publication/batsurenal-sigmorphon-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/batsurenal-sigmorphon-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGTYP 2022 Shared Task on the Prediction of Cognate Reflexes</title>
+      <link>https://rycolab.io/publication/listal-sigtyp-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/listal-sigtyp-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SIGTYP 2020 Shared Task: Prediction of Typological Features</title>

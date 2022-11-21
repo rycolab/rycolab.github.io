@@ -5,12 +5,28 @@
     <link>https://rycolab.io/authors/niklas-stoehr/</link>
       <atom:link href="https://rycolab.io/authors/niklas-stoehr/index.xml" rel="self" type="application/rss+xml" />
     <description>Niklas Stoehr</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Niklas Stoehr</title>
       <link>https://rycolab.io/authors/niklas-stoehr/</link>
     </image>
+    
+    <item>
+      <title>The Architectural Bottleneck Principle</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ordinal Latent Variable Model of Conflict Intensity</title>
+      <link>https://rycolab.io/publication/stoehral-arxiv-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-arxiv-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classifying Dyads for Militarized Conflict Analysis</title>

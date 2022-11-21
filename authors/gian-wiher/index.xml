@@ -5,7 +5,7 @@
     <link>https://rycolab.io/authors/gian-wiher/</link>
       <atom:link href="https://rycolab.io/authors/gian-wiher/index.xml" rel="self" type="application/rss+xml" />
     <description>Gian Wiher</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Gian Wiher</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>On the probability–quality paradox in language generation generation</title>
-      <link>https://rycolab.io/publication/meisteral-acl-22-a/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/meisteral-acl-22-a/</guid>
+      <title>Locally Typical Sampling</title>
+      <link>https://rycolab.io/publication/meisteral-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Decoding Strategies for Neural Text Generators</title>
+      <link>https://rycolab.io/publication/wiheral-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wiheral-tacl-22/</guid>
       <description></description>
     </item>
     

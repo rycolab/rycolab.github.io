@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Pre-trained contextual representations have led to dramatic performance improvements on a range of downstream tasks. Such performance improvements have motivated researchers to quantify and understand the linguistic information encoded in these representations. In general, researchers quantify the amount of linguistic information through probing, an endeavor which consists of training a supervised model to predict a linguistic property directly from the contextual representations. Unfortunately, this definition of probing has been subject to extensive criticism in the literature, and has been observed to lead to paradoxical and counter-intuitive results. In the theoretical portion of this paper, we take the position that the goal of probing ought to be measuring the amount of inductive bias that the representations encode on a specific task. We further describe a Bayesian framework that operationalizes this goal and allows us to quantify the representations’ inductive bias. In the empirical portion of the paper, we apply our framework to a variety of NLP tasks. Our results suggest that our proposed framework alleviates many previous problems found in probing. Moreover, we are able to offer concrete evidence that—for some tasks—fastText can offer a better inductive bias than BERT.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://rycolab.io/publication/immeral-acl-22/">
@@ -304,21 +304,20 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Rycolab">
   <meta property="og:url" content="https://rycolab.io/publication/immeral-acl-22/">
   <meta property="og:title" content="Probing as Quantifying the Inductive Bias of Pre-trained Representations | Rycolab">
-  <meta property="og:description" content=""><meta property="og:image" content="https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png">
-  <meta property="twitter:image" content="https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Pre-trained contextual representations have led to dramatic performance improvements on a range of downstream tasks. Such performance improvements have motivated researchers to quantify and understand the linguistic information encoded in these representations. In general, researchers quantify the amount of linguistic information through probing, an endeavor which consists of training a supervised model to predict a linguistic property directly from the contextual representations. Unfortunately, this definition of probing has been subject to extensive criticism in the literature, and has been observed to lead to paradoxical and counter-intuitive results. In the theoretical portion of this paper, we take the position that the goal of probing ought to be measuring the amount of inductive bias that the representations encode on a specific task. We further describe a Bayesian framework that operationalizes this goal and allows us to quantify the representations’ inductive bias. In the empirical portion of the paper, we apply our framework to a variety of NLP tasks. Our results suggest that our proposed framework alleviates many previous problems found in probing. Moreover, we are able to offer concrete evidence that—for some tasks—fastText can offer a better inductive bias than BERT."><meta property="og:image" content="https://rycolab.io/publication/immeral-acl-22/featured.png">
+  <meta property="twitter:image" content="https://rycolab.io/publication/immeral-acl-22/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2022-05-23T14:37:53&#43;00:00">
+      <meta property="article:published_time" content="2022-11-20T23:29:28&#43;00:00">
     
-    <meta property="article:modified_time" content="2022-05-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-11-21T00:29:28&#43;01:00">
   
 
   
@@ -344,8 +343,12 @@
   },
   "headline": "Probing as Quantifying the Inductive Bias of Pre-trained Representations",
   
-  "datePublished": "2022-05-23T14:37:53Z",
-  "dateModified": "2022-05-01T00:00:00Z",
+  "image": [
+    "https://rycolab.io/publication/immeral-acl-22/featured.png"
+  ],
+  
+  "datePublished": "2022-11-20T23:29:28Z",
+  "dateModified": "2022-11-21T00:29:28+01:00",
   
   "author": {
     "@type": "Person",
@@ -360,7 +363,7 @@
       "url": "https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_192x192_fit_lanczos_3.png"
     }
   },
-  "description": ""
+  "description": "Pre-trained contextual representations have led to dramatic performance improvements on a range of downstream tasks. Such performance improvements have motivated researchers to quantify and understand the linguistic information encoded in these representations. In general, researchers quantify the amount of linguistic information through probing, an endeavor which consists of training a supervised model to predict a linguistic property directly from the contextual representations. Unfortunately, this definition of probing has been subject to extensive criticism in the literature, and has been observed to lead to paradoxical and counter-intuitive results. In the theoretical portion of this paper, we take the position that the goal of probing ought to be measuring the amount of inductive bias that the representations encode on a specific task. We further describe a Bayesian framework that operationalizes this goal and allows us to quantify the representations’ inductive bias. In the empirical portion of the paper, we apply our framework to a variety of NLP tasks. Our results suggest that our proposed framework alleviates many previous problems found in probing. Moreover, we are able to offer concrete evidence that—for some tasks—fastText can offer a better inductive bias than BERT."
 }
 </script>
 
@@ -819,18 +822,25 @@
 
 
 
-  
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>Probing as Quantifying the Inductive Bias of Pre-trained Representations</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -868,7 +878,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -896,8 +906,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/papers/immer&#43;al.acl22.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -919,17 +935,43 @@
 
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2110.08388" target="_blank" rel="noopener">
+    
+    URL
+  </a>
+
 
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 243px;">
+  <div style="position: relative">
+    <img src="/publication/immeral-acl-22/featured_hub5eb28b2b9aea8ef251dcaa992cc243e_191247_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Pre-trained contextual representations have led to dramatic performance improvements on a range of downstream tasks. Such performance improvements have motivated researchers to quantify and understand the linguistic information encoded in these representations. In general, researchers quantify the amount of linguistic information through probing, an endeavor which consists of training a supervised model to predict a linguistic property directly from the contextual representations. Unfortunately, this definition of probing has been subject to extensive criticism in the literature, and has been observed to lead to paradoxical and counter-intuitive results. In the theoretical portion of this paper, we take the position that the goal of probing ought to be measuring the amount of inductive bias that the representations encode on a specific task. We further describe a Bayesian framework that operationalizes this goal and allows us to quantify the representations’ inductive bias. In the empirical portion of the paper, we apply our framework to a variety of NLP tasks. Our results suggest that our proposed framework alleviates many previous problems found in probing. Moreover, we are able to offer concrete evidence that—for some tasks—fastText can offer a better inductive bias than BERT.</p>
     
 
     
@@ -1155,7 +1197,7 @@
     
     
     
-    <script src="/js/academic.min.e604a7a67d5de25417f639ef8479c4b2.js"></script>
+    <script src="/js/academic.min.028921594830c1bc75b0c52a62a48576.js"></script>
 
     
 

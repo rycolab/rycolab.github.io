@@ -5,12 +5,84 @@
     <link>https://rycolab.io/</link>
       <atom:link href="https://rycolab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rycolab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Aug 2022 13:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Rycolab</title>
       <link>https://rycolab.io/</link>
     </image>
+    
+    <item>
+      <title>Algorithms for Weighted Finite-State Automata with Failure Arcs</title>
+      <link>https://rycolab.io/publication/sveteal-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/sveteal-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms for Weighted Pushdown Automata</title>
+      <link>https://rycolab.io/publication/butoial-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/butoial-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoregressive Structure Prediction with Language Models</title>
+      <link>https://rycolab.io/publication/liual-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/liual-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernelized Concept Erasure</title>
+      <link>https://rycolab.io/publication/ravfogelal-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ravfogelal-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Information and Hallucinations in Abstractive Summarization</title>
+      <link>https://rycolab.io/publication/vanderpoelal-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/vanderpoelal-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Parsing as Tagging</title>
+      <link>https://rycolab.io/publication/aminicotterell-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminicotterell-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Architectural Bottleneck Principle</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Compositionality with Formal Languages</title>
+      <link>https://rycolab.io/publication/valvodaal-coling-22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-coling-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivariant Transduction through Invariant Alignment</title>
+      <link>https://rycolab.io/publication/whitecotterell-coling-22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/whitecotterell-coling-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Continual-T0: Fine-tuned Language Models are Continual Learners</title>
@@ -60,18 +132,34 @@
     </item>
     
     <item>
-      <title>A Word on Machine Ethics: A Response to Jiang et al. (2021)</title>
-      <link>https://rycolab.io/publication/talatal-naacl-22/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/talatal-naacl-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation</title>
       <link>https://rycolab.io/publication/jiangal-naacl-22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/jiangal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Paired-Permutation Testing for Structured Test Statistics</title>
+      <link>https://rycolab.io/publication/zmigrodal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Adversarial Concept Erasure</title>
+      <link>https://rycolab.io/publication/ravfogelal-icml-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ravfogelal-icml-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Machine Learning of Ethical Judgments from Natural Language</title>
+      <link>https://rycolab.io/publication/talatal-naacl-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/talatal-naacl-22/</guid>
       <description></description>
     </item>
     
@@ -88,6 +176,30 @@
       <link>https://rycolab.io/publication/stanczakal-naacl-22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/stanczakal-naacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGMORPHON--UniMorph 2022 Shared Task 0: Generalization and Typologically Diverse Morphological Inflection</title>
+      <link>https://rycolab.io/publication/kodneral-sigmorphon-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/kodneral-sigmorphon-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGMORPHON 2022 Shared Task on Morpheme Segmentation</title>
+      <link>https://rycolab.io/publication/batsurenal-sigmorphon-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/batsurenal-sigmorphon-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SIGTYP 2022 Shared Task on the Prediction of Cognate Reflexes</title>
+      <link>https://rycolab.io/publication/listal-sigtyp-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/listal-sigtyp-22/</guid>
       <description></description>
     </item>
     
@@ -113,14 +225,6 @@
     </item>
     
     <item>
-      <title>Causal Probing for Grammatical Number: From Encoding to Usage</title>
-      <link>https://rycolab.io/publication/lasrial-acl-22/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/lasrial-acl-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Estimating the Entropy of Linguistic Distributions</title>
       <link>https://rycolab.io/publication/aroraal-acl-22/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -129,7 +233,7 @@
     </item>
     
     <item>
-      <title>On the probability–quality paradox in language generation generation</title>
+      <title>On the probability-quality paradox in language generation</title>
       <link>https://rycolab.io/publication/meisteral-acl-22-a/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-22-a/</guid>
@@ -145,10 +249,34 @@
     </item>
     
     <item>
-      <title>Linear Relaxed Adversarial Concept Erasure</title>
-      <link>https://rycolab.io/publication/ravfogelal-icml-22/</link>
+      <title>Probing for the Usage of Grammatical Number</title>
+      <link>https://rycolab.io/publication/lasrial-acl-22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lasrial-acl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ordinal Latent Variable Model of Conflict Intensity</title>
+      <link>https://rycolab.io/publication/stoehral-arxiv-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/ravfogelal-icml-22/</guid>
+      <guid>https://rycolab.io/publication/stoehral-arxiv-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cluster-based Evaluation of Automatically Generated Text</title>
+      <link>https://rycolab.io/publication/pimentelal-arxiv-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-arxiv-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Typical Sampling</title>
+      <link>https://rycolab.io/publication/meisteral-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-tacl-22/</guid>
       <description></description>
     </item>
     
@@ -157,6 +285,46 @@
       <link>https://rycolab.io/publication/aminial-tacl-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/aminial-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Decoding Strategies for Neural Text Generators</title>
+      <link>https://rycolab.io/publication/wiheral-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wiheral-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Intersection of Context-Free and Regular Languages</title>
+      <link>https://rycolab.io/publication/pastial-arxiv-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pastial-arxiv-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Negative Precedent in Legal Outcome Prediction</title>
+      <link>https://rycolab.io/publication/valvodaal-tacl-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-art generalisation research in NLP: a taxonomy and review</title>
+      <link>https://rycolab.io/publication/hupkesal-arxiv-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/hupkesal-arxiv-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Comparison of Language Model Adaptation</title>
+      <link>https://rycolab.io/publication/sevastjanovaal-vis-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/sevastjanovaal-vis-22/</guid>
       <description></description>
     </item>
     

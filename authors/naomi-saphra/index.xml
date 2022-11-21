@@ -5,12 +5,28 @@
     <link>https://rycolab.io/authors/naomi-saphra/</link>
       <atom:link href="https://rycolab.io/authors/naomi-saphra/index.xml" rel="self" type="application/rss+xml" />
     <description>Naomi Saphra</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Naomi Saphra</title>
       <link>https://rycolab.io/authors/naomi-saphra/</link>
     </image>
+    
+    <item>
+      <title>Benchmarking Compositionality with Formal Languages</title>
+      <link>https://rycolab.io/publication/valvodaal-coling-22/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-coling-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-of-the-art generalisation research in NLP: a taxonomy and review</title>
+      <link>https://rycolab.io/publication/hupkesal-arxiv-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/hupkesal-arxiv-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Non-Linear Structural Probe</title>
