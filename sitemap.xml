@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rycolab.io/authors/</loc>
+    <lastmod>2023-01-11T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/authors/jordan-boyd-graber/</loc>
+    <lastmod>2023-01-11T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/talk/</loc>
+    <lastmod>2023-01-11T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/</loc>
+    <lastmod>2023-01-11T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/talk/boyd-graber-jan-11-23/</loc>
+    <lastmod>2023-01-11T14:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://rycolab.io/publication_types/1/</loc>
     <lastmod>2022-11-21T00:29:36+01:00</lastmod>
   </url><url>
@@ -19,9 +34,6 @@
   </url><url>
     <loc>https://rycolab.io/authors/anej-svete/</loc>
     <lastmod>2022-11-20T21:17:46+01:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/authors/</loc>
-    <lastmod>2022-11-21T14:00:00+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/publication/liual-emnlp-22/</loc>
     <lastmod>2022-11-20T21:17:46+01:00</lastmod>
@@ -77,9 +89,6 @@
     <loc>https://rycolab.io/authors/ryan-cotterell/</loc>
     <lastmod>2022-11-21T00:29:36+01:00</lastmod>
   </url><url>
-    <loc>https://rycolab.io/</loc>
-    <lastmod>2022-11-21T14:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://rycolab.io/authors/shauli-ravfogel/</loc>
     <lastmod>2022-11-21T00:29:34+01:00</lastmod>
   </url><url>
@@ -100,9 +109,6 @@
   </url><url>
     <loc>https://rycolab.io/authors/yuchen-jiang/</loc>
     <lastmod>2022-11-20T21:17:46+01:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/talk/</loc>
-    <lastmod>2022-11-21T14:00:00+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/authors/sophie-hao/</loc>
     <lastmod>2022-11-21T14:00:00+02:00</lastmod>
@@ -359,6 +365,9 @@
     <loc>https://rycolab.io/publication/stanczakal-naacl-22/</loc>
     <lastmod>2022-11-21T00:29:29+01:00</lastmod>
   </url><url>
+    <loc>https://rycolab.io/authors/sarka-dohnalova/</loc>
+    <lastmod>2022-11-20T21:17:44+01:00</lastmod>
+  </url><url>
     <loc>https://rycolab.io/authors/shuming-ma/</loc>
     <lastmod>2022-11-21T00:29:30+01:00</lastmod>
   </url><url>
@@ -397,9 +406,6 @@
   </url><url>
     <loc>https://rycolab.io/authors/zeerak-talat/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/authors/sarka-dohnalova/</loc>
-    <lastmod>2022-11-20T21:17:44+01:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/authors/aaron-schein/</loc>
     <lastmod>2022-11-20T21:17:47+01:00</lastmod>
@@ -608,10 +614,10 @@
     <loc>https://rycolab.io/publication/meisteral-emnlp-21-b/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rycolab.io/authors/damian-pascual/</loc>
+    <loc>https://rycolab.io/authors/damian-blasi/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rycolab.io/authors/damian-blasi/</loc>
+    <loc>https://rycolab.io/authors/damian-pascual/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/emnlp21/zmigrodal-emnlp-21/</loc>
@@ -1507,9 +1513,9 @@
   </url><url>
     <loc>https://rycolab.io/authors/tim/</loc>
   </url><url>
-    <loc>https://rycolab.io/authors/vilem/</loc>
-  </url><url>
     <loc>https://rycolab.io/authors/vesteinn/</loc>
+  </url><url>
+    <loc>https://rycolab.io/authors/vilem/</loc>
   </url><url>
     <loc>https://rycolab.io/authors/wangchunshu/</loc>
   </url><url>

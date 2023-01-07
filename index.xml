@@ -5,12 +5,25 @@
     <link>https://rycolab.io/</link>
       <atom:link href="https://rycolab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rycolab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jan 2023 14:00:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Rycolab</title>
       <link>https://rycolab.io/</link>
     </image>
+    
+    <item>
+      <title>TBD</title>
+      <link>https://rycolab.io/talk/boyd-graber-jan-11-23/</link>
+      <pubDate>Wed, 11 Jan 2023 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/boyd-graber-jan-11-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Jordan Boyd-Graber is an associate professor in the University of Maryland Computer Science Department (tenure home), Institute of Advanced Computer Studies, iSchool, and Language Science Center. His research focuses on making machine learning more useful, more interpretable, and able to learn and interact from humans. This helps users sift through decades of documents; discover when individuals lie, reframe, or change the topic in a conversation; or to compete against humans in games that are based in natural language.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Algorithms for Weighted Finite-State Automata with Failure Arcs</title>
