@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>If You Want Interpretable AI, Measure It</title>
+      <title>If We Want AI to be Interpretable, We Need to Measure Interpretability</title>
       <link>https://rycolab.io/talk/boyd-graber-jan-11-23/</link>
       <pubDate>Wed, 11 Jan 2023 14:00:00 +0200</pubDate>
       <guid>https://rycolab.io/talk/boyd-graber-jan-11-23/</guid>
@@ -21,7 +21,7 @@
 
 &lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
 
-&lt;p&gt;Jordan Boyd-Graber is an associate professor in the University of Maryland Computer Science Department (tenure home), Institute of Advanced Computer Studies, iSchool, and Language Science Center. His research focuses on making machine learning more useful, more interpretable, and able to learn and interact from humans. This helps users sift through decades of documents; discover when individuals lie, reframe, or change the topic in a conversation; or to compete against humans in games that are based in natural language.&lt;/p&gt;
+&lt;p&gt;Jordan Boyd-Graber is an associate professor in the University of Maryland&amp;rsquo;s Computer Science Department, iSchool, UMIACS, and Language Science Center. He generally works on how humans can interact with AI tools, starting first with topic models, then translation, then negotiation, and most recently question answering. He and his students have won &amp;ldquo;best of&amp;rdquo; awards at NIPS (2009, 2015), NAACL (2016), and CoNLL (2015). Jordan also won the British Computing Society&amp;rsquo;s 2015 Karen Spärk Jones Award and a 2017 NSF CAREER award.&lt;/p&gt;
 </description>
     </item>
     
@@ -151,7 +151,7 @@
 
 &lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
 
-&lt;p&gt;Mark Fišel is head of NLP at University of Tartu (Estonia) with focus on machine translation, speech synthesis, large language model usage, tuning and analysis, etc&lt;/p&gt;
+&lt;p&gt;Mark Fišel is head of NLP at University of Tartu (Estonia) with focus on machine translation, speech synthesis, large language model usage, tuning and analysis, etc.&lt;/p&gt;
 </description>
     </item>
     
@@ -164,7 +164,7 @@
 
 &lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
 
-&lt;p&gt;Tuhin Chakrabarty is a PhD student in Computer Science at Columbia University. Within the department he is a part of the Natural Language Processing group , where he is advised by Smaranda Muresan. His research is supported by the Columbia Center of Artificial Intelligence &amp;amp; Technology (CAIT) &amp;amp; Amazon Science Ph.D. Fellowship. His research interests are broadly in Natural Language Processing and Machine Learning, with special focus in Language Generation. His overarching research question centers around how we can control large language models to understand , interpret or generate creative text.Recently he is also working in Continual Learning of Large language models. &lt;a href=&#34;https://tuhinjubcse.github.io/&#34; target=&#34;_blank&#34;&gt;https://tuhinjubcse.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tuhin Chakrabarty is a PhD student in Computer Science at Columbia University. Within the department he is a part of the Natural Language Processing group, where he is advised by Smaranda Muresan. His research is supported by the Columbia Center of Artificial Intelligence &amp;amp; Technology (CAIT) &amp;amp; Amazon Science Ph.D. Fellowship. His research interests are broadly in Natural Language Processing and Machine Learning, with special focus in Language Generation. His overarching research question centers around how we can control large language models to understand, interpret or generate creative text.Recently he is also working in Continual Learning of Large language models. &lt;a href=&#34;https://tuhinjubcse.github.io/&#34; target=&#34;_blank&#34;&gt;https://tuhinjubcse.github.io/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
