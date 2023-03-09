@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond.">
+  <meta name="description" content="This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://rycolab.io/classes/llm-s23/">
+  <link rel="alternate" hreflang="en-us" href="https://rycolab.io/classes/esslli-23/">
 
   
 
@@ -294,7 +294,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu83f82bba91fc8623224ffe662d699efd_78958_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu83f82bba91fc8623224ffe662d699efd_78958_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://rycolab.io/classes/llm-s23/">
+  <link rel="canonical" href="https://rycolab.io/classes/esslli-23/">
 
   
   
@@ -310,9 +310,9 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Rycolab">
-  <meta property="og:url" content="https://rycolab.io/classes/llm-s23/">
-  <meta property="og:title" content="Large Language Models, Spring 2023 | Rycolab">
-  <meta property="og:description" content="Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond."><meta property="og:image" content="https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png">
+  <meta property="og:url" content="https://rycolab.io/classes/esslli-23/">
+  <meta property="og:title" content="Formal Language Theory and Neural Networks | Rycolab">
+  <meta property="og:description" content="This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models."><meta property="og:image" content="https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png">
   <meta property="twitter:image" content="https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png"><meta property="og:locale" content="en-us">
   
     
@@ -335,7 +335,7 @@
 
 
 
-  <title>Large Language Models, Spring 2023 | Rycolab</title>
+  <title>Formal Language Theory and Neural Networks | Rycolab</title>
 
 </head>
 
@@ -825,39 +825,19 @@
   
     
       <div class="col-lg-12">
-        <h1>Large Language Models, Spring 2023</h1>
-        <p>ETH Zürich: <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=171001&amp;semkez=2023S&amp;ansicht=LEHRVERANSTALTUNGEN&amp;lang=en" target="_blank">Course catalog</a></p>
+        <h1>Formal Language Theory and Neural Networks</h1>
+        <p>ESSLLI 2023</p>
         
 
-<h2 id="course-description">Course Description</h2>
+<h2 id="tutorial-description">Tutorial Description</h2>
 
-<p>Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we offer a self-contained introduction to language modeling and its applications. We start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond.</p>
+<p>This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.</p>
 
 <h2 id="news">News</h2>
 
-<p><strong>3. 1. 2023</strong> &emsp; Class website is online!<br />
-<strong>20. 2. 2023</strong> &emsp; Update on the previous announcement from January 30th: the Large Language Models course can count towards the core <em>elective</em> courses for the Data Science master&rsquo;s program, rather than the core courses. Indeed, the course is now listed as a core elective course for the Data Science master&rsquo;s program, so no additional action is required upon registering for the course through MyStudies.<br />
-<strong>20. 2. 2023</strong> &emsp; First draft of the <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank">notes</a> for the first part of the course is online!<br />
-<strong>24. 2. 2023</strong> &emsp; The <a href="https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link" target="_blank">iPad class notes</a> have been posted. The same link will contain updated notes for the first part of the course throughout the semester.<br />
-<strong>9. 3. 2023</strong> &emsp; The first part of the <a href="https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link" target="_blank">first assignment</a> has been released!</p>
+<p><strong>9. 3. 2023</strong> &emsp; Tutorial website is online!</p>
 
 <h2 id="syllabus-and-schedule">Syllabus and Schedule</h2>
-
-<h3 id="on-the-use-of-class-time">On the Use of Class Time</h3>
-
-<h4 id="lectures">Lectures</h4>
-
-<p>There are two lecture slots for LLM each week: the first one on Tuesdays 14-16 in <a href="https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&amp;areal=Z&amp;gebaeude=CAB&amp;geschoss=G&amp;raumNr=61" target="_blank">CAB G 61</a> and the second one on Fridays 10-11 in <a href="https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&amp;areal=Z&amp;gebaeude=CAB&amp;geschoss=G&amp;raumNr=61" target="_blank">CAB G 61</a>.</p>
-
-<p>Both lectures will be given in person and live broadcast on <a href="https://ethz.zoom.us/j/63534790714" target="_blank">Zoom</a>; the password is available on the <a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19133" target="_blank">course Moodle page</a>.</p>
-
-<p>Lectures will be recorded&mdash;links to the Zoom recordings will be posted on the <a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19133" target="_blank">course Moodle page</a>.</p>
-
-<h4 id="discussion-sections">Discussion Sections</h4>
-
-<p>Discussion sections (tutorials) will take place Thursdays 16-18 in <a href="https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&amp;areal=Z&amp;gebaeude=NO&amp;geschoss=C&amp;raumNr=60" target="_blank">NO C 60</a> and on Zoom (<a href="https://ethz.zoom.us/j/63534790714" target="_blank">same link</a> as the lectures).</p>
-
-<!-- Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures. -->
 
 <script
     type="text/javascript"
@@ -880,6 +860,22 @@
 
 <h3 id="syllabus">Syllabus</h3>
 
+<p><strong>Day 1: A Hitchhiker&rsquo;s Guide to Language Models and Weighted Formal Language Theory.</strong><br />
+On the first day, we will cover the basics of language models. We will give a formal definition of a language model as a distribution over all strings, discussing subtleties that arise in this definition, e.g., the notion of tightness (Du et al., 2022). Then, we will move on to formal language theory, specifically focusing on different levels of the Chomsky hierarchy. We will introduce the weighted versions of the two commonly used computational devices from formal language theory: weighted finite-state automata (WFSA) and weighted pushdown automata (WPDA). WFSAs can be used to represent n-gram language models, which were the standard in the field of natural language processing from the 1980s till the late 2010s. WPDA language models, on the other hand, are particularly useful for modeling natural language, as they can use their stack to represent arbitrarily deep hierarchical features, such as grammatical constraints and semantic composition (Chelba and Jelinek, 1998; Abney et al., 1999).</p>
+
+<p><strong>Day 2: Recurrent Neural Networks as Weighted Recognizers.</strong><br />
+On the second day of our tutorial, we will delve into the realm of recurrent neural networks and their application to modeling language. By their very nature, finite-state language models can only consider a limited amount of context. RNNs, however, offer a way to overcome this limitation by theoretically modeling the entire history of their input. We will provide a formal definition of a recurrent neural language model and discuss some of the popular variants of RNNs, such as LSTM (Hochreiter and Schmidhuber, 1997) and GRU (Cho et al., 2014). Furthermore, we will define the concept of neural sequence acceptors and generators, which formally describe what it means for a neural model to accept and generate a language, analogously to models from formal language theory. These concepts are crucial for understanding the full capabilities and potential of neural language models. We will also motivate the analysis of neural language models with tools from formal language theory, highlighting their interpretability and efficiency.</p>
+
+<p><strong>Day 3: Recurrent Neural Networks and Weighted Finite-state Automata.</strong><br />
+On the third day of the tutorial, we will dive into the representational capabilities of RNNs. We will explore the relationship between RNNs and WFSAs, and demonstrate that, under certain conditions, such as the use of a hard thresholding activation function, RNNs have the same expressive capacity as WFSAs. We will also present a simple construction for creating a thresholded RNN that can represent a WFSA with a number of neurons that is linear in the number of states in the WFSA, due to Minsky (1954). Additionally, we will show that RNNs can, in some cases, implicitly represent finite-state language models that are exponentially larger. On the other hand, we will also demonstrate that some WFSAs do not exhibit compact representations with RNNs. We will present a more elaborate construction of an RNN that can implement a general WFSA, with a hidden state dimensionality that is sub-linear in the number of states. This construction is based on the work of Dewdney (1977), Alon et al. (1991), and Indyk (1995), but is more intricate as it will be generalized to the weighted case. We also walk through the more efficient construction of Hewitt et al. (2020) for the special case of the finite Dyck languages.</p>
+
+<p><strong>Day 4: Recurrent Neural Networks, Weighted Pushdown Automata, and Turing Machines.</strong><br />
+On the fourth day of the tutorial, we will then shift our focus to the representation of the hierarchical structure of human language. We show that if we assume our activation is a ReLU or a saturated sigmoid and we have infinite precision arithmetic, then our RNN can emulate a WPDA or weighted Turing machine. Both of these constructions are a generalization of the classic construction due to Siegelmann and Sontag (1992). Afterward, we turn to classic theory of computation and show that, by simulating Turing machines, many standard tasks that are decidable for weighted finite-state automata are in fact undecidable for RNNs, such as minimization, equivalence testing, finding the highest-weighted string, and determining tightness (Chen et al., 2018). Such results imply that many computational tasks relevant to NLP cannot be solved for RNNs with a polynomial amount of computation (Lin et al., 2021).</p>
+
+<p><strong>Day 5: Formal Language Theory and Transformers.</strong><br />
+On the final day of our tutorial, we will turn to formal language theory and Transformer-based language models (Vaswani et al., 2017). Compared to the case of recurrent neural networks, the study of Transformers through the lens of formal language theory is relatively new. We will cover recent advances in the theoretical limitations of self-attention (Hahn, 2020; Chiang and Cholak, 2022) as well as the proof by Pérez et al. (2021) that Transformers, again with infinite precision arithmetic, are Turing complete. Again, many of these results are generalized to the weighted case, i.e., we will work to consider Transformer-based language models as weighted recognizers. We conclude the final day of the tutorial with an overview of what we have covered and its implications for the applications of language models in practice. We also will go over several possible future directions of research for those students who are interested in continuing to study the relationship between neural language models and formal language theory.</p>
+
+<!-- 
 <table class="table">
   <head>
     <base target="_blank">
@@ -898,7 +894,6 @@
   </thead>
   <tbody>
     <tr>
-      <!-- <td>21. 2. 2023 (1 hour)</td> -->
       <td>21. 2. 2023</td>
       <td>1 hour</td>
       <td></td>
@@ -921,7 +916,6 @@
       </td>
     </tr>    
     <tr>
-      <!-- <td>21. 2. 2023 (1 hour)</td> -->
       <td>21. 2. 2023</td>
       <td>1 hour</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Probabilistic Foundations</b></td>
@@ -945,7 +939,6 @@
       </td>
     </tr>  
     <tr>
-      <!-- <td>24. 2. 2023 (1 hour)</td> -->
       <td>24. 2. 2023</td>
       <td>1 hour</td>
       <td>Defining a Language Model</td>
@@ -967,7 +960,6 @@
       </td>
     </tr>   
     <tr>
-      <!-- <td>28. 2. 2023 (2 hours)</td> -->
       <td>28. 2. 2023</td>
       <td>2 hours</td>
       <td>Tight Language Models</td>
@@ -990,7 +982,6 @@
       </td>
     </tr>   
     <tr>
-      <!-- <td>3. 3. 2023 (1 hour)</td> -->
       <td>3. 3. 2023</td>
       <td>1 hour</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
@@ -1012,7 +1003,6 @@
       </td>
     </tr>  
     <tr>
-      <!-- <td>7. 3. 2023 (2 hours)</td> -->
       <td>7. 3. 2023</td>
       <td>2 hours</td>
       <td>Finite-State Language Models</td>
@@ -1034,7 +1024,6 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>10. 3. 2023 (1 hour)</td> -->
       <td>10. 3. 2023</td>
       <td>1 hour</td>
       <td>Pushdown Language Models</td>
@@ -1076,7 +1065,6 @@
       </td>
     </tr>  
     <tr>
-      <!-- <td>17. 3. 2023 (1 hour)</td> -->
       <td>17. 3. 2023</td>
       <td>1 hour</td>
       <td>Variants of RNNLMs</td>
@@ -1099,7 +1087,6 @@
     <tr>
       <td>21. 3. 2023</td>
       <td>2 hours</td>
-      <!-- <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td> -->
       <td>Representational Capacity of RNNLMs</td>
       <td>
       Ryan
@@ -1120,7 +1107,6 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>21. 3. 2023 (2 hours)</td> -->
       <td>24. 3. 2023</td>
       <td>1 hour</td>
       <td>Transformer-based Language Models</td>
@@ -1141,7 +1127,6 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>24. 3. 2023 (1 hour)</td> -->
       <td>28. 3. 2023</td>
       <td>2 hours</td>
       <td>Efficient Attention</td>
@@ -1150,7 +1135,7 @@
       </td>
       <td>
       <div id="summary11" style="display:none">
-      There is an ever-growing bag of tricks that speed up the computation of the attention mechanism in Transformer-based language models. This lecture overview those tricks and various generalizations of the transformer, which are becoming increasingly necessary to scale up Transformer LMs on academic hardware. We will also discuss multi-headed attention, sparse attention, and Transformer variants tailored for long documents. Where possible, we prove guarantees for the methods.
+      There is an ever-growing bag of tricks that speed up the computation of the attention mechanism in Transformer-based language models. This lecture overview those tricks, which are becoming increasingly necessary to scale up Transformer LMs on academic hardware. Where possible, we prove guarantees for the methods.
       <br/>
       <br/>
       </div>
@@ -1162,16 +1147,15 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>28. 3. 2023 (2 hours)</td> -->
       <td>31. 3. 2023</td>
       <td>1 hour</td>
-      <td>Representational Capacity of Transformer-based Language Models</td>
+      <td>Variants on the Transformer</td>
       <td>
       Ryan
       </td>
       <td>
       <div id="summary12" style="display:none">
-      Inspired by the Turing completeness of RNNs, we study the representational capacity of Transformers. Although the connection to automata is not as straight-forward as with RNNs, we discuss how to think about Transformers as formal models and show that, assuming an unbounded number of layers and infinite precision, Transformers are Turing complete.
+      This lecture overviews various generalizations of the transformer. We will discuss multi-headed attention, sparse attention, and Transformer variants tailored for long documents.
       <br/>
       <br/>
       </div>
@@ -1183,7 +1167,6 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>4. 4. 2023 (2 hours)</td> -->
       <td>4. 4. 2023</td>
       <td>2 hours</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
@@ -1221,7 +1204,6 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>31. 3. 2023 (1 hour)</td> -->
       <td>18. 4. 2023</td>
       <td>2 hours</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
@@ -1301,7 +1283,6 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>11. 4. 2023 (2 hours)</td> -->
       <td>2. 5. 2023</td>
       <td>2 hours</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Parallelism and Scaling up</b></td>
@@ -1322,7 +1303,6 @@
       </td>
     </tr>
     <tr>
-      <!-- <td>7. 4. 2023 (1 hour)</td> -->
       <td>5. 5. 2023</td>
       <td>1 hour</td>
       <td>Parallelism</td>
@@ -1502,231 +1482,76 @@
       <td>
       </td>
     </tr>
-    <!-- <tr>
-      <td>2. 6. 2023</td>
-      <td></td>
-      <td>Conclusion and Group Discussion</td>
-      <td>
-      Ryan/Mrinmaya/Ce/Florian
-      </td>
-      <td>
-      <div id="summary28" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button28" style="border:none;" onclick="myFunction('28')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>   -->
-  </tbody>
-</table>
-
-<h2 id="organisation">Organisation</h2>
-
-<h3 id="live-chat">Live Chat</h3>
-
-<p>In addition to class time, there will also be a <code>RocketChat</code>-based live chat hosted on ETH’s servers.
-Students are free to ask questions of the teaching staff and of others in public or private (direct message).
-There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides.
-All data from the chat will be deleted from ETH servers at the course’s conclusion.</p>
-
-<p><strong>Important</strong>: There are a few important points you should keep in mind about the course live chat:</p>
-
-<ol>
-<li><code>RocketChat</code> will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the <code>RocketChat</code>.<br /></li>
-<li>Your username should be <code>firstname.lastname</code>. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate.</li>
-<li><strong>Tag</strong> your questions as described in the document on <a href="https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing" target="_blank">How to use Rycolab Course RocketChat channels</a>. The document also contains other general remarks about the use of <code>RocketChat</code>.<br /></li>
-<li>Search for answers in the appropriate channels before posting a new question.<br /></li>
-<li>Ask questions on public channels as much as possible.<br /></li>
-<li>Answer to posts in <em>threads</em>.<br /></li>
-<li>The chat supports <code>LaTeX</code> for easier discussion of technical material. See <a href="https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing" target="_blank">How to use <code>LaTeX</code> in <code>RocketChat</code></a>.<br /></li>
-<li>We highly recommend you download the desktop app <a href="https://www.rocket.chat/" target="_blank">here</a>.<br /></li>
-</ol>
-
-<p><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FAHAxqx" target="_blank"><strong>This is the link</strong></a> to the main channel.
-To make the moderation of the chat more easily manageable, we have created a number of other channels on <code>RocketChat</code>.
-The full list is:</p>
-
-<ul>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FAHAxqx" target="_blank">LLM General Channel</a> for the general organisational discussions.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2Fo83kuN" target="_blank">LLM Announcements Channel</a> for the announcements by the teaching team.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2F4ZSstp" target="_blank">LLM Content Questions</a> for your questions about the content of the course.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FNB56vb" target="_blank">LLM Errata</a> for reporting typos and errors in the course lecture notes and the slides.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FLHGssw" target="_blank">LLM Assignment 1</a> for discussing and asking questions about Assignment 1.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FLHGssw" target="_blank">LLM Assignment 2</a> for discussing and asking questions about Assignment 2.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FonAH7n" target="_blank">Find Assignment Partners</a> for finding teammates for the course assignments.</li>
-</ul>
-
-<p>If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!</p>
-
-<h3 id="course-notes">Course Notes</h3>
-
-<p>We will prepare the course lecture notes as we go!
-The individual chapters will be published in the course syllabus and updated throughout the semester.
-Please report all errata to the teaching staff; we created an <a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FNB56vb" target="_blank">errata channel</a> in <code>RocketChat</code>.</p>
-
-<p><strong>Links to the course notes</strong>:</p>
-
-<ul>
-<li><a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank">LLM Course Notes Part 1</a></li>
-</ul>
-
-<p>Other useful literature:</p>
-
-<ul>
-<li><a href="https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link" target="_blank">iPad class notes</a><br /></li>
-<li><a href="https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=30OMHV1C018JY&amp;dchild=1&amp;keywords=introduction+to+natural+language+processing&amp;qid=1598878964&amp;sprefix=introduction+to+na%2Caps%2C148&amp;sr=8-1" target="_blank">Introduction to Natural Language Processing (Eisenstein)</a><br /></li>
-<li><a href="https://www.deeplearningbook.org/" target="_blank">Deep Learning (Goodfellow, Bengio and Courville)</a><br /></li>
-<li><a href="https://rycolab.io/classes/aflt-s23/" target="_blank">AFLT Course Notes</a><br /></li>
-</ul>
-
-<h3 id="grading">Grading</h3>
-
-<p>Marks for the course will be determined by the following formula:</p>
-
-<ul>
-<li><strong>50%</strong> Final Exam<br /></li>
-<li><strong>50%</strong> Assignments</li>
-</ul>
-
-<h4 id="on-the-final-exam">On the Final Exam</h4>
-
-<p>The final exam is comprehensive and should be assumed to cover all the material in the slides and class notes.</p>
-
-<h4 id="on-the-class-assignments">On the Class Assignments</h4>
-
-<p>There will be <strong>2</strong> larger assignments in the course.
-<!-- We impose two firm deadlines for handing in your solutions: --></p>
-
-<p>We require the solutions to be properly typeset.
-We recommend using <code>LaTeX</code> (with <a href="https://www.overleaf.com" target="_blank"><code>Overleaf</code></a>), but <code>markdown</code> files with <code>MathJax</code> for the mathematical expressions are also fine.</p>
-
-<p>The first assignment will be of more theoretical nature and will be released shortly after the start of the semester.</p>
-
-<p><strong>Assignment instructions sheets</strong>:</p>
-
-<ul>
-<li><a href="https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link" target="_blank">Assignment 1</a><br /></li>
-</ul>
-
-<h5 id="assignment-deadlines">Assignment Deadlines</h5>
-
-<p>The <em>first assignment</em> will be due on <strong>Thursday, April 20th</strong> at 23:59.
-The reason behind this is that the course then switches to different topics not relevant for the first assignment, so having a deadline before that will allow you to focus on the rest of the course.</p>
-
-<!-- 
-## Tutorial Schedule
-<table class="table">
-  <head>
-    <base target="_blank">
-  </head>
-  <thead>
-    <tr>
-      <th scope="col" style='white-space:nowrap'>Week</th>
-      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
-      <th scope="col" style='white-space:nowrap'>Topic</th>
-      <th scope="col" style='white-space:nowrap'>Teaching Assistant</th>
-      <th scope="col" style='white-space:nowrap'>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>28. 9. 2023</td>
-      <td>Course Logistics and Introduction of the TA Team</td>
-      <td>All TAs</td>
-      <td><a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>5. 10. 2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>12. 10. 2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>19. 10. 2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">5</th>
-      <td>26. 10. 2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">6</th>
-      <td>2. 11. 2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">7</th>
-      <td>9. 11. 2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">8</th>
-      <td>16. 11. 2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>23. 11. 2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">10</th>
-      <td>30. 11. 2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">11</th>
-      <td>7. 12. 2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">12</th>
-      <td>14. 12. 2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">13</th>
-      <td>21. 12. 2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
-      <td></td>
-    </tr>
-    
   </tbody>
 </table> -->
+
+<!-- 
+## Organisation
+### Live Chat
+In addition to class time, there will also be a `RocketChat`-based live chat hosted on ETH’s servers. 
+Students are free to ask questions of the teaching staff and of others in public or private (direct message). 
+There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides. 
+All data from the chat will be deleted from ETH servers at the course’s conclusion. 
+
+**Important**: There are a few important points you should keep in mind about the course live chat:  
+
+1. `RocketChat` will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the `RocketChat`.  
+2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate. 
+3. **Tag** your questions as described in the document on [How to use Rycolab Course RocketChat channels](https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing). The document also contains other general remarks about the use of `RocketChat`.  
+4. Search for answers in the appropriate channels before posting a new question.  
+5. Ask questions on public channels as much as possible.  
+6. Answer to posts in _threads_.  
+7. The chat supports `LaTeX` for easier discussion of technical material. See [How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing).  
+8. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
+
+[**This is the link**](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FAHAxqx) to the main channel.
+To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
+The full list is:
+
+- [LLM General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FAHAxqx) for the general organisational discussions.
+- [LLM Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fo83kuN) for the announcements by the teaching team.
+- [LLM Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F4ZSstp) for your questions about the content of the course.
+- [LLM Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNB56vb) for reporting typos and errors in the course lecture notes and the slides.
+- [LLM Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLHGssw) for discussing and asking questions about Assignment 1.
+- [LLM Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLHGssw) for discussing and asking questions about Assignment 2.
+- [Find Assignment Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FonAH7n) for finding teammates for the course assignments.
+
+If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team! -->
+
+<h2 id="useful-literature">Useful Literature</h2>
+
+<p>A more detailed version of this course covering many more topics will be given at the Department of Computer Science, ETH Zürich, in Spring 2023. See the <a href="classes/llm-s23/" target="_blank">Large Language Models course website</a> for more details. Notes and exercises from this course will be distributed to the students for reading and additional practice during the ESSLLI course.</p>
+
+<p><strong>Additional References</strong>:</p>
+
+<ul>
+<li>Abney S., McAllester, D. and Pereira, F. 1999. Relating Probabilistic Grammars and Automata. Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics.<br /></li>
+<li>Alon, N., Dewdney, A. K., and Ott, T. J. 1991. Efficient simulation of finite automata by neural nets. J. ACM 38, 2 (April 1991), 495–514. <a href="https://doi.org/10.1145/103516.103523" target="_blank">https://doi.org/10.1145/103516.103523</a><br /></li>
+<li>Chelba, C. and Jelinek, F. 1998. Exploiting Syntactic Structure for Language Modeling. 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1.<br /></li>
+<li>Hewitt, J., Hahn, M., Ganguli, S., Liang, P., and Manning. C. D. 2020. RNNs can generate bounded hierarchical languages with optimal memory. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1978–2010, Online. Association for Computational Linguistics.<br /></li>
+<li>Chiang, D. and Cholak, P. 2022. Overcoming a Theoretical Limitation of Self-Attention. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).<br /></li>
+<li>Chen, Y., Gilroy, S., Maletti, A., May, J., and Knight, K. 2018. Recurrent Neural Networks as Weighted Language Recognizers. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 2261–2271, New Orleans, Louisiana. Association for Computational Linguistics.<br /></li>
+<li>Du, L., Hennigen, L. T., Pimentel, T., Meister, C., Eisner, J., and Cotterell, R. (2022). A Measure-Theoretic Characterization of Tight Language Models. doi:10.48550/ARXIV.2212.10502<br /></li>
+<li>Dewdney, A. K. 1977. Threshold matrices and the state assignment problem for neural nets. In Proceedings of the 8th SouthEastern Conference on Combinatorics, Graph Theory and Computing. Louisiana State University, Baton Rouge, La., pp. 227-245.<br /></li>
+<li>Hahn, M. 2020. Theoretical Limitations of Self-Attention in Neural Sequence Models. Transactions of the Association for Computational Linguistics.<br /></li>
+<li>Indyk, P. (1995). Optimal simulation of automata by neural nets. In: Mayr, E.W., Puech, C. (eds) STACS 95. STACS 1995. Lecture Notes in Computer Science, vol 900. Springer, Berlin, Heidelberg. <a href="https://doi.org/10.1007/3-540-59042-0_85" target="_blank">https://doi.org/10.1007/3-540-59042-0_85</a><br /></li>
+<li>Lin, C., Jaech, A., Li, X., Gormley, M. R., and Eisner, Jason. 2021 Limitations of Autoregressive Models and Their Alternatives. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.<br /></li>
+<li>Minsky, M. L. Neural Nets and the brain model problem. Ph.D dissertation, Princeton Univ., Princeton, N. J., 1954.<br /></li>
+<li>Minsky, M. L. Computation: Finite and Infinite Machines. Prentice-Hall, New York, 1967.<br /></li>
+<li>Siegelmann, H. T., and Sontag, E. D. 1992. On the computational power of neural nets. In Proceedings of the fifth annual workshop on Computational learning theory (COLT &lsquo;92). Association for Computing Machinery, New York, NY, USA, 440–449. <a href="https://doi.org/10.1145/130385.130432" target="_blank">https://doi.org/10.1145/130385.130432</a><br /></li>
+<li>Mohri, M. (2009). Weighted Automata Algorithms. In: Droste, M., Kuich, W., Vogler, H. (eds) Handbook of Weighted Automata. Monographs in Theoretical Computer Science. An EATCS Series. Springer, Berlin, Heidelberg. <a href="https://doi.org/10.1007/978-3-642-01492-5_6" target="_blank">https://doi.org/10.1007/978-3-642-01492-5_6</a><br /></li>
+<li>Mohri, M.. 1997. Finite-State Transducers in Language and Speech Processing. Computational Linguistics, 23(2):269–311.<br /></li>
+<li>Merrill, W., Weiss, G., Goldberg, Y., Schwartz, R., Smith, N. A., and Yahav, E.. 2020. A Formal Hierarchy of RNN Architectures. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 443–459, Online. Association for Computational Linguistics.<br /></li>
+<li>Peng H., Schwartz R., Thomson S., and Smith N. A.. Rational Recurrences. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics; 2018:1203-1214. doi:10.18653/v1/D18-1152<br /></li>
+<li>Pérez, J., Barceló, P., and Marinkovic, J. 2021. Attention is Turing Complete. Journal of Machine Learning Research.<br /></li>
+<li>Schwartz R., Thomson S., and Smith N. A. Bridging CNNs, RNNs, and Weighted Finite-State Machines. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Association for Computational Linguistics; 2018:295-305. doi:10.18653/v1/P18-1028<br /></li>
+<li>Delétang G., Ruoss A., Grau-Moya J., et al. Neural Networks and the Chomsky Hierarchy. Published online 2022. doi:10.48550/ARXIV.2207.02098<br /></li>
+<li>Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł. and Polosukhin, I.. 2017. Attention is all you need. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS&rsquo;17). Curran Associates Inc., Red Hook, NY, USA, 6000–6010.<br /></li>
+<li>Hochreiter, S., and Schmidhuber, J. (1997). Long short-term memory. Neural computation, 9(8), 1735-1780.<br /></li>
+<li>Cho, K., van Merriënboer, B., Bahdanau, D., and Bengio, Y. 2014. On the Properties of Neural Machine Translation: Encoder–Decoder Approaches. In Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in Statistical Translation, pages 103–111, Doha, Qatar. Association for Computational Linguistics.<br /></li>
+<li>Ciprian Chelba and Frederick Jelinek. 1998. Exploiting Syntactic Structure for Language Modeling. In 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1, pages 225–231, Montreal, Quebec, Canada. Association for Computational Linguistics.<br /></li>
+<li>Steven Abney, David McAllester, and Fernando Pereira. 1999. Relating Probabilistic Grammars and Automata. In Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics, pages 542–549, College Park, Maryland, USA. Association for Computational Linguistics.</li>
+</ul>
 
       </div>
       
@@ -1796,296 +1621,10 @@ The reason behind this is that the course then switches to different topics not 
 
   
   <div class="col-md-12" align="Left">
-    <h2 class="mb-4">Large Language Models Lecturers</h2>
+    <h2 class="mb-4">ESSLLI 2023 Lecturers</h2>
   </div>
   
 
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/ce/"><img class="avatar avatar-square" src="/authors/ce/avatar_hua1dd0e7af679ec58bf5eef94780d39fb_64471_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/ce/">Ce Zhang</a></h2>
-      <h3>Assistant Professor in Computer Science</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:ce.zhang@inf.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.ch/citations?hl=en&amp;user=GkXqbmMAAAAJ" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://zhangce.github.io/" target="_blank" rel="noopener">
-        <i class="fab fa-profile"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/DS3Lab" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/floriantramer/"><img class="avatar avatar-square" src="/authors/floriantramer/avatar_hud6c5d2dca2f54faed9a0846c8a06d0d5_5481657_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/floriantramer/">Florian Tramèr</a></h2>
-      <h3>Assistant Professor in Computer Science</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:florian.tramer@inf.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.ch/citations?user=ijH0-a8AAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="http://www.floriantramer.ch/" target="_blank" rel="noopener">
-        <i class="fab fa-profile"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/florian_tramer" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/mrinmaya/"><img class="avatar avatar-square" src="/authors/mrinmaya/avatar_huc2b0d38e4c7670dd84904bcc5dcf577c_91094_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/mrinmaya/">Mrinmaya Sachan</a></h2>
-      <h3>Assistant Professor in Computer Science</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:mrinmaya.sachan@inf.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=Tpp9ZjoAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="http://www.mrinmaya.io/" target="_blank" rel="noopener">
-        <i class="fab fa-profile"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
   
   
   
@@ -2193,286 +1732,7 @@ The reason behind this is that the course then switches to different topics not 
 
   
   <div class="col-md-12" align="Left">
-    <h2 class="mb-4">Large Language Models Guest Lecturers</h2>
-  </div>
-  
-
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/alexwarstadt/"><img class="avatar avatar-square" src="/authors/alexwarstadt/avatar_hu907ac263c84c1b62e39d0226cbd49ad4_745245_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/alexwarstadt/">Alex Warstadt</a></h2>
-      <h3>Postdoc</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:awarstadt@ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/a_stadt" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="http://alexwarstadt.com" target="_blank" rel="noopener">
-        <i class="fas fa-portrait"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/ethan/"><img class="avatar avatar-square" src="/authors/ethan/avatar_hu9a89bafb8add7052318e586ad8769214_720211_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/ethan/">Ethan Wilcox</a></h2>
-      <h3>Postdoc</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:ethan.wilcox@inf.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/wilcoxeg.github.io" >
-        <i class="fas fa-portrait"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/tiago/"><img class="avatar avatar-square" src="/authors/tiago/avatar_hu7e23e3226ba3b7b61d3712eb412fced2_222706_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/tiago/">Tiago Pimentel</a></h2>
-      <h3>PhD Student</h3>
-      
-        <h3>
-          <a href="https://www.cam.ac.uk/" target="_blank" rel="noopener">
-          <span>University of Cambridge</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:tp472@cam.ac.uk" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/tpimentelms" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=XjZ8NRsAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/tpimentelms" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://tpimentelms.github.io/" target="_blank" rel="noopener">
-        <i class="fas fa-portrait"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-
-  
-  <div class="col-md-12" align="Left">
-    <h2 class="mb-4">Large Language Models Teaching Assistants</h2>
+    <h2 class="mb-4">ESSLLI 2023 Teaching Assistants</h2>
   </div>
   
 
@@ -2592,12 +1852,12 @@ The reason behind this is that the course then switches to different topics not 
     
     
       
-      <a href="/authors/clara/"><img class="avatar avatar-square" src="/authors/clara/avatar_hu9e005b0dda6fe34a3223c2a130119cd2_134170_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
+      <a href="/authors/franz/"><img class="avatar avatar-square" src="/authors/franz/avatar_hu791c22879444decdd16a84262da3a723_1170363_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/authors/clara/">Clara Meister</a></h2>
-      <h3>PhD Student</h3>
+      <h2><a href="/authors/franz/">Franz Nowak</a></h2>
+      <h3>Master’s Student</h3>
       
         <h3>
           <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
@@ -2617,7 +1877,7 @@ The reason behind this is that the course then switches to different topics not 
     
     
     <li>
-      <a href="mailto:meistecl@inf.ethz.ch" >
+      <a href="mailto:fnowak@ethz.ch" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -2634,7 +1894,7 @@ The reason behind this is that the course then switches to different topics not 
       
     
     <li>
-      <a href="https://twitter.com/clara__meister" target="_blank" rel="noopener">
+      <a href="https://twitter.com/franz_nowak" target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
@@ -2651,24 +1911,7 @@ The reason behind this is that the course then switches to different topics not 
       
     
     <li>
-      <a href="https://scholar.google.com/citations?user=quJhNH8AAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/cimeister" target="_blank" rel="noopener">
+      <a href="https://github.com/franznowak" target="_blank" rel="noopener">
         <i class="fab fa-github"></i>
       </a>
     </li>
@@ -2685,615 +1928,7 @@ The reason behind this is that the course then switches to different topics not 
       
     
     <li>
-      <a href="https://cimeister.github.io" target="_blank" rel="noopener">
-        <i class="fas fa-portrait"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/kumar/"><img class="avatar avatar-square" src="/authors/kumar/avatar_huda696d783853d4f974ff5550decc4420_895777_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/kumar/">Kumar Shridhar</a></h2>
-      <h3>PhD Student</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/shkumar@ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/JupyterAI" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/kumar-shridhar" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://kumar-shridhar.github.io/" target="_blank" rel="noopener">
-        <i class="fas fa-portrait"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=rR2qicwAAAAJ" target="_blank" rel="noopener">
-        <i class="fas fa-google"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/leo/"><img class="avatar avatar-square" src="/authors/leo/avatar_hu4eb47e2bae4b38f454610b67572b0837_3354_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/leo/">Leo Du</a></h2>
-      <h3>PhD Student</h3>
-      
-        <h3>
-          <a href="https://www.jhu.edu/" target="_blank" rel="noopener">
-          <span>Johns Hopkins University</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:leodu@cs.jhu.edu" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=efDU43kAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/leoduw" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/leo-du" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/luca/"><img class="avatar avatar-square" src="/authors/luca/avatar_hu0de6c85cfa44164226fd2140a2188dd1_367255_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/luca/">Luca Malagutti</a></h2>
-      <h3>Master&rsquo;s Student</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:lmalagutti@student.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/tianyu/"><img class="avatar avatar-square" src="/authors/tianyu/avatar_hueae68e9f3e58d5a8ac415180b83c9cfe_66546_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/tianyu/">Tianyu Liu</a></h2>
-      <h3>PhD Student/Web Meister</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:tianyu.liu@inf.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/t_y_liu" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=tDQ2E0UAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/lyutyuh" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/vilem/"><img class="avatar avatar-square" src="/authors/vilem/avatar_hu1409025ed92efb57ec5154534672358f_126720_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/vilem/">Vilém Zouhar</a></h2>
-      <h3>PhD Student</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:vzouhar@inf.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/zouharvi" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=2EUDwtkAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/zouharvi" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://vilda.net/" target="_blank" rel="noopener">
-        <i class="fas fa-portrait"></i>
-      </a>
-    </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/authors/wangchunshu/"><img class="avatar avatar-square" src="/authors/wangchunshu/avatar_hu52719d4e9cfd9f9fe40a3cf4b55808a2_23929_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/authors/wangchunshu/">Wangchunshu Zhou</a></h2>
-      <h3>PhD Student</h3>
-      
-        <h3>
-          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
-          <span>ETH Zürich</span>
-          </a>
-        </h3>
-        
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:wangchunshu.zhou@inf.ethz.ch" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/wangchunshu" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://scholar.google.com/citations?user=UebIjuQAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-        <i class="fab fa-google"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/MichaelZhouwang" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://michaelzhouwang.github.io/" target="_blank" rel="noopener">
+      <a href="https://franznowak.github.io/" target="_blank" rel="noopener">
         <i class="fas fa-portrait"></i>
       </a>
     </li>
