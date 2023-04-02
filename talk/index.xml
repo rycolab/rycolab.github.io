@@ -5,12 +5,25 @@
     <link>https://rycolab.io/talk/</link>
       <atom:link href="https://rycolab.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Mar 2023 13:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Apr 2023 10:30:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://rycolab.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Communicative Feedback in Language Acquisition</title>
+      <link>https://rycolab.io/talk/nikolaus-apr-02-23/</link>
+      <pubDate>Tue, 04 Apr 2023 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/nikolaus-apr-02-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Mitja Nikolaus is currently finishing his PhD with Abdellah Fourtassi at Aix-Marseille University. Mitja is a cognitive scientist who uses machine learning to study how children acquire language. He&amp;rsquo;s especially interested in communicative feedback and multimodal learning.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>&#34;Ambiguous&#34; isn&#39;t &#34;Underspecified&#34;: Evidence from three tasks</title>
