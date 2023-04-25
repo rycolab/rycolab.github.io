@@ -5,25 +5,12 @@
     <link>https://rycolab.io/talk/</link>
       <atom:link href="https://rycolab.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 11:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Apr 2023 10:30:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://rycolab.io/talk/</link>
     </image>
-    
-    <item>
-      <title>Backpack Language Models</title>
-      <link>https://rycolab.io/talk/hewitt-apr-27-23/</link>
-      <pubDate>Thu, 27 Apr 2023 11:00:00 +0200</pubDate>
-      <guid>https://rycolab.io/talk/hewitt-apr-27-23/</guid>
-      <description>
-
-&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
-
-&lt;p&gt;John Hewitt is currently a PhD student at Stanford co-advised by Chris Manning and Percy Liang. He works on interpretability, language generation, and formal understanding of language models, among other things.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Communicative Feedback in Language Acquisition</title>
