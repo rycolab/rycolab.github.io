@@ -5,12 +5,25 @@
     <link>https://rycolab.io/authors/mario-giulianelli/</link>
       <atom:link href="https://rycolab.io/authors/mario-giulianelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Mario Giulianelli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 May 2023 10:30:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Mario Giulianelli</title>
       <link>https://rycolab.io/authors/mario-giulianelli/</link>
     </image>
+    
+    <item>
+      <title>On the alignment of production variability in humans and text generators</title>
+      <link>https://rycolab.io/talk/giulianelli-may-03-23/</link>
+      <pubDate>Wed, 03 May 2023 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/giulianelli-may-03-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Mario Giulianelli is a PhD student at the Institute for Logic, Language and Computation of the University of Amsterdam. His research is mainly on human strategies of communication using computational models of language understanding and generation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>State-of-the-art generalisation research in NLP: a taxonomy and review</title>
