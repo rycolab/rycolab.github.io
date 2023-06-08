@@ -5,12 +5,25 @@
     <link>https://rycolab.io/talk/</link>
       <atom:link href="https://rycolab.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2023 10:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 14:30:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://rycolab.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Data Governance for Large Language Models</title>
+      <link>https://rycolab.io/talk/rogers-jun-8-23/</link>
+      <pubDate>Fri, 09 Jun 2023 14:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/rogers-jun-8-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Anna Rogers is an assistant professor in the Computer Science Department at the IT University of Copenhagen. She has a wide range of research interests that span intersection of linguistics, natural language processing, and machine learning. She is also currently a co-program-chair of ACL 2023.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Evolution of Automatic Metrics, From String Matching to Black-Box LLM</title>
