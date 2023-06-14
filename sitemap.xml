@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rycolab.io/authors/</loc>
+    <lastmod>2023-06-16T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/authors/krishna-pillutla/</loc>
+    <lastmod>2023-06-16T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/talk/pillutla-jun-16-23/</loc>
+    <lastmod>2023-06-16T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/talk/</loc>
+    <lastmod>2023-06-16T14:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/</loc>
+    <lastmod>2023-06-16T14:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://rycolab.io/authors/anna-rogers/</loc>
     <lastmod>2023-06-09T14:30:00+02:00</lastmod>
   </url><url>
-    <loc>https://rycolab.io/authors/</loc>
-    <lastmod>2023-06-09T14:30:00+02:00</lastmod>
-  </url><url>
     <loc>https://rycolab.io/talk/rogers-jun-8-23/</loc>
-    <lastmod>2023-06-09T14:30:00+02:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/talk/</loc>
-    <lastmod>2023-06-09T14:30:00+02:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/</loc>
     <lastmod>2023-06-09T14:30:00+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/talk/kocmi-may-24-23/</loc>

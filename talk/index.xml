@@ -5,7 +5,7 @@
     <link>https://rycolab.io/talk/</link>
       <atom:link href="https://rycolab.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 14:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 14:00:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,7 +13,20 @@
     </image>
     
     <item>
-      <title>Data Governance for Large Language Models</title>
+      <title>MAUVE Scores for Generative Models: Theory and Practice</title>
+      <link>https://rycolab.io/talk/pillutla-jun-16-23/</link>
+      <pubDate>Fri, 16 Jun 2023 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/pillutla-jun-16-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Krishna Pillutla is a visiting researcher (postdoc) at Google Research in the Federated Learning team. He is broadly interested in machine learning, artificial intelligence, optimization, robustness, and privacy, and specifically in the setting of federated learning, and text generation. He obtained his PhD from the Paul G. Allen School of Computer Science &amp;amp; Engineering at the University of Washington.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Governance and Transparency for Large Language Models</title>
       <link>https://rycolab.io/talk/rogers-jun-8-23/</link>
       <pubDate>Fri, 09 Jun 2023 14:30:00 +0200</pubDate>
       <guid>https://rycolab.io/talk/rogers-jun-8-23/</guid>
