@@ -7,7 +7,7 @@
     <description>Teaching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
       <title>Teaching</title>
       <link>https://rycolab.io/classes/</link>
     </image>
@@ -57,6 +57,14 @@
       <link>https://rycolab.io/classes/esslli-23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/classes/esslli-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Text from Language Models</title>
+      <link>https://rycolab.io/classes/acl-2023-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/classes/acl-2023-tutorial/</guid>
       <description></description>
     </item>
     
