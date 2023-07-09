@@ -30,9 +30,9 @@
     
     <item>
       <title>A Measure-theoretic Characterzation of Tight Language Model</title>
-      <link>https://rycolab.io/publication/dual-acl-23/</link>
+      <link>https://rycolab.io/publication/dual-acl-23-a/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/dual-acl-23/</guid>
+      <guid>https://rycolab.io/publication/dual-acl-23-a/</guid>
       <description></description>
     </item>
     
@@ -65,6 +65,14 @@
       <link>https://rycolab.io/publication/opedalacl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/opedalacl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing Backpropagation for Gradient-Based Interpretability</title>
+      <link>https://rycolab.io/publication/dual-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/dual-acl-23/</guid>
       <description></description>
     </item>
     
