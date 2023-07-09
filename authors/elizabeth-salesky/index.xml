@@ -7,7 +7,7 @@
     <description>Elizabeth Salesky</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Elizabeth Salesky</title>
       <link>https://rycolab.io/authors/elizabeth-salesky/</link>
     </image>
@@ -21,10 +21,18 @@
     </item>
     
     <item>
-      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
+      <title>A surprisal--duration trade-off across and within the world’s languages</title>
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGTYP 2021 Shared Task: Robust Spoken Language Identification</title>
+      <link>https://rycolab.io/publication/saleskyal-sigtyp-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/saleskyal-sigtyp-21/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,44 @@
     <link>https://rycolab.io/authors/clara-meister/</link>
       <atom:link href="https://rycolab.io/authors/clara-meister/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara Meister</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Clara Meister</title>
       <link>https://rycolab.io/authors/clara-meister/</link>
     </image>
+    
+    <item>
+      <title>A Measure-theoretic Characterzation of Tight Language Model</title>
+      <link>https://rycolab.io/publication/dual-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/dual-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Efficacy of Sampling Adapters</title>
+      <link>https://rycolab.io/publication/meisteral-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Usefulness of Embeddings, Clusters and Strings for Text Generation Evaluation</title>
+      <link>https://rycolab.io/publication/pimentelal-iclr-23/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-iclr-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cross-Linguistic Pressure for Uniform Information Density in Word Order</title>
+      <link>https://rycolab.io/publication/clarkal-tacl-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/clarkal-tacl-23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mutual Information and Hallucinations in Abstractive Summarization</title>
@@ -93,7 +125,7 @@
     </item>
     
     <item>
-      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
+      <title>A surprisal--duration trade-off across and within the world’s languages</title>
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-a/</guid>

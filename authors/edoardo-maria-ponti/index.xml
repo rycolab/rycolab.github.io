@@ -5,12 +5,20 @@
     <link>https://rycolab.io/authors/edoardo-maria-ponti/</link>
       <atom:link href="https://rycolab.io/authors/edoardo-maria-ponti/index.xml" rel="self" type="application/rss+xml" />
     <description>Edoardo Maria Ponti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_2.png</url>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Edoardo Maria Ponti</title>
       <link>https://rycolab.io/authors/edoardo-maria-ponti/</link>
     </image>
+    
+    <item>
+      <title>SIGTYP 2021 Shared Task: Robust Spoken Language Identification</title>
+      <link>https://rycolab.io/publication/saleskyal-sigtyp-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/saleskyal-sigtyp-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection</title>
