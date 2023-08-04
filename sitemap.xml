@@ -527,6 +527,9 @@
     <loc>https://rycolab.io/publication/stanczakal-naacl-22/</loc>
     <lastmod>2022-11-21T00:29:29+01:00</lastmod>
   </url><url>
+    <loc>https://rycolab.io/authors/sarka-dohnalova/</loc>
+    <lastmod>2022-11-20T21:17:44+01:00</lastmod>
+  </url><url>
     <loc>https://rycolab.io/publication/kodneral-sigmorphon-22/</loc>
     <lastmod>2022-11-20T21:17:43+01:00</lastmod>
   </url><url>
@@ -559,9 +562,6 @@
   </url><url>
     <loc>https://rycolab.io/authors/zeerak-talat/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/authors/sarka-dohnalova/</loc>
-    <lastmod>2022-11-20T21:17:44+01:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/talk/schein-jun-10-22/</loc>
     <lastmod>2022-06-10T16:00:00+02:00</lastmod>
@@ -752,10 +752,10 @@
     <loc>https://rycolab.io/publication/meisteral-emnlp-21-b/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rycolab.io/authors/damian-pascual/</loc>
+    <loc>https://rycolab.io/authors/damian-blasi/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rycolab.io/authors/damian-blasi/</loc>
+    <loc>https://rycolab.io/authors/damian-pascual/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/emnlp21/zmigrodal-emnlp-21/</loc>
@@ -869,6 +869,9 @@
     <loc>https://rycolab.io/authors/francis-m.-tyers/</loc>
     <lastmod>2023-07-09T16:52:40+02:00</lastmod>
   </url><url>
+    <loc>https://rycolab.io/authors/gabor-szolnok/</loc>
+    <lastmod>2023-07-09T16:52:40+02:00</lastmod>
+  </url><url>
     <loc>https://rycolab.io/authors/garrett-nicolai/</loc>
     <lastmod>2023-07-09T16:52:40+02:00</lastmod>
   </url><url>
@@ -876,9 +879,6 @@
     <lastmod>2023-07-09T16:52:40+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/authors/grant-aiton/</loc>
-    <lastmod>2023-07-09T16:52:40+02:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/authors/gabor-szolnok/</loc>
     <lastmod>2023-07-09T16:52:40+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/authors/higher-order-derivatives-of-weighted-finite-state-machines/</loc>
@@ -1806,9 +1806,9 @@
   </url><url>
     <loc>https://rycolab.io/authors/tim/</loc>
   </url><url>
-    <loc>https://rycolab.io/authors/vilem/</loc>
-  </url><url>
     <loc>https://rycolab.io/authors/vesteinn/</loc>
+  </url><url>
+    <loc>https://rycolab.io/authors/vilem/</loc>
   </url><url>
     <loc>https://rycolab.io/authors/wangchunshu/</loc>
   </url><url>
