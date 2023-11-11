@@ -827,102 +827,83 @@
       <div class="col-lg-12">
         <h1>Formal Language Theory and Neural Networks</h1>
         <p>ESSLLI 2023</p>
-        
-
-<h2 id="tutorial-description">Tutorial Description</h2>
-
+        <h2 id="tutorial-description">Tutorial Description</h2>
 <p>This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) (Elman, 1991; Jordan, 1986; Hochreiter and Schmidhuber, 1997) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.</p>
-
 <h2 id="news">News</h2>
-
-<p><strong>9. 3. 2023</strong> &emsp; Tutorial website is online!<br />
-<strong>8. 8. 2023</strong> &emsp; The handwritten iPad notes have been uploaded: <a href="https://drive.google.com/file/d/1nn6G7lsHBrJZjAmRBMgbRd5yGVqZGovv/view?usp=sharing" target="_blank">Handwritten notes</a>.</p>
-
+<p><strong>9. 3. 2023</strong>   Tutorial website is online!<br>
+<strong>8. 8. 2023</strong>   The handwritten iPad notes have been uploaded: 
+<a href="https://drive.google.com/file/d/1nn6G7lsHBrJZjAmRBMgbRd5yGVqZGovv/view?usp=sharing" target="_blank" rel="noopener">Handwritten notes</a>.</p>
 <h2 id="syllabus">Syllabus</h2>
-
-<h3 id="day-1-a-hitchhiker-s-guide-to-language-models-and-weighted-formal-language-theory">Day 1: A Hitchhiker&rsquo;s Guide to Language Models and Weighted Formal Language Theory</h3>
-
+<h3 id="day-1-a-hitchhikers-guide-to-language-models-and-weighted-formal-language-theory">Day 1: A Hitchhiker&rsquo;s Guide to Language Models and Weighted Formal Language Theory</h3>
 <p>On the first day, we will cover the basics of language models. We will give a formal definition of a language model as a distribution over all strings, discussing subtleties that arise in this definition, e.g., the notion of tightness (Du et al., 2022). Then, we will move on to formal language theory, specifically focusing on different levels of the Chomsky hierarchy. We will introduce the weighted versions of the two commonly used computational devices from formal language theory: weighted finite-state automata (WFSA) and weighted pushdown automata (WPDA). WFSAs can be used to represent n-gram language models, which were the standard in the field of natural language processing from the 1980s till the late 2010s. WPDA language models, on the other hand, are particularly useful for modeling natural language, as they can use their stack to represent arbitrarily deep hierarchical features, such as grammatical constraints and semantic composition (Chelba and Jelinek, 1998; Abney et al., 1999).</p>
-
 <h4 id="useful-literature-for-today">Useful Literature for Today</h4>
-
 <ul>
-<li><a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank">Course notes</a> Sections 1, 2.1&ndash;2.4, 2.5.1</li>
-<li><a href="https://aclanthology.org/2023.acl-long.543/" target="_blank">Du et al., 2022</a> for more information on tightness of language models.</li>
+<li>
+<a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank" rel="noopener">Course notes</a> Sections 1, 2.1&ndash;2.4, 2.5.1</li>
+<li>
+<a href="https://aclanthology.org/2023.acl-long.543/" target="_blank" rel="noopener">Du et al., 2022</a> for more information on tightness of language models.</li>
 </ul>
-
 <h3 id="day-2-recurrent-neural-networks-as-weighted-recognizers">Day 2: Recurrent Neural Networks as Weighted Recognizers</h3>
-
 <p>On the second day of our tutorial, we will delve into the realm of recurrent neural networks and their application to modeling language. By their very nature, finite-state language models can only consider a limited amount of context. RNNs, however, offer a way to overcome this limitation by theoretically modeling the entire history of their input. We will provide a formal definition of a recurrent neural language model and discuss some of the popular variants of RNNs, such as LSTM (Hochreiter and Schmidhuber, 1997) and GRU (Cho et al., 2014). Furthermore, we will define the concept of neural sequence acceptors and generators, which formally describe what it means for a neural model to accept and generate a language, analogously to models from formal language theory. These concepts are crucial for understanding the full capabilities and potential of neural language models. We will also motivate the analysis of neural language models with tools from formal language theory, highlighting their interpretability and efficiency.</p>
-
 <h4 id="useful-literature-for-today-1">Useful Literature for Today</h4>
-
 <ul>
-<li><a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank">Course notes</a> Sections 3.1, 5.1.1, 5.1.2, 5.1.4</li>
+<li>
+<a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank" rel="noopener">Course notes</a> Sections 3.1, 5.1.1, 5.1.2, 5.1.4</li>
 </ul>
-
 <h3 id="day-3-recurrent-neural-networks-and-weighted-finite-state-automata">Day 3: Recurrent Neural Networks and Weighted Finite-state Automata</h3>
-
 <p>On the third day of the tutorial, we will dive into the representational capabilities of RNNs. We will explore the relationship between RNNs and WFSAs, and demonstrate that, under certain conditions, such as the use of a hard thresholding activation function, RNNs have the same expressive capacity as WFSAs. We will also present a simple construction for creating a thresholded RNN that can represent a WFSA with a number of neurons that is linear in the number of states in the WFSA, due to Minsky (1954). Additionally, we will show that RNNs can, in some cases, implicitly represent finite-state language models that are exponentially larger. On the other hand, we will also demonstrate that some WFSAs do not exhibit compact representations with RNNs. We will present a more elaborate construction of an RNN that can implement a general WFSA, with a hidden state dimensionality that is sub-linear in the number of states. This construction is based on the work of Dewdney (1977), Alon et al. (1991), and Indyk (1995), but is more intricate as it will be generalized to the weighted case. We also walk through the more efficient construction of Hewitt et al. (2020) for the special case of the finite Dyck languages.</p>
-
 <h4 id="useful-literature-for-today-2">Useful Literature for Today</h4>
-
 <ul>
-<li><a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank">Course notes</a> Sections 4.1, 5.1.5</li>
+<li>
+<a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank" rel="noopener">Course notes</a> Sections 4.1, 5.1.5</li>
 </ul>
-
 <h3 id="day-4-recurrent-neural-networks-weighted-pushdown-automata-and-turing-machines">Day 4: Recurrent Neural Networks, Weighted Pushdown Automata, and Turing Machines</h3>
-
 <p>On the fourth day of the tutorial, we will then shift our focus to the representation of the hierarchical structure of human language. We show that if we assume our activation is a ReLU or a saturated sigmoid and we have infinite precision arithmetic, then our RNN can emulate a WPDA or weighted Turing machine. Both of these constructions are a generalization of the classic construction due to Siegelmann and Sontag (1992). Afterward, we turn to classic theory of computation and show that, by simulating Turing machines, many standard tasks that are decidable for weighted finite-state automata are in fact undecidable for RNNs, such as minimization, equivalence testing, finding the highest-weighted string, and determining tightness (Chen et al., 2018). Such results imply that many computational tasks relevant to NLP cannot be solved for RNNs with a polynomial amount of computation (Lin et al., 2021).</p>
-
 <h4 id="useful-literature-for-today-3">Useful Literature for Today</h4>
-
 <ul>
-<li><a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank">Course notes</a> Sections 4.2, 5.1.5</li>
+<li>
+<a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link" target="_blank" rel="noopener">Course notes</a> Sections 4.2, 5.1.5</li>
 </ul>
-
 <h3 id="day-5-formal-language-theory-and-transformers">Day 5: Formal Language Theory and Transformers</h3>
-
 <p>On the final day of our tutorial, we will turn to formal language theory and Transformer-based language models (Vaswani et al., 2017). Compared to the case of recurrent neural networks, the study of Transformers through the lens of formal language theory is relatively new. We will cover recent advances in the theoretical limitations of self-attention (Hahn, 2020; Chiang and Cholak, 2022) as well as the proof by Pérez et al. (2021) that Transformers, again with infinite precision arithmetic, are Turing complete. Again, many of these results are generalized to the weighted case, i.e., we will work to consider Transformer-based language models as weighted recognizers. We conclude the final day of the tutorial with an overview of what we have covered and its implications for the applications of language models in practice. We also will go over several possible future directions of research for those students who are interested in continuing to study the relationship between neural language models and formal language theory.</p>
-
 <h4 id="useful-literature-for-today-4">Useful Literature for Today</h4>
-
-<!-- - [Course notes](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link) Sections 1, 2.1--2.4, 2.5.1 -->
-
+<!-- raw HTML omitted -->
 <h2 id="useful-literature-for-the-entire-course">Useful Literature for the Entire Course</h2>
-
-<p>A more detailed version of this course covering many more topics will be given at the Department of Computer Science, ETH Zürich, in Spring 2023. See the <a href="classes/llm-s23/" target="_blank">Large Language Models course website</a> for more details. Notes and exercises from this course will be distributed to the students for reading and additional practice during the ESSLLI course.</p>
-
+<p>A more detailed version of this course covering many more topics will be given at the Department of Computer Science, ETH Zürich, in Spring 2023. See the 
+<a href="classes/llm-s23/">Large Language Models course website</a> for more details. Notes and exercises from this course will be distributed to the students for reading and additional practice during the ESSLLI course.</p>
 <h4 id="additional-references">Additional References:</h4>
-
 <ul>
-<li>Abney S., McAllester, D. and Pereira, F. 1999. Relating Probabilistic Grammars and Automata. Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics.<br /></li>
-<li>Alon, N., Dewdney, A. K., and Ott, T. J. 1991. Efficient simulation of finite automata by neural nets. J. ACM 38, 2 (April 1991), 495–514. <a href="https://doi.org/10.1145/103516.103523" target="_blank">https://doi.org/10.1145/103516.103523</a><br /></li>
-<li>Chelba, C. and Jelinek, F. 1998. Exploiting Syntactic Structure for Language Modeling. 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1.<br /></li>
-<li>Chiang, D. and Cholak, P. 2022. Overcoming a Theoretical Limitation of Self-Attention. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).<br /></li>
-<li>Chen, Y., Gilroy, S., Maletti, A., May, J., and Knight, K. 2018. Recurrent Neural Networks as Weighted Language Recognizers. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 2261–2271, New Orleans, Louisiana. Association for Computational Linguistics.<br /></li>
-<li>Du, L., Hennigen, L. T., Pimentel, T., Meister, C., Eisner, J., and Cotterell, R. (2022). A Measure-Theoretic Characterization of Tight Language Models. doi:10.48550/ARXIV.2212.10502<br /></li>
-<li>Dewdney, A. K. 1977. Threshold matrices and the state assignment problem for neural nets. In Proceedings of the 8th SouthEastern Conference on Combinatorics, Graph Theory and Computing. Louisiana State University, Baton Rouge, La., pp. 227-245.<br /></li>
-<li>Jeffrey L. Elman. 1990. Finding structure in time. Cognitive Science, 14(2):179-211.<br /></li>
-<li>Hahn, M. 2020. Theoretical Limitations of Self-Attention in Neural Sequence Models. Transactions of the Association for Computational Linguistics.<br /></li>
-<li>Hewitt, J., Hahn, M., Ganguli, S., Liang, P., and Manning. C. D. 2020. RNNs can generate bounded hierarchical languages with optimal memory. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1978–2010, Online. Association for Computational Linguistics.<br /></li>
-<li>Indyk, P. (1995). Optimal simulation of automata by neural nets. In: Mayr, E.W., Puech, C. (eds) STACS 95. STACS 1995. Lecture Notes in Computer Science, vol 900. Springer, Berlin, Heidelberg. <a href="https://doi.org/10.1007/3-540-59042-0_85" target="_blank">https://doi.org/10.1007/3-540-59042-0_85</a><br /></li>
-<li>Jordan, M I. Serial order: a parallel distributed processing approach. Technical report, June 1985-March 1986. United States: N. p., 1986.<br /></li>
-<li>Lin, C., Jaech, A., Li, X., Gormley, M. R., and Eisner, Jason. 2021 Limitations of Autoregressive Models and Their Alternatives. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.<br /></li>
-<li>Minsky, M. L. Neural Nets and the brain model problem. Ph.D dissertation, Princeton Univ., Princeton, N. J., 1954.<br /></li>
-<li>Minsky, M. L. Computation: Finite and Infinite Machines. Prentice-Hall, New York, 1967.<br /></li>
-<li>Siegelmann, H. T., and Sontag, E. D. 1992. On the computational power of neural nets. In Proceedings of the fifth annual workshop on Computational learning theory (COLT &lsquo;92). Association for Computing Machinery, New York, NY, USA, 440–449. <a href="https://doi.org/10.1145/130385.130432" target="_blank">https://doi.org/10.1145/130385.130432</a><br /></li>
-<li>Mohri, M. (2009). Weighted Automata Algorithms. In: Droste, M., Kuich, W., Vogler, H. (eds) Handbook of Weighted Automata. Monographs in Theoretical Computer Science. An EATCS Series. Springer, Berlin, Heidelberg. <a href="https://doi.org/10.1007/978-3-642-01492-5_6" target="_blank">https://doi.org/10.1007/978-3-642-01492-5_6</a><br /></li>
-<li>Mohri, M.. 1997. Finite-State Transducers in Language and Speech Processing. Computational Linguistics, 23(2):269–311.<br /></li>
-<li>Merrill, W., Weiss, G., Goldberg, Y., Schwartz, R., Smith, N. A., and Yahav, E.. 2020. A Formal Hierarchy of RNN Architectures. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 443–459, Online. Association for Computational Linguistics.<br /></li>
-<li>Peng H., Schwartz R., Thomson S., and Smith N. A.. Rational Recurrences. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics; 2018:1203-1214. doi:10.18653/v1/D18-1152<br /></li>
-<li>Pérez, J., Barceló, P., and Marinkovic, J. 2021. Attention is Turing Complete. Journal of Machine Learning Research.<br /></li>
-<li>Schwartz R., Thomson S., and Smith N. A. Bridging CNNs, RNNs, and Weighted Finite-State Machines. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Association for Computational Linguistics; 2018:295-305. doi:10.18653/v1/P18-1028<br /></li>
-<li>Delétang G., Ruoss A., Grau-Moya J., et al. Neural Networks and the Chomsky Hierarchy. Published online 2022. doi:10.48550/ARXIV.2207.02098<br /></li>
-<li>Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł. and Polosukhin, I.. 2017. Attention is all you need. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS&rsquo;17). Curran Associates Inc., Red Hook, NY, USA, 6000–6010.<br /></li>
-<li>Hochreiter, S., and Schmidhuber, J. (1997). Long short-term memory. Neural computation, 9(8), 1735-1780.<br /></li>
-<li>Cho, K., van Merriënboer, B., Bahdanau, D., and Bengio, Y. 2014. On the Properties of Neural Machine Translation: Encoder–Decoder Approaches. In Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in Statistical Translation, pages 103–111, Doha, Qatar. Association for Computational Linguistics.<br /></li>
-<li>Ciprian Chelba and Frederick Jelinek. 1998. Exploiting Syntactic Structure for Language Modeling. In 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1, pages 225–231, Montreal, Quebec, Canada. Association for Computational Linguistics.<br /></li>
+<li>Abney S., McAllester, D. and Pereira, F. 1999. Relating Probabilistic Grammars and Automata. Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics.</li>
+<li>Alon, N., Dewdney, A. K., and Ott, T. J. 1991. Efficient simulation of finite automata by neural nets. J. ACM 38, 2 (April 1991), 495–514. 
+<a href="https://doi.org/10.1145/103516.103523" target="_blank" rel="noopener">https://doi.org/10.1145/103516.103523</a></li>
+<li>Chelba, C. and Jelinek, F. 1998. Exploiting Syntactic Structure for Language Modeling. 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1.</li>
+<li>Chiang, D. and Cholak, P. 2022. Overcoming a Theoretical Limitation of Self-Attention. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).</li>
+<li>Chen, Y., Gilroy, S., Maletti, A., May, J., and Knight, K. 2018. Recurrent Neural Networks as Weighted Language Recognizers. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 2261–2271, New Orleans, Louisiana. Association for Computational Linguistics.</li>
+<li>Du, L., Hennigen, L. T., Pimentel, T., Meister, C., Eisner, J., and Cotterell, R. (2022). A Measure-Theoretic Characterization of Tight Language Models. doi:10.48550/ARXIV.2212.10502</li>
+<li>Dewdney, A. K. 1977. Threshold matrices and the state assignment problem for neural nets. In Proceedings of the 8th SouthEastern Conference on Combinatorics, Graph Theory and Computing. Louisiana State University, Baton Rouge, La., pp. 227-245.</li>
+<li>Jeffrey L. Elman. 1990. Finding structure in time. Cognitive Science, 14(2):179-211.</li>
+<li>Hahn, M. 2020. Theoretical Limitations of Self-Attention in Neural Sequence Models. Transactions of the Association for Computational Linguistics.</li>
+<li>Hewitt, J., Hahn, M., Ganguli, S., Liang, P., and Manning. C. D. 2020. RNNs can generate bounded hierarchical languages with optimal memory. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1978–2010, Online. Association for Computational Linguistics.</li>
+<li>Indyk, P. (1995). Optimal simulation of automata by neural nets. In: Mayr, E.W., Puech, C. (eds) STACS 95. STACS 1995. Lecture Notes in Computer Science, vol 900. Springer, Berlin, Heidelberg. 
+<a href="https://doi.org/10.1007/3-540-59042-0_85" target="_blank" rel="noopener">https://doi.org/10.1007/3-540-59042-0_85</a></li>
+<li>Jordan, M I. Serial order: a parallel distributed processing approach. Technical report, June 1985-March 1986. United States: N. p., 1986.</li>
+<li>Lin, C., Jaech, A., Li, X., Gormley, M. R., and Eisner, Jason. 2021 Limitations of Autoregressive Models and Their Alternatives. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.</li>
+<li>Minsky, M. L. Neural Nets and the brain model problem. Ph.D dissertation, Princeton Univ., Princeton, N. J., 1954.</li>
+<li>Minsky, M. L. Computation: Finite and Infinite Machines. Prentice-Hall, New York, 1967.</li>
+<li>Siegelmann, H. T., and Sontag, E. D. 1992. On the computational power of neural nets. In Proceedings of the fifth annual workshop on Computational learning theory (COLT &lsquo;92). Association for Computing Machinery, New York, NY, USA, 440–449. 
+<a href="https://doi.org/10.1145/130385.130432" target="_blank" rel="noopener">https://doi.org/10.1145/130385.130432</a></li>
+<li>Mohri, M. (2009). Weighted Automata Algorithms. In: Droste, M., Kuich, W., Vogler, H. (eds) Handbook of Weighted Automata. Monographs in Theoretical Computer Science. An EATCS Series. Springer, Berlin, Heidelberg. 
+<a href="https://doi.org/10.1007/978-3-642-01492-5_6" target="_blank" rel="noopener">https://doi.org/10.1007/978-3-642-01492-5_6</a></li>
+<li>Mohri, M.. 1997. Finite-State Transducers in Language and Speech Processing. Computational Linguistics, 23(2):269–311.</li>
+<li>Merrill, W., Weiss, G., Goldberg, Y., Schwartz, R., Smith, N. A., and Yahav, E.. 2020. A Formal Hierarchy of RNN Architectures. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 443–459, Online. Association for Computational Linguistics.</li>
+<li>Peng H., Schwartz R., Thomson S., and Smith N. A.. Rational Recurrences. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics; 2018:1203-1214. doi:10.18653/v1/D18-1152</li>
+<li>Pérez, J., Barceló, P., and Marinkovic, J. 2021. Attention is Turing Complete. Journal of Machine Learning Research.</li>
+<li>Schwartz R., Thomson S., and Smith N. A. Bridging CNNs, RNNs, and Weighted Finite-State Machines. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Association for Computational Linguistics; 2018:295-305. doi:10.18653/v1/P18-1028</li>
+<li>Delétang G., Ruoss A., Grau-Moya J., et al. Neural Networks and the Chomsky Hierarchy. Published online 2022. doi:10.48550/ARXIV.2207.02098</li>
+<li>Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł. and Polosukhin, I.. 2017. Attention is all you need. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17). Curran Associates Inc., Red Hook, NY, USA, 6000–6010.</li>
+<li>Hochreiter, S., and Schmidhuber, J. (1997). Long short-term memory. Neural computation, 9(8), 1735-1780.</li>
+<li>Cho, K., van Merriënboer, B., Bahdanau, D., and Bengio, Y. 2014. On the Properties of Neural Machine Translation: Encoder–Decoder Approaches. In Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in Statistical Translation, pages 103–111, Doha, Qatar. Association for Computational Linguistics.</li>
+<li>Ciprian Chelba and Frederick Jelinek. 1998. Exploiting Syntactic Structure for Language Modeling. In 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1, pages 225–231, Montreal, Quebec, Canada. Association for Computational Linguistics.</li>
 <li>Steven Abney, David McAllester, and Fernando Pereira. 1999. Relating Probabilistic Grammars and Automata. In Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics, pages 542–549, College Park, Maryland, USA. Association for Computational Linguistics.</li>
 </ul>
 
@@ -1267,6 +1248,23 @@
       
     
     <li>
+      <a href="https://scholar.google.com/citations?user=9ezEOeUAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fab fa-google"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
       <a href="https://twitter.com/anejsvete" target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -1592,7 +1590,7 @@
     
     
     
-    <script src="/js/academic.min.028921594830c1bc75b0c52a62a48576.js"></script>
+    <script src="/js/academic.min.d3a4ef48428bdae11b5516d814fd1aa6.js"></script>
 
     
 

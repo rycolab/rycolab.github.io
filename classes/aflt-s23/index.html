@@ -826,834 +826,177 @@
     
       <div class="col-lg-12">
         <h1>Advanced Formal Language Theory, Spring 2023</h1>
-        <p>ETH Zürich: <a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169043&amp;semkez=2023S&amp;ansicht=LEHRVERANSTALTUNGEN&amp;lang=en" target="_blank">Course catalog</a></p>
-        
-
-<h2 id="course-description">Course Description</h2>
-
+        <p>ETH Zürich: 
+<a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=169043&amp;semkez=2023S&amp;ansicht=LEHRVERANSTALTUNGEN&amp;lang=en" target="_blank" rel="noopener">Course catalog</a></p>
+        <h2 id="course-description">Course Description</h2>
 <p>This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, and linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful as well as familiarity with basic real analysis and linear algebra.</p>
-
-<p>The course is structured around a companion <a href="https://github.com/rycolab/aflt-f2023" target="_blank">software library</a>, called <a href="https://en.wikipedia.org/wiki/Hopscotch_(Cort%C3%A1zar_novel)" target="_blank"><code>rayuela</code></a>.
+<p>The course is structured around a companion 
+<a href="https://github.com/rycolab/aflt-f2023" target="_blank" rel="noopener">software library</a>, called 
+<a href="https://en.wikipedia.org/wiki/Hopscotch_%28Cort%C3%A1zar_novel%29" target="_blank" rel="noopener"><code>rayuela</code></a>.
 Most of the homework exercises, which comprise (a part of) the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or devising algorithms not discussed in class with the tools introduced during the lecture.
 The homework will be released throughout the semester in assignments with 3–4 questions but will be submitted jointly on two occasions.</p>
-
 <h2 id="news">News</h2>
-
-<p><strong>3.1.</strong> &emsp; Class website is online!<br />
-<strong>9.3.</strong> &emsp; The <a href="https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link" target="_blank">iPad class notes</a> have been posted. The same link will contain updated notes for the first part of the course throughout the semester.</p>
-
+<p><strong>3.1.</strong>   Class website is online!<br>
+<strong>9.3.</strong>   The 
+<a href="https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link" target="_blank" rel="noopener">iPad class notes</a> have been posted. The same link will contain updated notes for the first part of the course throughout the semester.</p>
 <h2 id="syllabus-and-schedule">Syllabus and Schedule</h2>
-
 <h3 id="on-the-use-of-class-time">On the Use of Class Time</h3>
-
 <h4 id="lectures">Lectures</h4>
-
-<p>There are two lecture slots for AFLT each week: Wednesdays 16-18 <a href="https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&amp;areal=Z&amp;gebaeude=HG&amp;geschoss=D&amp;raumNr=5.2" target="_blank">(HG D 5.2)</a> and Thursdays 12-14 <a href="http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&amp;areal=Z&amp;gebaeude=ML&amp;geschoss=F&amp;raumNr=39" target="_blank">(ML F 39)</a>.
-Both lectures will be given in person and live broadcast on <a href="https://ethz.zoom.us/j/66986788370" target="_blank">Zoom</a>; the password is available on the <a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank">course Moodle page</a>.</p>
-
-<p>Lectures will be recorded&mdash;links to the Zoom recordings will be posted on the <a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank">course Moodle page</a>.</p>
-
-<p>We also regularly publish Ryan&rsquo;s <a href="https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link" target="_blank">iPad class notes</a>.</p>
-
+<p>There are two lecture slots for AFLT each week: Wednesdays 16-18 
+<a href="https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&amp;areal=Z&amp;gebaeude=HG&amp;geschoss=D&amp;raumNr=5.2" target="_blank" rel="noopener">(HG D 5.2)</a> and Thursdays 12-14 
+<a href="http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&amp;areal=Z&amp;gebaeude=ML&amp;geschoss=F&amp;raumNr=39" target="_blank" rel="noopener">(ML F 39)</a>.
+Both lectures will be given in person and live broadcast on 
+<a href="https://ethz.zoom.us/j/66986788370" target="_blank" rel="noopener">Zoom</a>; the password is available on the 
+<a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank" rel="noopener">course Moodle page</a>.</p>
+<p>Lectures will be recorded&mdash;links to the Zoom recordings will be posted on the 
+<a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank" rel="noopener">course Moodle page</a>.</p>
+<p>We also regularly publish Ryan&rsquo;s 
+<a href="https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link" target="_blank" rel="noopener">iPad class notes</a>.</p>
 <h4 id="discussion-sections">Discussion Sections</h4>
-
 <p>There will be no organized tutorial sessions for AFLT. However, the teaching staff will be available for questions on the course chat channels (see below) and, in case you have a question that requires a more in-depth discussion, you can schedule <strong>office hours</strong> with the teaching team by reaching out to us via  the chat.</p>
-
 <h3 id="syllabus">Syllabus</h3>
-
-<script
-    type="text/javascript"
-    charset="utf-8">
-    function myFunction(a) {
-      var literature = document.getElementById("literature" + a);
-      if (literature.style.display === "none") {
-        literature.style.display = "block";
-      } else {
-        literature.style.display = "none";
-      }
-      var button = document.getElementById("button" + a);
-      if (button.textContent === "Show") {
-        button.textContent = "Hide";
-      } else {
-        button.textContent = "Show";
-      }
-    }
-</script>
-
-<table class="table">
-  <head>
-    <base target="_blank">
-  </head>
-  <thead>
-    <tr>
-      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
-      <th scope="col" style='white-space:nowrap'>Module</th>
-      <th scope="col" style='white-space:nowrap'>Topic</th>
-      <th scope="col" style='white-space:nowrap'>Notes&emsp;&emsp;</th>
-      <th scope="col" style='white-space:nowrap'>Lecture Material</th>
-      <th scope="col" style='white-space:nowrap'>Additional Reading</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>22. 2. 2023</td>
-      <td></td>
-      <td>Introduction and Overview</td>
-      <td></td>
-      <td><a href="https://drive.google.com/file/d/1UNsMmHAAhEQ1iLsq_1f0MQ-BuVhRrmFq/view?usp=share_link" target="_blank">Introductory Slides</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>22. 2. 2023</td>
-      <td rowspan="11" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
-      <td>Introduction and Overview, Weighted Formal Languages and Semiring Theory</td>
-      <td>
-      <a href="https://drive.google.com/file/d/1Hm1Nbjft9IT_yAVyqqLws-rKBbeC61_3/view?usp=share_link" target="_blank">Regular Languages</a>
-      </td>
-      <td>
-      </td>
-      <td>
-      <div id="literature1" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §2.1)</a></br>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-642-59136-5_9" target="_blank">Kuich (2003)</a></br>
-        <a href="https://link.springer.com/book/10.1007/978-0-387-75450-5" target="_blank">Gondran et al. (2008)</a></br>
-      <br/>  
-      </div>
-      <button id="button1" style="border:none;" onclick="myFunction('1')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>23. 2. 2023</td>
-      <td>Regular Languages, Weighted Finite-State Acceptors</td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      <div id="literature2" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §2.2)</a></br>
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §6.2)</a></br>
-        <a href="https://aclanthology.org/P03-1006.pdf" target="_blank">Allauzen, Mohri, Roark (2003)</a>
-        <a href="https://www.cs.jhu.edu/~jason/papers/svete+al.emnlp22.pdf" target="_blank">Svete et al. (2022)</a></br>
-      <br/>  
-      </div>
-      <button id="button2" style="border:none;" onclick="myFunction('2')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>1. 3. 2023</td>
-      <td>Closed Semirings, The Algebraic Path Problem</td>
-      <td>
-      <td></td>
-      <td>
-      <div id="literature3" style="display:none">
-        <a href="https://link.springer.com/book/10.1007/978-0-387-75450-5" target="_blank">Gondran et al. (2008)</a></br>
-        <a href="https://cs.nyu.edu/~mohri/pub/jalc.pdf" target="_blank">Conway (1971)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/pii/0304397577900561" target="_blank">Lehmann (1977)</a></br>
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §3)</a></br>
-        <a href="https://mitpress.mit.edu/books/introduction-algorithms-third-edition" target="_blank">Cormen et al. (2009; §22.3)</a></br>
-      <br/>  
-      </div>
-      <button id="button3" style="border:none;" onclick="myFunction('3')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>2. 3. 2023</td>
-      <td>The Algebraic Path Problem (cont.)</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature4" style="display:none">
-      <br/>  
-      </div>
-      <button id="button4" style="border:none;" onclick="myFunction('4')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>8. 3. 2023</td>
-      <td>Homomorphisms, Weighted Finite-State Transducers</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature5" style="display:none">
-        <a href="https://aclanthology.org/J97-2003/" target="_blank">Mohri (1997)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885230801901846" target="_blank">Mohri et al. (2002)</a></br>
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.2)</a></br>
-      <br/>  
-      </div>
-      <button id="button5" style="border:none;" onclick="myFunction('5')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>9. 3. 2023</td>
-      <td>Nullary Removal, Determinization of Weighted Finite-state Automata</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature6" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.1)</a></br>
-        <a href="https://dl.acm.org/doi/abs/10.5555/873977.873979" target="_blank">Allauzen and Mohri (2003)</a></br>
-      <br/>  
-      </div>
-      <button id="button6" style="border:none;" onclick="myFunction('6')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>15. 3. 2023</td>
-      <td>Determinization of Weighted Finite-state Automata (cont.)</td>
-      <td>
-      </td>
-      </td>
-      <td>
-      <td>
-      <div id="literature7" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.2)</a></br>
-      <br/>  
-      </div>
-      <button id="button7" style="border:none;" onclick="myFunction('7')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>16. 3. 2023</td>
-      <td>Weight Pushing</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature8" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.3)</a></br>
-        <a href="https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-41/issue-1/A-Maximization-Technique-Occurring-in-the-Statistical-Analysis-of-Probabilistic/10.1214/aoms/1177697196.full" target="_blank">Baum et al. (1970)</a></br>
-        <a href="https://ieeexplore.ieee.org/document/18626" target="_blank">Rabiner (1989)</a></br>
-        <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers" target="_blank">Lafferty et al. (2001)</a></br>
-        <a href="http://www.inference.org.uk/hmw26/papers/crf_intro.pdf" target="_blank">Wallach (2004)</a></br>
-        <a href="https://proceedings.neurips.cc/paper/2004/file/eb06b9db06012a7a4179b8f3cb5384d3-Paper.pdf" target="_blank">Sarawagi and Cohen (2004)</a></br>
-      <br/>  
-      </div>
-      <button id="button8" style="border:none;" onclick="myFunction('8')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>22. 3. 2023</td>
-      <td>Minimization of Weighted Finite-state Automata</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature9" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.4)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/pii/0304397592901423" target="_blank">Revuz (1992)</a></br>
-        <a href="https://www.di.ens.fr/~jv/HomePage/dea/MinimizeAutomata.pdf" target="_blank">Watson (1994)</a></br>
-        <a href="https://www.degruyter.com/document/doi/10.1515/9781400882618-006/html" target="_blank">Moore (1958)</a></br>
-        <a href="http://i.stanford.edu/pub/cstr/reports/cs/tr/71/190/CS-TR-71-190.pdf" target="_blank">Hopcroft (1971)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0304397501002195/pdf?md5=dfd109e83dc1aa4b4434a9d50443783b&pid=1-s2.0-S0304397501002195-main.pdf" target="_blank">Choffrut (2003)</a></br>
-        <a href="https://aclanthology.org/N03-1009.pdf" target="_blank">Eisner (2003)</a></br>
-      <br/>  
-      </div>
-      <button id="button9" style="border:none;" onclick="myFunction('9')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>23. 3. 2023</td>
-      <td>Superior Semirings, Dijkstra's Algorithm, Johnson's Algorithm</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature10" style="display:none">
-        <a href="http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf" target="_blank">Dijkstra (1959)</a></br>
-        <!-- <a href="https://aclanthology.org/W05-1506/" target="_blank">Huang (2008)</a></br> -->
-        <a href="https://dl.acm.org/doi/10.1145/321992.321993" target="_blank">Johnson (1977)</a></br>
-        <a href="https://aclanthology.org/J99-4004.pdf" target="_blank">Goodman (1999)</a></br>
-        <a href="https://aclanthology.org/W05-1506/" target="_blank">Huang and Chiang (2005)</a></br>
-        <a href="https://aclanthology.org/P02-1001.pdf" target="_blank">Eisner (2002)</a></br>
-        <a href="https://aclanthology.org/D09-1005/" target="_blank">Li and Eisner (2009)</a></br>
-        <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf" target="_blank">Eisner (2016)</a></br>
-      <br/>  
-      </div>
-      <button id="button10" style="border:none;" onclick="myFunction('10')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>29. 3. 2023</td>
-      <td>Weighted Regular Expressions</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature11" style="display:none">
-        <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction" target="_blank">Wikipedia</a></br>
-      <br/>  
-      </div>
-      <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>30. 3. 2023</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
-      <td>Weighted Context-Free Grammars</td>
-      <td>
-      <a href="https://drive.google.com/file/d/1A-xSYoLuKWbTdhOVIuS5iYXaUd9m4oOu/view?usp=share_link" target="_blank">Context-free Languages</a>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature12" style="display:none">
-        <a href="https://link.springer.com/article/10.1007/s11168-008-9052-8" target="_blank">Nederhof and Satta (2008)</a></br>
-      <br/>  
-      </div>
-      <button id="button12" style="border:none;" onclick="myFunction('12')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>5. 4. 2023</td>
-      <td>Newton's Algorithm and Nullary Removal</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature13" style="display:none">
-        <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.3)</a></br>
-        <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.5)</a></br>
-        <a href="https://ieeexplore.ieee.org/document/4569645/authors#authors" target="_blank">Rosenkranz and Lewis (1970)</a></br>
-        <!-- <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Johnson (1996)</a></br> -->
-        <a href="https://aclanthology.org/C00-1052/" target="_blank">Johnson and Roark (2000)</a></br>
-      <br/>  
-      </div>
-      <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>6. 4. 2023</td>
-      <td>Unary Removal, Binarization, Chomsky Normal Form, CKY</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature14" style="display:none">
-        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
-        <a href="https://aclanthology.org/N09-1039.pdf" target="_blank">Schuler (2009)</a></br>
-        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995; §4.7)</a></br>
-        <a href="https://aclanthology.org/1997.iwpt-1.18.pdf" target="_blank">Manning and Carptener (1997)</a></br>
-        <a href="https://www.ideals.illinois.edu/handle/2142/74304" target="_blank">Kasami (1966)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
-        <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019077900023" target="_blank">Knuth (1977)</a></br>
-        <a href="https://www.proquest.com/openview/fb41296047fb7453dcb1de182b4aa0b6/1?pq-origsite=gscholar&cbl=1817266" target="_blank">Bar-Hillel et al. (1961)</a></br>
-        <a href="https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/abs/products-of-weighted-logic-programs/5E2207BED192B119DC0034BE15B242E1" target="_blank">Cohen et al. (2011)</a></br>
-        <a href="https://aclanthology.org/P11-2124/" target="_blank">Goldberg and Elhadad (2011)</a></br>
-        <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
-      <br/>  
-      </div>
-      <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Easter Break</b></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>19. 4. 2023</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
-      <td>Earley's Algorithm</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature15" style="display:none">
-      <br/>  
-      </div>
-      <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>20. 4. 2023</td>
-      <td>Weighted Pushdown Automata</td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      <div id="literature16" style="display:none">
-        <a href="https://rycolab.io/papers/butoi+al.emnlp22.pdf/" target="_blank">Butoi et al. (2022)</a></br>
-        <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
-      <br/>  
-      </div>
-      <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>26. 4. 2023</td>
-      <td>Newton's Algorithm for PDAs, Nullary Removal, Unary Removal</td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      <div id="literature17" style="display:none">
-      <br/>  
-      </div>
-      <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
-        </td>
-    </tr>
-    <tr>
-      <td>27. 4. 2023</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Dependency Languages</b></td>
-      <td>Chomsky Normal Form for PDAs, Lang's Algorithm</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature18" style="display:none">
-        <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
-        <a href="https://aclanthology.org/J08-4003.pdf" target="_blank">Nivre (2008)</a></br>
-        <a href="https://dl.acm.org/doi/10.1145/321250.321254" target="_blank">Greichbach (1965)</a></br>
-        <a href="https://aclanthology.org/A00-2033.pdf" target="_blank">Moore (2000)</a></br>
-        <a href="https://aclanthology.org/P04-1069.pdf" target="_blank">Nederhof and Satta (2004)</a></br>
-        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">Kübler et al. (2009)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0019995865902329?via%3Dihub" target="_blank">Gaifman (1965)</a></br>
-        <a href="https://link.springer.com/book/10.1007/978-3-642-14568-1" target="_blank">Kuhlmann (2011)</a></br>
-        <a href="https://aclanthology.org/P96-1025/" target="_blank">Collins (1996)</a></br>
-        <a href="https://aclanthology.org/P97-1003/" target="_blank">Collins (1997)</a></br>
-        <a href="http://www.cs.columbia.edu/~mcollins/papers/thesis.ps" target="_blank">Collins (1999)</a></br>
-        <a href="https://aclanthology.org/J04-4004.pdf" target="_blank">Bikel (2004)</a></br>
-        <a href="https://aclanthology.org/P99-1059/" target="_blank">Eisner and Satta (1999)</a></br>
-        <a href="https://www.cs.jhu.edu/~jason/papers/eisner.iwptbook00.pdf" target="_blank">Eisner (2000)</a></br>
-      <br/>  
-      </div>
-      <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>3. 5. 2023</td>
-      <td>Bilexical Grammars and Dependency Parsing (cont.)</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature19" style="display:none">
-      <br/>  
-      </div>
-      <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>4. 5. 2023</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
-      <td>Weighted Tree Automata</td>
-      <td>
-      <a href="https://drive.google.com/file/d/1AY0zNLxz6uBZ6NB1qh642xyCUrQxET-7/view?usp=share_link" target="_blank">Regular Tree Languages</a>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature20" style="display:none">
-        <a href="https://link.springer.com/book/10.1007/978-1-4612-1844-9" target="_blank">Dexter C. Kozen. 1997. Automata and Computability, 1st edition. Springer-Verlag, Berlin, Heidelberg.</a></br>
-        <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof Loding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a></br>
-        <a href="https://doi.org/10.48550/ARXIV.1510.02036" target="_blank">Joost Engelfriet. 2015. Tree automata and tree grammars.</a></br>
-        <a href="https://doi.org/10.48550/ARXIV.1509.06233" target="_blank">Ferenc Gecseg and Magnus Steinby. 2015. Tree automata.</a></br>
-        <a href="https://doi.org/https://doi.org/10.1016/S0022-0000(67)80022-9 target="_blank">J.W. Thatcher. 1967. Characterizing derivation trees of context-free grammars through a generalization of finite automata theory. Journal of Computer and System Sciences, 1(4):317–322.</a></br>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-540-30586-6_1" target="_blank">Kevin Knight and Jonathan Graehl. 2005. An overview of probabilistic tree transducers for natural language processing. In Computational Linguistics and Intelligent Text Processing, pages 1–24, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
-      <br/>  
-      </div>
-      <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>10. 5. 2023</td>
-      <td>Determinization of Weighted Tree Automata</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature21" style="display:none">
-        <a href="https://aclanthology.org/N06-1045/" target="_blank">Jonathan May and Kevin Knight. 2006. A better n-best list: Practical determinization of weighted finite tree automata. In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 351–358, New York City, USA. Association for Computational Linguistics.</a></br>
-        <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2010/determ.pdf" target="_blank">Matthias Buchse, Jonathan May, and Heiko Vogler. 2009. Determinization of weighted tree automata using factorizations.</a></br>
-        <a href="https://aclanthology.org/W12-0802.pdf" target="_blank">Matthias Buchse and Anja Fischer. 2012. Deciding the twins property for weighted tree automata over extremal semifields. In Proceedings of the Workshop on Applications of Tree Automata Techniques in Natural Language Processing, ATANLP ’12, page 11–20, USA. Association for Computational Linguistics.</a></br>
-      <br/>  
-      </div>
-      <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>11. 5. 2023</td>
-      <td>Determinization of Weighted Tree Automata (cont.), Weight Pushing</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature22" style="display:none">
-        <a href="https://dl.acm.org/doi/10.5555/2034006.2034050" target="_blank">Maletti and Quernheim (2011)</a></br>
-        <a href="https://arxiv.org/abs/1702.00304" target="_blank">Thomas Hanneforth, Andreas Maletti, and Daniel Quernheim. 2017. Pushing for weighted tree automata. CoRR.</a></br>
-      <br/>  
-      </div>
-      <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>17. 5. 2023</td>
-      <td>Minimization of weighted Tree Automata</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature23" style="display:none">
-        <a href="https://link.springer.com/chapter/10.1007/3-540-45007-6_11" target="_blank">Bjorn Borchardt. 2003. The Myhill-Nerode theorem for recognizable tree series. In Developments in Language Theory, pages 146–158, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-540-78773-0_10" target="_blank">Andreas Maletti. 2008. Myhill-nerode theorem for recognizable tree series revisited. In LATIN 2008: Theoretical Informatics, pages 106–120, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
-        <a href="https://link.springer.com/chapter/10.1007/11812128_17" target="_blank">Parosh Aziz Abdulla, Lisa Kaati, and Johanna H ̈ogberg. 2006. Bisimulation minimization of tree automata. In Implementation and Application of Automata, pages 173–185, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
-        <a href="https://arxiv.org/abs/1702.00304" target="_blank">Thomas Hanneforth, Andreas Maletti, and Daniel Quernheim. 2017. Pushing for weighted tree automata. CoRR.</a></br>
-      <br/>  
-      </div>
-      <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>18. 5. 2023</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Tree-Adjoining Languages</b></td>
-      <td>Weighted Tree-adjoining Grammars, Lang Normal Form</td>
-      <td>
-      </td>
-      <td></td>
-      <td>
-      <div id="literature24" style="display:none">
-        <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
-        <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann, Satta (2014)</a></br>
-      <br/>  
-      </div>
-      <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>24. 5. 2023</td>
-      <td>Other Formalisms for Tree-adjoining Languages</td>
-      <td></td>
-      <td>
-      </td>
-      <td>
-      <div id="literature25" style="display:none">
-      <br/>  
-      </div>
-      <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>25. 5. 2023</td>
-      <td>Parsing Tree-adjoining Languages</td>
-      <td></td>
-      <td>
-      </td>
-      <td>
-      <div id="literature26" style="display:none">
-      <br/>  
-      </div>
-      <button id="button26" style="border:none;" onclick="myFunction('26')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>31. 5. 2023</td>
-      <td>The Weir Hierarchy</td>
-      <td></td>
-      <td>
-      </td>
-      <td>
-      <div id="literature27" style="display:none">
-      <a href="https://doi.org/https://doi.org/10.1016/0304-3975(92)90124-X" target="_blank">David J. Weir. 1992. A geometric hierarchy beyond context-free languages. Theoretical Computer Science, 104(2):235–261.</a>
-      <a href="https://link.springer.com/article/10.1007/BF01303055" target="_blank">Michael A. Palis and Sunil M. Shende. 1995. Pumping lemmas for the control language hierarchy. Mathematical systems theory, 28:199–213.</a>
-      <br/>  
-      </div>
-      <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>1. 6. 2023</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Tree Languages</b></td>
-      <td>Context-free Tree Languages, Context-free Tree Grammars</td>
-      <td></td>
-      <td>
-      </td>
-      <td>
-      <div id="literature28" style="display:none">
-      <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof Loding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a>
-      <br/>  
-      </div>
-      <button id="button28" style="border:none;" onclick="myFunction('28')">Show</button>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <h2 id="organisation">Organisation</h2>
-
 <h3 id="live-chat">Live Chat</h3>
-
 <p>In addition to class time, there will also be a <code>RocketChat</code>-based live chat hosted on ETH’s servers.
 Students are free to ask questions of the teaching team and of others in public or private (direct message).
 There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides.
 All data from the chat will be deleted from ETH servers at the course’s conclusion.</p>
-
 <p><strong>Important</strong>: There are a few important points you should keep in mind about the course live chat:</p>
-
 <ol>
-<li><code>RocketChat</code> will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the <code>RocketChat</code>.<br /></li>
+<li><code>RocketChat</code> will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the <code>RocketChat</code>.</li>
 <li>Your username should be <code>firstname.lastname</code>. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate.</li>
-<li><strong>Tag</strong> your questions as described in the document on <a href="https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing" target="_blank">How to use Rycolab Course RocketChat channels</a>. The document also contains other general remarks about the use of <code>RocketChat</code>.<br /></li>
-<li>Search for answers in the appropriate channels before posting a new question.<br /></li>
-<li>Ask questions on public channels as much as possible.<br /></li>
-<li>Answer to posts in <em>threads</em>.<br /></li>
-<li>The chat supports <code>LaTeX</code> for easier discussion of technical material. See <a href="https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing" target="_blank">How to use <code>LaTeX</code> in <code>RocketChat</code></a>.<br /></li>
-<li>We highly recommend you download the desktop app <a href="https://www.rocket.chat/" target="_blank">here</a>.<br /></li>
+<li><strong>Tag</strong> your questions as described in the document on 
+<a href="https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing" target="_blank" rel="noopener">How to use Rycolab Course RocketChat channels</a>. The document also contains other general remarks about the use of <code>RocketChat</code>.</li>
+<li>Search for answers in the appropriate channels before posting a new question.</li>
+<li>Ask questions on public channels as much as possible.</li>
+<li>Answer to posts in <em>threads</em>.</li>
+<li>The chat supports <code>LaTeX</code> for easier discussion of technical material. See 
+<a href="https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing" target="_blank" rel="noopener">How to use <code>LaTeX</code> in <code>RocketChat</code></a>.</li>
+<li>We highly recommend you download the desktop app 
+<a href="https://www.rocket.chat/" target="_blank" rel="noopener">here</a>.</li>
 </ol>
-
-<p><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2F869Fwb" target="_blank"><strong>This is the link</strong></a> to the main channel.
+<p>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2F869Fwb" target="_blank" rel="noopener"><strong>This is the link</strong></a> to the main channel.
 To make the moderation of the chat more easily manageable, we have created a number of other channels on <code>RocketChat</code>.
 The full list is:</p>
-
 <ul>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2F869Fwb" target="_blank">AFLT General Channel</a> for the general organisational discussions.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FQMtaHo" target="_blank">AFLT Announcements Channel</a> for the announcements by the teaching team.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FHhErq4" target="_blank">AFLT Content Questions</a> for your questions about the content of the course.
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2F869Fwb" target="_blank" rel="noopener">AFLT General Channel</a> for the general organisational discussions.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FQMtaHo" target="_blank" rel="noopener">AFLT Announcements Channel</a> for the announcements by the teaching team.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FHhErq4" target="_blank" rel="noopener">AFLT Content Questions</a> for your questions about the content of the course.
 <strong>Important</strong>: Please prepend your question with a &ldquo;tag&rdquo; about the content of your question in square brackets.
 For example, if your question is about the content of Lecture 2 and specifically about the definition of a semiring, please start your message with <code>[Lecture #1, Definition of a Semiring]</code>.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FBfZh2S" target="_blank">AFLT Errata</a> for reporting typos and errors in the course lecture notes and the slides.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FEeMrho" target="_blank">AFLT Assignment 1</a> for discussing and asking questions about Assignment 1.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2Fa5d4RE" target="_blank">AFLT Assignment 2</a> for discussing and asking questions about Assignment 2.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FMEaLbk" target="_blank">AFLT Assignment 3</a> for discussing and asking questions about Assignment 3.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FiWmzYb" target="_blank">AFLT Assignment 4</a> for discussing and asking questions about Assignment 4.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FFbbHxi" target="_blank">AFLT Assignment 5</a> for discussing and asking questions about Assignment 5.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FcusQBK" target="_blank">AFLT Assignment 6</a> for discussing and asking questions about Assignment 6.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2Fy7KLxj" target="_blank">AFLT Assignment 7</a> for discussing and asking questions about Assignment 7.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FQvvznG" target="_blank">AFLT Assignment 8</a> for discussing and asking questions about Assignment 8.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FEoJvx7" target="_blank">AFLT Assignment 9</a> for discussing and asking questions about Assignment 9.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FetCHHF" target="_blank">AFLT Assignment 10</a> for discussing and asking questions about Assignment 10.</li>
-<li><a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FXRWKMG" target="_blank">Find Assignment Partners</a> for finding teammates for the course assignments.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FBfZh2S" target="_blank" rel="noopener">AFLT Errata</a> for reporting typos and errors in the course lecture notes and the slides.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FEeMrho" target="_blank" rel="noopener">AFLT Assignment 1</a> for discussing and asking questions about Assignment 1.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2Fa5d4RE" target="_blank" rel="noopener">AFLT Assignment 2</a> for discussing and asking questions about Assignment 2.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FMEaLbk" target="_blank" rel="noopener">AFLT Assignment 3</a> for discussing and asking questions about Assignment 3.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FiWmzYb" target="_blank" rel="noopener">AFLT Assignment 4</a> for discussing and asking questions about Assignment 4.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FFbbHxi" target="_blank" rel="noopener">AFLT Assignment 5</a> for discussing and asking questions about Assignment 5.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FcusQBK" target="_blank" rel="noopener">AFLT Assignment 6</a> for discussing and asking questions about Assignment 6.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2Fy7KLxj" target="_blank" rel="noopener">AFLT Assignment 7</a> for discussing and asking questions about Assignment 7.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FQvvznG" target="_blank" rel="noopener">AFLT Assignment 8</a> for discussing and asking questions about Assignment 8.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FEoJvx7" target="_blank" rel="noopener">AFLT Assignment 9</a> for discussing and asking questions about Assignment 9.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FetCHHF" target="_blank" rel="noopener">AFLT Assignment 10</a> for discussing and asking questions about Assignment 10.</li>
+<li>
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FXRWKMG" target="_blank" rel="noopener">Find Assignment Partners</a> for finding teammates for the course assignments.</li>
 </ul>
-
 <p>If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!</p>
-
 <h3 id="course-notes">Course Notes</h3>
-
 <p>We prepared very detailed course notes last year.
 We will be improving them throughout the semester as we go!
 The individual chapters will be published in the course syllabus below and updated throughout the semester.
-Please report all errata to the teaching staff; we really want to polish the notes this semester so any feedback, no matter how small, would be very appreciated&mdash;we created an <a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FBfZh2S" target="_blank">errata channel</a> in <code>RocketChat</code>.</p>
-
+Please report all errata to the teaching staff; we really want to polish the notes this semester so any feedback, no matter how small, would be very appreciated&mdash;we created an 
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2FBfZh2S" target="_blank" rel="noopener">errata channel</a> in <code>RocketChat</code>.</p>
 <p>Other useful literature:</p>
-
 <ul>
-<li><a href="https://github.com/rycolab/aflt-f2023" target="_blank"><code>Rayuela</code></a><br /></li>
-<li><a href="https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=30OMHV1C018JY&amp;dchild=1&amp;keywords=introduction+to+natural+language+processing&amp;qid=1598878964&amp;sprefix=introduction+to+na%2Caps%2C148&amp;sr=8-1" target="_blank">Introduction to Natural Language Processing (Eisenstein)</a><br /></li>
+<li>
+<a href="https://github.com/rycolab/aflt-f2023" target="_blank" rel="noopener"><code>Rayuela</code></a></li>
+<li>
+<a href="https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=30OMHV1C018JY&amp;dchild=1&amp;keywords=introduction&#43;to&#43;natural&#43;language&#43;processing&amp;qid=1598878964&amp;sprefix=introduction&#43;to&#43;na%2Caps%2C148&amp;sr=8-1" target="_blank" rel="noopener">Introduction to Natural Language Processing (Eisenstein)</a></li>
 </ul>
-
 <h2 id="grading">Grading</h2>
-
 <p>There will be <em>no final exam</em> for this course.</p>
-
 <p>Instead, we will release <strong>10 course assignments</strong> throughout the semester and you can complete an optional course project. You can then obtain your final grade in <strong>two ways</strong>:</p>
-
-<p>&nbsp;&nbsp;&nbsp;<strong>1.</strong> You can obtain your final grade from <strong>assignments only</strong>, in which case we will calculate your final grade based on the <strong>8</strong> highest-scoring assignments you turn in (you can therefore turn in just 8 of the assignments, or optionally fewer if you are not aiming for the highest grade).</p>
-
+<p>   <strong>1.</strong> You can obtain your final grade from <strong>assignments only</strong>, in which case we will calculate your final grade based on the <strong>8</strong> highest-scoring assignments you turn in (you can therefore turn in just 8 of the assignments, or optionally fewer if you are not aiming for the highest grade).</p>
 <p>In that case, the final grade will be calculated as follows:</p>
-
 <ul>
-<li><strong>100 %</strong> Assignments<strong>*</strong></li>
+<li><strong>100 %</strong> Assignments*****</li>
 </ul>
-
-<p>&nbsp;&nbsp;&nbsp;<strong>2.</strong> Alternatively, you can obtain your final grade from <strong>assignments <em>and</em> a course project</strong>. In that case, you only have to turn in <strong>4 assignments</strong> and the <strong>course project</strong> to be able to achieve the highest grade (your 4 highest-scoring assignments will count towards your final grade).
+<p>   <strong>2.</strong> Alternatively, you can obtain your final grade from <strong>assignments <em>and</em> a course project</strong>. In that case, you only have to turn in <strong>4 assignments</strong> and the <strong>course project</strong> to be able to achieve the highest grade (your 4 highest-scoring assignments will count towards your final grade).
 See below for more information on the course project.</p>
-
 <p>In this case, your final grade will be calculated as follows:</p>
-
 <ul>
-<li><strong>50 %</strong> Assignments<strong>*</strong> and</li>
+<li><strong>50 %</strong> Assignments***** and</li>
 <li><strong>50 %</strong> Course Project</li>
 </ul>
-
 <p>You <em>can</em> cooperate on and discuss the assignments with your peers, but you <em>must</em> write your own code and write up the solutions yourself.</p>
-
 <p>*<strong>Important</strong>: In either of the two options, there is a specific <strong>condition</strong> we impose on the assignments you turn in: <strong>half</strong> of your assignment have to come from the first &ldquo;batch&rdquo; of the assignments (Assignments 1&mdash;5), and <strong>half</strong> of your assignments have to come from the second &ldquo;batch&rdquo; of the assignments (Assignments 6&mdash;10).
 This means that, if you are turning in 4 assignments, you have to turn in 2 assignments from the first batch and 2 assignments from the second batch, and if you are submitting 8 assignments, you have to turn in 4 assignments from the first batch and 4 assignments from the second batch.
 This is to ensure you have a more holistic understanding of the entire course material.</p>
-
 <p>We require the solutions to be properly typeset.
-We recommend using <code>LaTeX</code> (with <a href="https://www.overleaf.com" target="_blank"><code>Overleaf</code></a>), but <code>markdown</code> files with <code>MathJax</code> for the mathematical expressions are also fine.</p>
-
+We recommend using <code>LaTeX</code> (with 
+<a href="https://www.overleaf.com" target="_blank" rel="noopener"><code>Overleaf</code></a>), but <code>markdown</code> files with <code>MathJax</code> for the mathematical expressions are also fine.</p>
 <h3 id="assignments">Assignments</h3>
-
 <p>Below you can find the assignment instructions.
 Keep in mind that we published <em>last year&rsquo;s</em> assignments to give you an idea of the difficulty level and the type of questions we will be asking.
 The assignments can change slightly as we update them this year, however, <em>the questions themselves will not change</em>&mdash;we will only update the assignments to make them more clear and to fix any typos.</p>
-
 <p><strong>Assignment instructions</strong>:</p>
-
 <ul>
-<li><a href="https://drive.google.com/file/d/1f7Lzl-bzc3QPK9PCPpHEZYlXTgNbMLDG/view?usp=share_link" target="_blank">Assignment 1</a><br /></li>
-<li><a href="https://drive.google.com/file/d/19xPcUJ1vZdYJ8Hjytu-pHUYvIlwxYukG/view?usp=share_link" target="_blank">Assignment 2</a><br /></li>
-<li><a href="https://drive.google.com/file/d/15cXSRpduhbGi2ad_F52X81ua_g2B2JAU/view?usp=share_link" target="_blank">Assignment 3</a><br /></li>
-<li><a href="https://drive.google.com/file/d/1LHsc3d01d5nCjKjcxLtgpqz7a5TA7bRv/view?usp=share_link" target="_blank">Assignment 4</a><br /></li>
-<li><a href="https://drive.google.com/file/d/1GXcZzgYdoXpBIZvvZG2mYXUQqLquRuQv/view?usp=share_link" target="_blank">Assignment 5</a><br /></li>
-<li><a href="https://drive.google.com/file/d/1QGH8ra9wGxUDVynqLWud1sSHRP9kEVy_/view?usp=share_link" target="_blank">Assignment 6</a><br /></li>
-<li><a href="https://drive.google.com/file/d/1dGzsnxFgMTRgIw1IXRxOtG-xU-i1cYy1/view?usp=share_link" target="_blank">Assignment 7</a><br /></li>
-<li><a href="https://drive.google.com/file/d/1_iEicLn0c2207SWV7hPGrJux5Me2Qt04/view?usp=share_link" target="_blank">Assignment 8</a><br /></li>
-<li><a href="https://drive.google.com/file/d/1WxMT1qPI8lkWzgPIzQwHPrCcgt8TxT20/view?usp=share_link" target="_blank">Assignment 9</a><br /></li>
-<li><a href="https://drive.google.com/file/d/1xSrZqAPHTXDRwXN3uwHOYDi02NIaFBga/view?usp=share_link" target="_blank">Assignment 10</a><br /></li>
+<li>
+<a href="https://drive.google.com/file/d/1f7Lzl-bzc3QPK9PCPpHEZYlXTgNbMLDG/view?usp=share_link" target="_blank" rel="noopener">Assignment 1</a></li>
+<li>
+<a href="https://drive.google.com/file/d/19xPcUJ1vZdYJ8Hjytu-pHUYvIlwxYukG/view?usp=share_link" target="_blank" rel="noopener">Assignment 2</a></li>
+<li>
+<a href="https://drive.google.com/file/d/15cXSRpduhbGi2ad_F52X81ua_g2B2JAU/view?usp=share_link" target="_blank" rel="noopener">Assignment 3</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1LHsc3d01d5nCjKjcxLtgpqz7a5TA7bRv/view?usp=share_link" target="_blank" rel="noopener">Assignment 4</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1GXcZzgYdoXpBIZvvZG2mYXUQqLquRuQv/view?usp=share_link" target="_blank" rel="noopener">Assignment 5</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1QGH8ra9wGxUDVynqLWud1sSHRP9kEVy_/view?usp=share_link" target="_blank" rel="noopener">Assignment 6</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1dGzsnxFgMTRgIw1IXRxOtG-xU-i1cYy1/view?usp=share_link" target="_blank" rel="noopener">Assignment 7</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1_iEicLn0c2207SWV7hPGrJux5Me2Qt04/view?usp=share_link" target="_blank" rel="noopener">Assignment 8</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1WxMT1qPI8lkWzgPIzQwHPrCcgt8TxT20/view?usp=share_link" target="_blank" rel="noopener">Assignment 9</a></li>
+<li>
+<a href="https://drive.google.com/file/d/1xSrZqAPHTXDRwXN3uwHOYDi02NIaFBga/view?usp=share_link" target="_blank" rel="noopener">Assignment 10</a></li>
 </ul>
-
 <p><strong>Important</strong>: The deadline for the projects and all assignments is <strong>shortly before the end of the Summer examination period</strong>&mdash;<strong>15. 8. 2023</strong>.
-The submissions will be done through the <a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank">course Moodle page</a>.
+The submissions will be done through the 
+<a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank" rel="noopener">course Moodle page</a>.
 Keep in mind that due to how late this deadline is, we <em>cannot extend it</em>&mdash;we are counting on you to be organised and submit the work in time.</p>
-
 <h3 id="course-project">Course Project</h3>
-
 <p>The course project is optional, but it is a great way to get a deeper understanding of the course material and to apply it to a real-world problem.
 We expect you to complete the project in a group of <strong>3-5</strong> students&mdash;to make supervising the projects manageable, we will <em>not accept</em> groups with fewer than 3 students.</p>
-
-<p>You can find more information on the course project and the detailed instructions for it in the <a href="https://drive.google.com/file/d/1DLW7wqzHxl2pPviysdUwLF9E5Habx4od/view?usp=share_link" target="_blank">Course project instructions</a>.
+<p>You can find more information on the course project and the detailed instructions for it in the 
+<a href="https://drive.google.com/file/d/1DLW7wqzHxl2pPviysdUwLF9E5Habx4od/view?usp=share_link" target="_blank" rel="noopener">Course project instructions</a>.
 To give early feedback, a <em>proposal</em> is due midway through the course (<strong>15.4.2023</strong>) and a <em>progress report</em> towards the end of the semester (<strong>15.5.2023</strong>).
-See the <a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank">course Moodle page</a> for the submission links.</p>
-
-<p>The teaching staff has compiled a list of recent papers, listed below, whose replication would make for a great project, but students should feel free to come up with other ideas as well.
-<table class="table">
-  <head>
-    <base target="_blank">
-  </head>
-  <thead>
-    <tr>
-      <th scope="col" style='white-space:nowrap'>Paper ID</th>
-      <th scope="col" style='white-space:nowrap'>Paper</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>
-      <a href="https://aclanthology.org/2020.conll-1.41/" target="_blank">DuSell and Chiang, 2020, Learning Context-free Languages with Nondeterministic Stack RNNs</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>
-      <a href="https://arxiv.org/pdf/2210.01343" target="_blank">DuSell and Chiang, 2022, The Surprising Computational Power of Nondeterministic Stack RNNs</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>
-      <a href="https://arxiv.org/pdf/2109.01982.pdf" target="_blank">DuSell and Chiang, 2020, Learning Hierarchical Structures with Differentiable Nondeterministic Stacks</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>
-      <a href="https://arxiv.org/abs/1810.09536" target="_blank">Shen et al., 2019, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">5</th>
-      <td>
-      <a href="https://aclanthology.org/2020.tacl-1.27.pdf" target="_blank">Clark and Fijalkow, 2020, Consistent Unsupervised Estimators for Anchored PCFGs</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">6</th>
-      <td>
-      <a href="https://proceedings.neurips.cc/paper/2020/file/49ca03822497d26a3943d5084ed59130-Paper.pdf" target="_blank">Chiang and Riley, 2020, Factor Graph Grammars</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">7</th>
-      <td>
-      <a href="https://arxiv.org/pdf/1805.06383.pdf" target="_blank">Argueta and Chiang, 2018, Composing Finite State Transducers on GPUs</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">8</th>
-      <td>
-      <a href="https://aclanthology.org/www.mt-archive.info/HLT-NAACL-2006-Smith.pdf" target="_blank">Smith and Eisner, 2006, Quasi-Synchronous Grammars: Alignment by Soft Projection of Syntactic Dependencies</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>
-      <a href="https://www.cs.jhu.edu/~jason/papers/eisner.acl96.pdf" target="_blank">Eisner, 1996, Efficient Normal-Form Parsing for Combinatory Categorial Grammar</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">10</th>
-      <td>
-      <a href="https://www.cs.jhu.edu/~jason/papers/eisner+satta.tag00.pdf" target="_blank">Eisner and Satta, 2000, A Faster Parsing Algorithm for Lexicalized Tree-Adjoining Grammars</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">11</th>
-      <td>
-      <a href="https://www.cs.jhu.edu/~jason/papers/smith+eisner.emnlp08.pdf" target="_blank">Smith and Eisner, 2008, Dependency Parsing by Belief Propagation</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">12</th>
-      <td>
-      <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann and Satta, 2014, A New Parsing Algorithm for Combinatory Categorial Grammar</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">13</th>
-      <td>
-      <a href="https://www.researchgate.net/publication/2764125_The_Equivalence_Of_Four_Extensions_Of_Context-Free_Grammars" target="_blank">Vijay-Shanker and Weir, 1995, The Equivalence Of Four Extensions Of Context-Free Grammars</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">14</th>
-      <td>
-      <a href="https://www.sciencedirect.com/science/article/pii/030439759290124X" target="_blank">Weir, 1992, A geometric hierarchy beyond context-free languages</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">15</th>
-      <td>
-      <a href="https://arxiv.org/abs/1808.09357" target="_blank">Peng et al, 2018, Rational Recurrences</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">16</th>
-      <td>
-      <a href="https://arxiv.org/abs/1805.06061" target="_blank">Schwartz et al., 2018, SoPa: Bridging CNNs, RNNs, and Weighted Finite-State Machines</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">17</th>
-      <td>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0022000085710136" target="_blank">Siegelmann and Sontag, 1995, On the Computational Power of Neural Nets</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">18</th>
-      <td>
-      <a href="https://aclanthology.org/K19-1045.pdf" target="_blank">Deutsch et al., 2019, A General-Purpose Algorithm for Constrained Sequential Inference</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">19</th>
-      <td>
-      <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545" target="_blank">Hahn, 2020, Theoretical Limitations of Self-Attention in Neural Sequence Models</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">20</th>
-      <td>
-      <a href="https://arxiv.org/pdf/2202.12172.pdf" target="_blank">Chiang and Cholak, 2022, Overcoming a Theoretical Limitation of Self-Attention</a></br>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">21</th>
-      <td>
-      <a href="https://arxiv.org/pdf/2010.07515.pdf" target="_blank">Hewitt et al., 2020, RNNs can generate bounded hierarchical languages with optimal memory</a></br>
-      </td>
-    </tr></p>
-
-<p></tbody>
-</table></p>
-
+See the 
+<a href="https://moodle-app2.let.ethz.ch/course/view.php?id=19132" target="_blank" rel="noopener">course Moodle page</a> for the submission links.</p>
+<p>The teaching staff has compiled a list of recent papers, listed below, whose replication would make for a great project, but students should feel free to come up with other ideas as well.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <h2 id="contact">Contact</h2>
-
-<p>You can ask questions on the course <a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2F869Fwb" target="_blank">chat server</a>.
+<p>You can ask questions on the course 
+<a href="https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&amp;path=invite%2F869Fwb" target="_blank" rel="noopener">chat server</a>.
 Please post all content-related questions there, so others can see them and join the discussion.
 If you have questions which are not related to the course material and are not of general interest, please don&rsquo;t hesitate to contact us directly, i.e., email Ryan with the TAs cc-ed.</p>
 
@@ -2033,6 +1376,23 @@ If you have questions which are not related to the course material and are not o
     <li>
       <a href="https://anejsvete.github.io/" target="_blank" rel="noopener">
         <i class="fas fa-portrait"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=9ezEOeUAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fab fa-google"></i>
       </a>
     </li>
   
@@ -2523,7 +1883,7 @@ If you have questions which are not related to the course material and are not o
     
     
     
-    <script src="/js/academic.min.028921594830c1bc75b0c52a62a48576.js"></script>
+    <script src="/js/academic.min.d3a4ef48428bdae11b5516d814fd1aa6.js"></script>
 
     
 
