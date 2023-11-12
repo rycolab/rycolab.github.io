@@ -17,7 +17,10 @@
       <link>https://rycolab.io/talk/weiss-mar-1-22/</link>
       <pubDate>Tue, 01 Mar 2022 17:00:00 +0200</pubDate>
       <guid>https://rycolab.io/talk/weiss-mar-1-22/</guid>
-      <description>&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
 &lt;p&gt;Gail is a PhD student at Technion working with Eran Yahav and Yoav Goldberg. Her research interest is in understanding sequential neural networks (such as RNNs and transformers) through the lens of formal language theory.&lt;/p&gt;
 </description>
     </item>
