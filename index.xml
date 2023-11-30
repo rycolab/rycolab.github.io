@@ -5,12 +5,38 @@
     <link>https://rycolab.io/</link>
       <atom:link href="https://rycolab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rycolab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2023 11:00:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Rycolab</title>
       <link>https://rycolab.io/</link>
     </image>
+    
+    <item>
+      <title>Transparency at the Source: Evaluating and Interpreting Language Models With Access to the True Distribution</title>
+      <link>https://rycolab.io/talk/jumelet-nov-22-23/</link>
+      <pubDate>Wed, 22 Nov 2023 11:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/jumelet-nov-22-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Jaap Jumelet is a PhD candidate in the group of Jelle Zuidema at the ILLC, University of Amsterdam. The topic of his PhD lies at the intersection of explainable AI and natural language processing. He is interested in uncovering the linguistic capacities of current NLP models, and developing new techniques that allow to gain these insights in a robust and faithful way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling Sequences with Quantum States</title>
+      <link>https://rycolab.io/talk/terilla-nov-08-23/</link>
+      <pubDate>Wed, 08 Nov 2023 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/terilla-nov-08-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;John Terilla is Professor of Mathematics at Queens College and on the Doctoral Faculty at the City University of New York Graduate Center. His research is in algebraic topology, quantum physics, and artificial intelligence, and he is interested in understanding the mathematics at work in natural language.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Fast Algorithm for Computing Prefix Probabilities</title>

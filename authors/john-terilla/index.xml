@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Terilla | Rycolab</title>
+    <link>https://rycolab.io/authors/john-terilla/</link>
+      <atom:link href="https://rycolab.io/authors/john-terilla/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Terilla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Nov 2023 10:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>John Terilla</title>
+      <link>https://rycolab.io/authors/john-terilla/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Sequences with Quantum States</title>
+      <link>https://rycolab.io/talk/terilla-nov-08-23/</link>
+      <pubDate>Wed, 08 Nov 2023 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/terilla-nov-08-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;John Terilla is Professor of Mathematics at Queens College and on the Doctoral Faculty at the City University of New York Graduate Center. His research is in algebraic topology, quantum physics, and artificial intelligence, and he is interested in understanding the mathematics at work in natural language.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
