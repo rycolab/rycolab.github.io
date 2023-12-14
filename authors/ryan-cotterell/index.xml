@@ -5,164 +5,12 @@
     <link>https://rycolab.io/authors/ryan-cotterell/</link>
       <atom:link href="https://rycolab.io/authors/ryan-cotterell/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan Cotterell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Ryan Cotterell</title>
       <link>https://rycolab.io/authors/ryan-cotterell/</link>
     </image>
-    
-    <item>
-      <title>A Fast Algorithm for Computing Prefix Probabilities</title>
-      <link>https://rycolab.io/publication/nowakcotterell-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/nowakcotterell-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Formal Perspective on Byte-Pair Encoding</title>
-      <link>https://rycolab.io/publication/zouharal-acl-findings-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/zouharal-acl-findings-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Measure-theoretic Characterzation of Tight Language Model</title>
-      <link>https://rycolab.io/publication/dual-acl-23-a/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/dual-acl-23-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Ordinal Latent Variable Model for Conflict Intensity</title>
-      <link>https://rycolab.io/publication/stoehral-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/stoehral-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convergence and Diversity in the Control Hierarchy</title>
-      <link>https://rycolab.io/publication/butoial-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/butoial-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels</title>
-      <link>https://rycolab.io/publication/jiangal-ac-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/jiangal-ac-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Semiring-Weighted Earley Parsing</title>
-      <link>https://rycolab.io/publication/opedalacl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/opedalacl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalizing Backpropagation for Gradient-Based Interpretability</title>
-      <link>https://rycolab.io/publication/dual-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/dual-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hexatagging: Projective Dependency Parsing as Tagging</title>
-      <link>https://rycolab.io/publication/aminial-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/aminial-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log-Linear Guardedness and Its Implications</title>
-      <link>https://rycolab.io/publication/ravfogelal-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/ravfogelal-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Efficacy of Sampling Adapters</title>
-      <link>https://rycolab.io/publication/meisteral-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/meisteral-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tokenization and the Noiseless Channel</title>
-      <link>https://rycolab.io/publication/zouharal-acl-23/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/zouharal-acl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Intersection of Context-Free and Regular Languages</title>
-      <link>https://rycolab.io/publication/pastial-eacl-23/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pastial-eacl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Usefulness of Embeddings, Clusters and Strings for Text Generation Evaluation</title>
-      <link>https://rycolab.io/publication/pimentelal-iclr-23/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pimentelal-iclr-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentiment as an Ordinal Latent Variable</title>
-      <link>https://rycolab.io/publication/stoehral-eacl-23/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/stoehral-eacl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Ordered Matrix Dirichlet for State-Space Models</title>
-      <link>https://rycolab.io/publication/stoehral-aistats-23/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/stoehral-aistats-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Cross-Linguistic Pressure for Uniform Information Density in Word Order</title>
-      <link>https://rycolab.io/publication/clarkal-tacl-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/clarkal-tacl-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Latent-Variable Model for Intrinsic Probing</title>
-      <link>https://rycolab.io/publication/stanczakal-aaai-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/stanczakal-aaai-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Controllable Text Generation with Natural Language Instructions</title>
-      <link>https://rycolab.io/publication/zhoual-icml-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/zhoual-icml-23/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Algorithms for Weighted Finite-State Automata with Failure Arcs</title>
@@ -469,7 +317,7 @@
     </item>
     
     <item>
-      <title>A surprisal--duration trade-off across and within the world’s languages</title>
+      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-a/</guid>
@@ -486,9 +334,9 @@
     
     <item>
       <title>Classifying Dyads for Militarized Conflict Analysis</title>
-      <link>https://rycolab.io/publication/stoehral-emnlp-21/</link>
+      <link>https://rycolab.io/publication/stoehral-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/stoehral-emnlp-21/</guid>
+      <guid>https://rycolab.io/publication/stoehral-emnlp-21-a/</guid>
       <description></description>
     </item>
     
@@ -597,6 +445,14 @@
     </item>
     
     <item>
+      <title>Higher-order Derivatives of Weighted Finite-state Machines</title>
+      <link>https://rycolab.io/publication/zmigrodal-acl-21-b/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-acl-21-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Is Sparse Attention more Interpretable?</title>
       <link>https://rycolab.io/publication/meisteral-acl-21-b/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
@@ -629,22 +485,6 @@
     </item>
     
     <item>
-      <title>SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages</title>
-      <link>https://rycolab.io/publication/pimentelal-sigmorphon-21/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pimentelal-sigmorphon-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Non-Linear Structural Probe</title>
-      <link>https://rycolab.io/publication/whiteal-naacl-2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/whiteal-naacl-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Non-Linear Structural Probe</title>
       <link>https://rycolab.io/publication/whiteal-naacl-21/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -673,14 +513,6 @@
       <link>https://rycolab.io/publication/pimentelal-naacl-21-b/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-naacl-21-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SIGTYP 2021 Shared Task: Robust Spoken Language Identification</title>
-      <link>https://rycolab.io/publication/saleskyal-sigtyp-21/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/saleskyal-sigtyp-21/</guid>
       <description></description>
     </item>
     
