@@ -5,12 +5,173 @@
     <link>https://rycolab.io/</link>
       <atom:link href="https://rycolab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rycolab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 May 2023 10:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Nov 2023 11:00:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Rycolab</title>
       <link>https://rycolab.io/</link>
     </image>
+    
+    <item>
+      <title>Transparency at the Source: Evaluating and Interpreting Language Models With Access to the True Distribution</title>
+      <link>https://rycolab.io/talk/jumelet-nov-22-23/</link>
+      <pubDate>Wed, 22 Nov 2023 11:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/jumelet-nov-22-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Jaap Jumelet is a PhD candidate in the group of Jelle Zuidema at the ILLC, University of Amsterdam. The topic of his PhD lies at the intersection of explainable AI and natural language processing. He is interested in uncovering the linguistic capacities of current NLP models, and developing new techniques that allow to gain these insights in a robust and faithful way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling Sequences with Quantum States</title>
+      <link>https://rycolab.io/talk/terilla-nov-08-23/</link>
+      <pubDate>Wed, 08 Nov 2023 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/terilla-nov-08-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;John Terilla is Professor of Mathematics at Queens College and on the Doctoral Faculty at the City University of New York Graduate Center. His research is in algebraic topology, quantum physics, and artificial intelligence, and he is interested in understanding the mathematics at work in natural language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Fast Algorithm for Computing Prefix Probabilities</title>
+      <link>https://rycolab.io/publication/nowakcotterell-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/nowakcotterell-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Formal Perspective on Byte-Pair Encoding</title>
+      <link>https://rycolab.io/publication/zouharal-acl-findings-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zouharal-acl-findings-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Measure-theoretic Characterzation of Tight Language Model</title>
+      <link>https://rycolab.io/publication/dual-acl-23-a/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/dual-acl-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ordinal Latent Variable Model for Conflict Intensity</title>
+      <link>https://rycolab.io/publication/stoehral-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence and Diversity in the Control Hierarchy</title>
+      <link>https://rycolab.io/publication/butoial-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/butoial-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels</title>
+      <link>https://rycolab.io/publication/jiangal-ac-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/jiangal-ac-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Semiring-Weighted Earley Parsing</title>
+      <link>https://rycolab.io/publication/opedalacl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/opedalacl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing Backpropagation for Gradient-Based Interpretability</title>
+      <link>https://rycolab.io/publication/dual-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/dual-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexatagging: Projective Dependency Parsing as Tagging</title>
+      <link>https://rycolab.io/publication/aminial-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log-Linear Guardedness and Its Implications</title>
+      <link>https://rycolab.io/publication/ravfogelal-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ravfogelal-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Efficacy of Sampling Adapters</title>
+      <link>https://rycolab.io/publication/meisteral-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tokenization and the Noiseless Channel</title>
+      <link>https://rycolab.io/publication/zouharal-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zouharal-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAUVE Scores for Generative Models: Theory and Practice</title>
+      <link>https://rycolab.io/talk/pillutla-jun-16-23/</link>
+      <pubDate>Fri, 16 Jun 2023 14:00:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/pillutla-jun-16-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Krishna Pillutla is a visiting researcher (postdoc) at Google Research in the Federated Learning team. He is broadly interested in machine learning, artificial intelligence, optimization, robustness, and privacy, and specifically in the setting of federated learning, and text generation. He obtained his PhD from the Paul G. Allen School of Computer Science &amp;amp; Engineering at the University of Washington.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Governance and Transparency for Large Language Models</title>
+      <link>https://rycolab.io/talk/rogers-jun-8-23/</link>
+      <pubDate>Fri, 09 Jun 2023 14:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/rogers-jun-8-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Anna Rogers is an assistant professor in the Computer Science Department at the IT University of Copenhagen. She has a wide range of research interests that span intersection of linguistics, natural language processing, and machine learning. She is also currently a co-program-chair of ACL 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Automatic Metrics, From String Matching to Black-Box LLM</title>
+      <link>https://rycolab.io/talk/kocmi-may-24-23/</link>
+      <pubDate>Wed, 24 May 2023 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/kocmi-may-24-23/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Tom Kocmi is a researcher at Microsoft Translator focusing on human and automatic evaluation of machine translation. He coordinates the annual WMT General MT shared task where researchers from both academia and industry compete to build the best performing MT systems.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On the alignment of production variability in humans and text generators</title>
@@ -26,6 +187,30 @@
     </item>
     
     <item>
+      <title>On the Intersection of Context-Free and Regular Languages</title>
+      <link>https://rycolab.io/publication/pastial-eacl-23/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pastial-eacl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Usefulness of Embeddings, Clusters and Strings for Text Generation Evaluation</title>
+      <link>https://rycolab.io/publication/pimentelal-iclr-23/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-iclr-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment as an Ordinal Latent Variable</title>
+      <link>https://rycolab.io/publication/stoehral-eacl-23/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-eacl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Communicative Feedback in Language Acquisition</title>
       <link>https://rycolab.io/talk/nikolaus-apr-02-23/</link>
       <pubDate>Tue, 04 Apr 2023 10:30:00 +0200</pubDate>
@@ -36,6 +221,14 @@
 
 &lt;p&gt;Mitja Nikolaus is currently finishing his PhD with Abdellah Fourtassi at Aix-Marseille University. Mitja is a cognitive scientist who uses machine learning to study how children acquire language. He&amp;rsquo;s especially interested in communicative feedback and multimodal learning.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The Ordered Matrix Dirichlet for State-Space Models</title>
+      <link>https://rycolab.io/publication/stoehral-aistats-23/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-aistats-23/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -75,6 +268,30 @@
 
 &lt;p&gt;Jordan Boyd-Graber is an associate professor in the University of Maryland&amp;rsquo;s Computer Science Department, iSchool, UMIACS, and Language Science Center. He generally works on how humans can interact with AI tools, starting first with topic models, then translation, then negotiation, and most recently question answering. He and his students have won &amp;ldquo;best of&amp;rdquo; awards at NIPS (2009, 2015), NAACL (2016), and CoNLL (2015). Jordan also won the British Computing Society&amp;rsquo;s 2015 Karen Spärk Jones Award and a 2017 NSF CAREER award.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Cross-Linguistic Pressure for Uniform Information Density in Word Order</title>
+      <link>https://rycolab.io/publication/clarkal-tacl-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/clarkal-tacl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Latent-Variable Model for Intrinsic Probing</title>
+      <link>https://rycolab.io/publication/stanczakal-aaai-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stanczakal-aaai-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Text Generation with Natural Language Instructions</title>
+      <link>https://rycolab.io/publication/zhoual-icml-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zhoual-icml-23/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -624,7 +841,7 @@
     </item>
     
     <item>
-      <title>A surprisal--duration trade-off across and within the world&#39;s languages</title>
+      <title>A surprisal--duration trade-off across and within the world’s languages</title>
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-a/</guid>
@@ -641,9 +858,9 @@
     
     <item>
       <title>Classifying Dyads for Militarized Conflict Analysis</title>
-      <link>https://rycolab.io/publication/stoehral-emnlp-21-a/</link>
+      <link>https://rycolab.io/publication/stoehral-emnlp-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/stoehral-emnlp-21-a/</guid>
+      <guid>https://rycolab.io/publication/stoehral-emnlp-21/</guid>
       <description></description>
     </item>
     
@@ -792,6 +1009,22 @@
     </item>
     
     <item>
+      <title>SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages</title>
+      <link>https://rycolab.io/publication/pimentelal-sigmorphon-21/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-sigmorphon-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non-Linear Structural Probe</title>
+      <link>https://rycolab.io/publication/whiteal-naacl-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/whiteal-naacl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Non-Linear Structural Probe</title>
       <link>https://rycolab.io/publication/whiteal-naacl-21/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -820,6 +1053,14 @@
       <link>https://rycolab.io/publication/pimentelal-naacl-21-b/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-naacl-21-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGTYP 2021 Shared Task: Robust Spoken Language Identification</title>
+      <link>https://rycolab.io/publication/saleskyal-sigtyp-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/saleskyal-sigtyp-21/</guid>
       <description></description>
     </item>
     
@@ -1685,6 +1926,14 @@
     </item>
     
     <item>
+      <title>Generating Text from Language Models</title>
+      <link>https://rycolab.io/classes/acl-2023-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/classes/acl-2023-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Large Language Models, Spring 2023</title>
       <link>https://rycolab.io/classes/llm-s23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1713,6 +1962,14 @@
       <link>https://rycolab.io/classes/intro-nlp-f22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/classes/intro-nlp-f22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing, Fall 2023</title>
+      <link>https://rycolab.io/classes/intro-nlp-f23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/classes/intro-nlp-f23/</guid>
       <description></description>
     </item>
     
