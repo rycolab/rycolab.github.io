@@ -5,12 +5,44 @@
     <link>https://rycolab.io/publication_types/1/</link>
       <atom:link href="https://rycolab.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>1</title>
       <link>https://rycolab.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Language Model Quality Correlates with Psychometric Predictive Power in Multiple Languages</title>
+      <link>https://rycolab.io/publication/wilcoxal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wilcoxal-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear-Time Modeling of Linguistic Structure: An Order-Theoretic Perspective</title>
+      <link>https://rycolab.io/publication/liual-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/liual-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Optimality of Word Lengths</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-23-a/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Representational Capacity of Recurrent Neural Language Models</title>
+      <link>https://rycolab.io/publication/nowakal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/nowakal-emnlp-23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Fast Algorithm for Computing Prefix Probabilities</title>
@@ -29,7 +61,7 @@
     </item>
     
     <item>
-      <title>A Measure-theoretic Characterzation of Tight Language Model</title>
+      <title>A Measure-theoretic Characterization of Tight Language Model</title>
       <link>https://rycolab.io/publication/dual-acl-23-a/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/dual-acl-23-a/</guid>
@@ -37,7 +69,7 @@
     </item>
     
     <item>
-      <title>An Ordinal Latent Variable Model for Conflict Intensity</title>
+      <title>An Ordinal Latent Variable Model of Conflict Intensity</title>
       <link>https://rycolab.io/publication/stoehral-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/stoehral-acl-23/</guid>
@@ -54,25 +86,25 @@
     
     <item>
       <title>Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels</title>
-      <link>https://rycolab.io/publication/jiangal-ac-23/</link>
+      <link>https://rycolab.io/publication/jiangal-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/jiangal-ac-23/</guid>
+      <guid>https://rycolab.io/publication/jiangal-acl-23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Semiring-Weighted Earley Parsing</title>
-      <link>https://rycolab.io/publication/opedalacl-23/</link>
+      <link>https://rycolab.io/publication/opedalal-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/opedalacl-23/</guid>
+      <guid>https://rycolab.io/publication/opedalal-acl-23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalizing Backpropagation for Gradient-Based Interpretability</title>
-      <link>https://rycolab.io/publication/dual-acl-23/</link>
+      <link>https://rycolab.io/publication/dual-acl-23-b/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/dual-acl-23/</guid>
+      <guid>https://rycolab.io/publication/dual-acl-23-b/</guid>
       <description></description>
     </item>
     
@@ -149,7 +181,7 @@
     </item>
     
     <item>
-      <title>Controllable Text Generation with Natural Language Instructions</title>
+      <title>Controlled Text Generation with Natural Language Instructions</title>
       <link>https://rycolab.io/publication/zhoual-icml-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/zhoual-icml-23/</guid>

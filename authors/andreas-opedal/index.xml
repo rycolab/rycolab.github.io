@@ -5,7 +5,7 @@
     <link>https://rycolab.io/authors/andreas-opedal/</link>
       <atom:link href="https://rycolab.io/authors/andreas-opedal/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreas Opedal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Andreas Opedal</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>The Generalized Left-Corner Transformation</title>
+      <link>https://rycolab.io/publication/opedalal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/opedalal-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Semiring-Weighted Earley Parsing</title>
-      <link>https://rycolab.io/publication/opedalacl-23/</link>
+      <link>https://rycolab.io/publication/opedalal-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/opedalacl-23/</guid>
+      <guid>https://rycolab.io/publication/opedalal-acl-23/</guid>
       <description></description>
     </item>
     

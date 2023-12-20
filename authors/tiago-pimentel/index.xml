@@ -5,7 +5,7 @@
     <link>https://rycolab.io/authors/tiago-pimentel/</link>
       <atom:link href="https://rycolab.io/authors/tiago-pimentel/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiago Pimentel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Tiago Pimentel</title>
@@ -13,10 +13,66 @@
     </image>
     
     <item>
-      <title>A Measure-theoretic Characterzation of Tight Language Model</title>
+      <title>Language Model Quality Correlates with Psychometric Predictive Power in Multiple Languages</title>
+      <link>https://rycolab.io/publication/wilcoxal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wilcoxal-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Optimality of Word Lengths</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-23-a/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the redundancy between prosody and text</title>
+      <link>https://rycolab.io/publication/wolfal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wolfal-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Generalized Left-Corner Transformation</title>
+      <link>https://rycolab.io/publication/opedalal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/opedalal-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Measure-theoretic Characterization of Tight Language Model</title>
       <link>https://rycolab.io/publication/dual-acl-23-a/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/dual-acl-23-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Typical Sampling</title>
+      <link>https://rycolab.io/publication/meisteral-tacl-22/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalistic Causal Probing for Morpho-Syntax</title>
+      <link>https://rycolab.io/publication/aminial-tacl-22/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-tacl-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Effect of Anticipation on Reading Times</title>
+      <link>https://rycolab.io/publication/pimentelal-tacl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-tacl-23/</guid>
       <description></description>
     </item>
     
@@ -25,6 +81,14 @@
       <link>https://rycolab.io/publication/meisteral-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the Predictions of Surprisal Theory in 11 Languages</title>
+      <link>https://rycolab.io/publication/wilcoxal-tacl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wilcoxal-tacl-23/</guid>
       <description></description>
     </item>
     
@@ -49,6 +113,14 @@
       <link>https://rycolab.io/publication/clarkal-tacl-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/clarkal-tacl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models</title>
+      <link>https://rycolab.io/publication/stanczakal-plosone-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stanczakal-plosone-23/</guid>
       <description></description>
     </item>
     
@@ -81,22 +153,6 @@
       <link>https://rycolab.io/publication/pimentelal-arxiv-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-arxiv-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Locally Typical Sampling</title>
-      <link>https://rycolab.io/publication/meisteral-tacl-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/meisteral-tacl-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Naturalistic Causal Probing for Morpho-Syntax</title>
-      <link>https://rycolab.io/publication/aminial-tacl-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/aminial-tacl-22/</guid>
       <description></description>
     </item>
     
