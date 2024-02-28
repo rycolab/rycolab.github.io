@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>An Exploration of Left-Corner Transformations</title>
+      <link>https://rycolab.io/publication/opedalal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/opedalal-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Algorithms for Recognizing Weighted Tree-Adjoining Languages</title>
+      <link>https://rycolab.io/publication/butoial-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/butoial-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Findings of the BabyLM Challenge: Sample-Efficient Pretraining on Developmentally Plausible Corpora</title>
+      <link>https://rycolab.io/publication/warstadtal-babylm-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/warstadtal-babylm-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Language Model Quality Correlates with Psychometric Predictive Power in Multiple Languages</title>
       <link>https://rycolab.io/publication/wilcoxal-emnlp-23/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -53,6 +77,14 @@
     </item>
     
     <item>
+      <title>Revisiting the Optimality of Word Lengths</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-23/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Structured Voronoi Sampling</title>
       <link>https://rycolab.io/publication/aminial-neurips-23/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -61,10 +93,10 @@
     </item>
     
     <item>
-      <title>The Generalized Left-Corner Transformation</title>
-      <link>https://rycolab.io/publication/opedalal-emnlp-23/</link>
+      <title>The Ethics of Automating Legal Actors</title>
+      <link>https://rycolab.io/publication/valvodaal-tacl-22/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/opedalal-emnlp-23/</guid>
+      <guid>https://rycolab.io/publication/valvodaal-tacl-22/</guid>
       <description></description>
     </item>
     
@@ -379,14 +411,6 @@
       <link>https://rycolab.io/publication/zhoual-icml-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/zhoual-icml-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Role of Negative Precedent in Legal Outcome Prediction</title>
-      <link>https://rycolab.io/publication/valvodaal-tacl-22/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/valvodaal-tacl-22/</guid>
       <description></description>
     </item>
     
