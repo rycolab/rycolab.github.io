@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rycolab.io/authors/alexander-hoyle/</loc>
+    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/authors/</loc>
+    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/talk/</loc>
+    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/</loc>
+    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/talk/hoyle-mar-20-24/</loc>
+    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://rycolab.io/publication_types/0/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,9 +49,6 @@
   </url><url>
     <loc>https://rycolab.io/authors/anej-svete/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/authors/</loc>
-    <lastmod>2023-12-20T23:53:25+01:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/authors/bhargavi-paranjabe/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
@@ -122,9 +134,6 @@
     <loc>https://rycolab.io/authors/ryan-cotterell/</loc>
     <lastmod>2023-12-20T23:53:25+01:00</lastmod>
   </url><url>
-    <loc>https://rycolab.io/</loc>
-    <lastmod>2023-12-20T23:53:25+01:00</lastmod>
-  </url><url>
     <loc>https://rycolab.io/authors/simone-teufel/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -150,9 +159,6 @@
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/authors/jaap-jumelet/</loc>
-    <lastmod>2023-11-22T11:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/talk/</loc>
     <lastmod>2023-11-22T11:00:00+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/talk/jumelet-nov-22-23/</loc>
@@ -1446,9 +1452,6 @@
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/publication/malaviyanaal-acl-19/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rycolab.io/authors/alexander-hoyle/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/publication/hoyleal-naacl-19/</loc>
