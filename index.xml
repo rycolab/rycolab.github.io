@@ -5,12 +5,25 @@
     <link>https://rycolab.io/</link>
       <atom:link href="https://rycolab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rycolab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 15:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Apr 2024 10:30:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Rycolab</title>
       <link>https://rycolab.io/</link>
     </image>
+    
+    <item>
+      <title>Entity Tracking in Language Models</title>
+      <link>https://rycolab.io/talk/schuster-apr-22-24/</link>
+      <pubDate>Mon, 22 Apr 2024 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/schuster-apr-22-24/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Sebastian Schuster is a lecturer in computational linguistics at University College London. His main research interest is in computational semantics and pragmatics, particularly developing formal and psycholinguistic accounts of pragmatic language use and more reliable natural language understanding systems.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Social Science as a Problem Space for NLP</title>

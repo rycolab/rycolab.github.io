@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rycolab.io/authors/alexander-hoyle/</loc>
-    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://rycolab.io/authors/</loc>
-    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
+    <lastmod>2024-04-22T10:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/talk/schuster-apr-22-24/</loc>
+    <lastmod>2024-04-22T10:30:00+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/talk/</loc>
-    <lastmod>2024-03-21T15:00:00+02:00</lastmod>
+    <lastmod>2024-04-22T10:30:00+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/</loc>
+    <lastmod>2024-04-22T10:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/authors/sebastian-schuster/</loc>
+    <lastmod>2024-04-22T10:30:00+02:00</lastmod>
+  </url><url>
+    <loc>https://rycolab.io/authors/alexander-hoyle/</loc>
     <lastmod>2024-03-21T15:00:00+02:00</lastmod>
   </url><url>
     <loc>https://rycolab.io/talk/hoyle-mar-20-24/</loc>

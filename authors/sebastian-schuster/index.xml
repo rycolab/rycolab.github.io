@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Schuster | Rycolab</title>
+    <link>https://rycolab.io/authors/sebastian-schuster/</link>
+      <atom:link href="https://rycolab.io/authors/sebastian-schuster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Schuster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Apr 2024 10:30:00 +0200</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
+      <title>Sebastian Schuster</title>
+      <link>https://rycolab.io/authors/sebastian-schuster/</link>
+    </image>
+    
+    <item>
+      <title>Entity Tracking in Language Models</title>
+      <link>https://rycolab.io/talk/schuster-apr-22-24/</link>
+      <pubDate>Mon, 22 Apr 2024 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/schuster-apr-22-24/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Sebastian Schuster is a lecturer in computational linguistics at University College London. His main research interest is in computational semantics and pragmatics, particularly developing formal and psycholinguistic accounts of pragmatic language use and more reliable natural language understanding systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
