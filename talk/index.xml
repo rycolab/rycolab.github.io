@@ -5,12 +5,25 @@
     <link>https://rycolab.io/talk/</link>
       <atom:link href="https://rycolab.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Apr 2024 10:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 May 2024 10:30:00 +0200</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu5446c388f937c2fb02cc384744e2d784_428800_300x300_fit_lanczos_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://rycolab.io/talk/</link>
     </image>
+    
+    <item>
+      <title>From Cognitive Modeling to Typological Universals: Investigations with (Large) Language Models</title>
+      <link>https://rycolab.io/talk/kuribayashi-may-28-24/</link>
+      <pubDate>Tue, 28 May 2024 10:30:00 +0200</pubDate>
+      <guid>https://rycolab.io/talk/kuribayashi-may-28-24/</guid>
+      <description>
+
+&lt;h3 id=&#34;bio&#34;&gt;Bio&lt;/h3&gt;
+
+&lt;p&gt;Tatsuki Kuribayashi obtained a Ph.D. in information science at Tohoku University, Japan (adviser: Prof. Kentaro Inui) and started a Postdoc at MBZUAI, UAE, in 2023 (adviser: Prof. Timothy Baldwin). His research focuses on the intersection between natural language processing (NLP) and the cognitive science of language, along with the contribution to works on the interpretability of NLP models, automatic writing assistance, and neuro-symbolic reasoning of NLP models. He is an organizer of the Cognitive Modeling and Computational Linguistics Workshop (CMCL 2024). His co-authored works are recognized with Best Paper Awards in AACL-SRW 2022, ACL-SRW 2023, and a spotlight paper in ICLR 2024.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Entity Tracking in Language Models</title>
