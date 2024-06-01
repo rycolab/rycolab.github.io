@@ -14,6 +14,14 @@
     
     <item>
       <title>Efficient Semiring-Weighted Earley Parsing</title>
+      <link>https://rycolab.io/publication/opedalacl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/opedalacl-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Semiring-Weighted Earley Parsing</title>
       <link>https://rycolab.io/publication/opedalal-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/opedalal-acl-23/</guid>
@@ -39,9 +47,33 @@
     
     <item>
       <title>Efficient Sampling of Dependency Structure</title>
+      <link>https://rycolab.io/publication/zmigrodal-emnlp-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-emnlp-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Sampling of Dependency Structure</title>
       <link>https://rycolab.io/publication/zmigrodal-emnlp-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/zmigrodal-emnlp-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-order Derivatives of Weighted Finite-state Machines</title>
+      <link>https://rycolab.io/publication/zmigrodal-acl-2021-b/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-acl-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Finding the $K$-best Non-projective Dependency Trees</title>
+      <link>https://rycolab.io/publication/zmigrodal-acl-2021-a/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-acl-2021-a/</guid>
       <description></description>
     </item>
     
@@ -82,6 +114,14 @@
       <link>https://rycolab.io/publication/vylomovaal-sigm-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/vylomovaal-sigm-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Computation of Expectations under Spanning Tree Distributions</title>
+      <link>https://rycolab.io/publication/zmigrodal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-tacl-20/</guid>
       <description></description>
     </item>
     

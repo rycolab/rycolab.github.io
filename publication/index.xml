@@ -166,11 +166,27 @@
     
     <item>
       <title>Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels</title>
+      <link>https://rycolab.io/publication/jiangal-ac-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/jiangal-ac-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels</title>
       <link>https://rycolab.io/publication/jiangal-acl-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/jiangal-acl-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Efficient Semiring-Weighted Earley Parsing</title>
+      <link>https://rycolab.io/publication/opedalacl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/opedalacl-23/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -189,6 +205,14 @@
       <guid>https://rycolab.io/publication/dual-acl-23-b/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Generalizing Backpropagation for Gradient-Based Interpretability</title>
+      <link>https://rycolab.io/publication/dual-acl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/dual-acl-23/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -576,18 +600,18 @@
     </item>
     
     <item>
-      <title>A Word on Machine Ethics: A Response to Jiang et al. (2021)</title>
-      <link>https://rycolab.io/publication/talatal-local-21/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/talatal-local-21/</guid>
+      <title>A Bayesian Framework for Information-Theoretic Probing</title>
+      <link>https://rycolab.io/publication/pimentelcotterell-emnlp-21/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelcotterell-emnlp-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bayesian Framework for Information-Theoretic Probing</title>
-      <link>https://rycolab.io/publication/pimentelcotterell-emnlp-21/</link>
+      <link>https://rycolab.io/publication/tiagocotterell-emnlp-2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/pimentelcotterell-emnlp-21/</guid>
+      <guid>https://rycolab.io/publication/tiagocotterell-emnlp-2021/</guid>
       <description></description>
     </item>
     
@@ -608,6 +632,14 @@
     </item>
     
     <item>
+      <title>Adjusting the Conflict-Cooperation Scale for Armed Conflict Assessment</title>
+      <link>https://rycolab.io/publication/stoehral-emnlp-2021-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-emnlp-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classifying Dyads for Militarized Conflict Analysis</title>
       <link>https://rycolab.io/publication/stoehral-emnlp-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -624,6 +656,22 @@
     </item>
     
     <item>
+      <title>Conditional Poisson Stochastic Beams</title>
+      <link>https://rycolab.io/publication/meisteral-emnlp-2021-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-emnlp-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Sampling of Dependency Structure</title>
+      <link>https://rycolab.io/publication/zmigrodal-emnlp-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-emnlp-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Sampling of Dependency Structure</title>
       <link>https://rycolab.io/publication/zmigrodal-emnlp-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
@@ -632,10 +680,50 @@
     </item>
     
     <item>
+      <title>Equivariant Transduction through Invariant Alignment</title>
+      <link>https://rycolab.io/publication/whitecotterell-emnlp-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/whitecotterell-emnlp-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword2Text: A Plug-and-Play Method for Controlled Text Generation</title>
+      <link>https://rycolab.io/publication/pascualal-emnlp-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pascualal-emnlp-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Homophony and Rényi Entropy</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-2021-b/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On Homophony and Rényi Entropy</title>
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-b/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phone-level Uniform Information Density across and within Languages</title>
+      <link>https://rycolab.io/publication/pimentelal-emnlp-2021-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-emnlp-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Uniform Information Density Hypothesis</title>
+      <link>https://rycolab.io/publication/meisteral-emnlp-2021-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-emnlp-2021-a/</guid>
       <description></description>
     </item>
     
@@ -649,9 +737,33 @@
     
     <item>
       <title>Searching for More Efficient Dynamic Programs</title>
+      <link>https://rycolab.io/publication/vieiraal-emnlp-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/vieiraal-emnlp-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for More Efficient Dynamic Programs</title>
       <link>https://rycolab.io/publication/vieiraal-emnlp-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/vieiraal-emnlp-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text or Topology? Classifying Ally-Enemy Pairs in Militarised Conflict</title>
+      <link>https://rycolab.io/publication/stoehral-emnlp-2021-a/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-emnlp-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cognitive regularizer for language modeling</title>
+      <link>https://rycolab.io/publication/weial-acl-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/weial-acl-2021/</guid>
       <description></description>
     </item>
     
@@ -665,9 +777,25 @@
     
     <item>
       <title>Determinantal Beam Search</title>
+      <link>https://rycolab.io/publication/meisteral-acl-2021-a/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinantal Beam Search</title>
       <link>https://rycolab.io/publication/meisteral-acl-21-a/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the Inductive Bias of Neural Language Models with Artificial Languages</title>
+      <link>https://rycolab.io/publication/whitecotterell-acl-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/whitecotterell-acl-2021/</guid>
       <description></description>
     </item>
     
@@ -681,6 +809,14 @@
     
     <item>
       <title>Higher-order Derivatives of Weighted Finite-state Machines</title>
+      <link>https://rycolab.io/publication/zmigrodal-acl-2021-b/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-acl-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher-order Derivatives of Weighted Finite-state Machines</title>
       <link>https://rycolab.io/publication/zmigrodal-acl-21-b/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/zmigrodal-acl-21-b/</guid>
@@ -689,9 +825,25 @@
     
     <item>
       <title>Is Sparse Attention more Interpretable?</title>
+      <link>https://rycolab.io/publication/meisteral-acl-2021-b/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Sparse Attention more Interpretable?</title>
       <link>https://rycolab.io/publication/meisteral-acl-21-b/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-21-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Model Evaluation Beyond Perplexity</title>
+      <link>https://rycolab.io/publication/meisteral-acl-2021-c/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-acl-2021-c/</guid>
       <description></description>
     </item>
     
@@ -708,6 +860,22 @@
       <link>https://rycolab.io/publication/nikkarinenal-acl-findings-21/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/nikkarinenal-acl-findings-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the Unigram Distribution</title>
+      <link>https://rycolab.io/publication/nikkarinenal-acl-findings-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/nikkarinenal-acl-findings-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Finding the $K$-best Non-projective Dependency Trees</title>
+      <link>https://rycolab.io/publication/zmigrodal-acl-2021-a/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-acl-2021-a/</guid>
       <description></description>
     </item>
     
@@ -745,6 +913,14 @@
     
     <item>
       <title>Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing</title>
+      <link>https://rycolab.io/publication/hall-mauslayal-naacl-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/hall-mauslayal-naacl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing</title>
       <link>https://rycolab.io/publication/hall-mauslayal-naacl-21/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/hall-mauslayal-naacl-21/</guid>
@@ -753,9 +929,25 @@
     
     <item>
       <title>Finding Concept-specific Biases in Form--Meaning Associations</title>
+      <link>https://rycolab.io/publication/pimentelal-naacl-2021-a/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-naacl-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Concept-specific Biases in Form--Meaning Associations</title>
       <link>https://rycolab.io/publication/pimentelal-naacl-21-a/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-naacl-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How (Non-)Optimal is the Lexicon?</title>
+      <link>https://rycolab.io/publication/pimentelal-naacl-2021-b/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-naacl-2021-b/</guid>
       <description></description>
     </item>
     
@@ -777,9 +969,25 @@
     
     <item>
       <title>What About the Precedent: An Information-Theoretic Analysis of Common Law</title>
+      <link>https://rycolab.io/publication/valvodaal-naacl-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-naacl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What About the Precedent: An Information-Theoretic Analysis of Common Law</title>
       <link>https://rycolab.io/publication/valvodaal-naacl-21/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/valvodaal-naacl-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying the Transformer to Character-level Transduction</title>
+      <link>https://rycolab.io/publication/wual-eacl-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wual-eacl-2021/</guid>
       <description></description>
     </item>
     
@@ -801,9 +1009,25 @@
     
     <item>
       <title>Searching for Search Errors in Neural Morphological Inflection</title>
+      <link>https://rycolab.io/publication/forsteral-eacl-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/forsteral-eacl-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for Search Errors in Neural Morphological Inflection</title>
       <link>https://rycolab.io/publication/forsteral-eacl-21/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/forsteral-eacl-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Word on Machine Ethics: A Response to Jiang et al. (2021)</title>
+      <link>https://rycolab.io/publication/talatal-local-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/talatal-local-21/</guid>
       <description></description>
     </item>
     
@@ -857,9 +1081,25 @@
     
     <item>
       <title>Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation</title>
+      <link>https://rycolab.io/publication/palomocotterell-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/palomocotterell-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation</title>
       <link>https://rycolab.io/publication/vargascotterell-emnlp-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/vargascotterell-emnlp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Concept-specific Biases in Form–Meaning Associations</title>
+      <link>https://rycolab.io/publication/pimentel-3-al-emnlp-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentel-3-al-emnlp-20/</guid>
       <description></description>
     </item>
     
@@ -1012,6 +1252,30 @@
       <link>https://rycolab.io/publication/meisteral-tacl-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Computation of Expectations under Spanning Tree Distributions</title>
+      <link>https://rycolab.io/publication/zmigrodal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/zmigrodal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs</title>
+      <link>https://rycolab.io/publication/williamsal-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/williamsal-tacl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages</title>
+      <link>https://rycolab.io/publication/pontial-tacl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pontial-tacl-20/</guid>
       <description></description>
     </item>
     
@@ -1208,6 +1472,14 @@
     </item>
     
     <item>
+      <title>Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince (1988) and the Past Tense Debate</title>
+      <link>https://rycolab.io/publication/kirovcotterell-tacl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/kirovcotterell-tacl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Discriminative Latent-Variable Model for Bilingual Lexicon Induction</title>
       <link>https://rycolab.io/publication/ruderal-emnlp-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -1348,6 +1620,14 @@
       <link>https://rycolab.io/publication/cotterellal-conll-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellal-conll-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frame-Based Continuous Lexical Semantics through Exponential Family Tensor Factorization and Semantic Proto-Roles</title>
+      <link>https://rycolab.io/publication/ferraroal-starsem-1/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ferraroal-starsem-1/</guid>
       <description></description>
     </item>
     
