@@ -5,12 +5,120 @@
     <link>https://rycolab.io/publication_types/1/</link>
       <atom:link href="https://rycolab.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu2e07887639a77a9d1eb9a9cceba298d2_117190_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://rycolab.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>On Efficiently Representing Regular Languages as RNNs</title>
+      <link>https://rycolab.io/publication/sveteal-acl-24/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/sveteal-acl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?</title>
+      <link>https://rycolab.io/publication/opedalal-icml-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/opedalal-icml-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transformers Can Represent n-gram Language Models</title>
+      <link>https://rycolab.io/publication/sveteal-naacl-24-b/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/sveteal-naacl-24-b/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin</title>
+      <link>https://rycolab.io/publication/bothwellal-lrec-24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/bothwellal-lrec-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stack Attention: Improving the Ability of Transformers to Model Hierarchical Patterns</title>
+      <link>https://rycolab.io/publication/dusellal-iclr-24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/dusellal-iclr-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Transformer with Stack Attention</title>
+      <link>https://rycolab.io/publication/lial-naacl-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lial-naacl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context versus Prior Knowledge in Language Models</title>
+      <link>https://rycolab.io/publication/dual-acl-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/dual-acl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lower Bounds on the Expressivity of Recurrent Neural Language Models</title>
+      <link>https://rycolab.io/publication/sveteal-naacl-24-a/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/sveteal-naacl-24-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning</title>
+      <link>https://rycolab.io/publication/nowakal-acl-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/nowakal-acl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Explainability in Legal Outcome Prediction Models</title>
+      <link>https://rycolab.io/publication/valvodaal-naacl-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/valvodaal-naacl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Do Language Models Learn in Context? The Structured Task Hypothesis.</title>
+      <link>https://rycolab.io/publication/lial-acl-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lial-acl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages</title>
+      <link>https://rycolab.io/publication/borensteinal-acl-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/borensteinal-acl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An Exploration of Left-Corner Transformations</title>

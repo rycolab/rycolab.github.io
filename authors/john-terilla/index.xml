@@ -5,12 +5,21 @@
     <link>https://rycolab.io/authors/john-terilla/</link>
       <atom:link href="https://rycolab.io/authors/john-terilla/index.xml" rel="self" type="application/rss+xml" />
     <description>John Terilla</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Nov 2023 10:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hu2e07887639a77a9d1eb9a9cceba298d2_117190_300x300_fit_lanczos_2.png</url>
       <title>John Terilla</title>
       <link>https://rycolab.io/authors/john-terilla/</link>
     </image>
+    
+    <item>
+      <title>The Foundations of Tokenization: Statistical and Computational Concerns</title>
+      <link>https://rycolab.io/publication/gastaldial-neurips-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/gastaldial-neurips-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Modeling Sequences with Quantum States</title>
