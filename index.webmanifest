@@ -2,14 +2,14 @@
   "name": "Rycolab",
   "short_name": "Rycolab",
   "lang": "en-us",
-  "theme_color": "#6c9179",
-  "background_color": "#6c9179",
+  "theme_color": "#3F6E70",
+  "background_color": "#3F6E70",
   "icons": [{
-    "src": "/images/icon_huf1b67ab62abc3d70d41f54578083c486_51070_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu059ca9cd59813e9477526ff1573012fa_657647_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_huf1b67ab62abc3d70d41f54578083c486_51070_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu059ca9cd59813e9477526ff1573012fa_657647_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
