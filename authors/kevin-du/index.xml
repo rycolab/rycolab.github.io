@@ -5,12 +5,20 @@
     <link>https://rycolab.io/authors/kevin-du/</link>
       <atom:link href="https://rycolab.io/authors/kevin-du/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Du</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Kevin Du</title>
       <link>https://rycolab.io/authors/kevin-du/</link>
     </image>
+    
+    <item>
+      <title>Controllable Context Sensitivity and the Knob Behind It</title>
+      <link>https://rycolab.io/publication/minderal-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/minderal-iclr-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Context versus Prior Knowledge in Language Models</title>

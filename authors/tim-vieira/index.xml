@@ -5,12 +5,52 @@
     <link>https://rycolab.io/authors/tim-vieira/</link>
       <atom:link href="https://rycolab.io/authors/tim-vieira/index.xml" rel="self" type="application/rss+xml" />
     <description>Tim Vieira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Tim Vieira</title>
       <link>https://rycolab.io/authors/tim-vieira/</link>
     </image>
+    
+    <item>
+      <title>Language Models over Canonical Byte-Pair Encodings</title>
+      <link>https://rycolab.io/publication/vieiraal-icml-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/vieiraal-icml-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo</title>
+      <link>https://rycolab.io/publication/loulaal-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/loulaal-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic Control of Language Models by Posterior Inference</title>
+      <link>https://rycolab.io/publication/xefterial-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/xefterial-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Foundations of Tokenization: Statistical and Computational Concerns</title>
+      <link>https://rycolab.io/publication/gastaldial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/gastaldial-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Best-of-$N$ Alignment</title>
+      <link>https://rycolab.io/publication/aminial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-iclr-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Foundations of Tokenization: Statistical and Computational Concerns</title>

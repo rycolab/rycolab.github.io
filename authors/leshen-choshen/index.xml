@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leshen Choshen | Rycolab</title>
+    <link>https://rycolab.io/authors/leshen-choshen/</link>
+      <atom:link href="https://rycolab.io/authors/leshen-choshen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leshen Choshen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
+      <title>Leshen Choshen</title>
+      <link>https://rycolab.io/authors/leshen-choshen/</link>
+    </image>
+    
+    <item>
+      <title>Bigger is not always better: The importance of human-scale language modeling for psycholinguistics</title>
+      <link>https://rycolab.io/publication/wilcoxal-jml-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wilcoxal-jml-25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

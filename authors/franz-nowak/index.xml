@@ -5,12 +5,20 @@
     <link>https://rycolab.io/authors/franz-nowak/</link>
       <atom:link href="https://rycolab.io/authors/franz-nowak/index.xml" rel="self" type="application/rss+xml" />
     <description>Franz Nowak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Franz Nowak</title>
       <link>https://rycolab.io/authors/franz-nowak/</link>
     </image>
+    
+    <item>
+      <title>The Harmonic Structure of Information Contours</title>
+      <link>https://rycolab.io/publication/tspidial-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/tspidial-acl-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lower Bounds on the Expressivity of Recurrent Neural Language Models</title>
@@ -35,15 +43,6 @@
       <link>https://rycolab.io/publication/borensteinal-acl-24/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/borensteinal-acl-24/</guid>
-      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the Representational Capacity of Recurrent Neural Language Models</title>
-      <link>https://rycolab.io/publication/nowakal-emnlp-23/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/publication/nowakal-emnlp-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

@@ -5,12 +5,20 @@
     <link>https://rycolab.io/authors/luca-malagutti/</link>
       <atom:link href="https://rycolab.io/authors/luca-malagutti/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Malagutti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Luca Malagutti</title>
       <link>https://rycolab.io/authors/luca-malagutti/</link>
     </image>
+    
+    <item>
+      <title>The Foundations of Tokenization: Statistical and Computational Concerns</title>
+      <link>https://rycolab.io/publication/gastaldial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/gastaldial-iclr-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Foundations of Tokenization: Statistical and Computational Concerns</title>

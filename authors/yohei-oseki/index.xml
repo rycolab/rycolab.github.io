@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yohei Oseki | Rycolab</title>
+    <link>https://rycolab.io/authors/yohei-oseki/</link>
+      <atom:link href="https://rycolab.io/authors/yohei-oseki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yohei Oseki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
+      <title>Yohei Oseki</title>
+      <link>https://rycolab.io/authors/yohei-oseki/</link>
+    </image>
+    
+    <item>
+      <title>Can Language Models Learn Typologically Implausible Languages?</title>
+      <link>https://rycolab.io/publication/xual-tacl-24/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/xual-tacl-24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

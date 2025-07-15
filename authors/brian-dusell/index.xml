@@ -5,12 +5,44 @@
     <link>https://rycolab.io/authors/brian-dusell/</link>
       <atom:link href="https://rycolab.io/authors/brian-dusell/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian DuSell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Brian DuSell</title>
       <link>https://rycolab.io/authors/brian-dusell/</link>
     </image>
+    
+    <item>
+      <title>Information Locality as an Inductive Bias for Neural Language Models</title>
+      <link>https://rycolab.io/publication/someyaal-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/someyaal-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Models over Canonical Byte-Pair Encodings</title>
+      <link>https://rycolab.io/publication/vieiraal-icml-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/vieiraal-icml-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Foundations of Tokenization: Statistical and Computational Concerns</title>
+      <link>https://rycolab.io/publication/gastaldial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/gastaldial-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Neural Networks as Recognizers of Formal Languages</title>
+      <link>https://rycolab.io/publication/butoial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/butoial-iclr-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PILA: A Historical-Linguistic Dataset of Proto-Italic and Latin</title>

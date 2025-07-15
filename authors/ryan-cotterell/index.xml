@@ -5,12 +5,180 @@
     <link>https://rycolab.io/authors/ryan-cotterell/</link>
       <atom:link href="https://rycolab.io/authors/ryan-cotterell/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan Cotterell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Ryan Cotterell</title>
       <link>https://rycolab.io/authors/ryan-cotterell/</link>
     </image>
+    
+    <item>
+      <title>A Close Analysis of the Subset Construction</title>
+      <link>https://rycolab.io/publication/baburinal-dcfs/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/baburinal-dcfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Critical Period Effects in Language Acquisition through Neural Language Models</title>
+      <link>https://rycolab.io/publication/constantinescual-tacl-25/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/constantinescual-tacl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributional Perspective on Word Learning in Neural Language Models</title>
+      <link>https://rycolab.io/publication/ficarraal-naacl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ficarraal-naacl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Practical Method for Generating String Counterfactuals</title>
+      <link>https://rycolab.io/publication/avitanal-naacl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/avitanal-naacl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Spatio-Temporal Point Process for Fine-Grained Modeling of Reading Behavior</title>
+      <link>https://rycolab.io/publication/real-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/real-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bigger is not always better: The importance of human-scale language modeling for psycholinguistics</title>
+      <link>https://rycolab.io/publication/wilcoxal-jml-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wilcoxal-jml-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Language Models Learn Typologically Implausible Languages?</title>
+      <link>https://rycolab.io/publication/xual-tacl-24/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/xual-tacl-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controllable Context Sensitivity and the Knob Behind It</title>
+      <link>https://rycolab.io/publication/minderal-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/minderal-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gumbel Counterfactual Generation from Language Models</title>
+      <link>https://rycolab.io/publication/ravfogelal-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ravfogelal-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Alternative Sampling as a Lens into the Temporal and Representational Resolution of Linguistic Prediction</title>
+      <link>https://rycolab.io/publication/giulianellial-jml-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/giulianellial-jml-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Locality as an Inductive Bias for Neural Language Models</title>
+      <link>https://rycolab.io/publication/someyaal-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/someyaal-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Models over Canonical Byte-Pair Encodings</title>
+      <link>https://rycolab.io/publication/vieiraal-icml-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/vieiraal-icml-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the challenges and opportunities in generative AI</title>
+      <link>https://rycolab.io/publication/manduchial-arxiv-24/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/manduchial-arxiv-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointwise Mutual Information as a Performance Gauge for Retrieval-Augmented Generation</title>
+      <link>https://rycolab.io/publication/liual-naacl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/liual-naacl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo</title>
+      <link>https://rycolab.io/publication/loulaal-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/loulaal-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic Control of Language Models by Posterior Inference</title>
+      <link>https://rycolab.io/publication/xefterial-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/xefterial-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Foundations of Tokenization: Statistical and Computational Concerns</title>
+      <link>https://rycolab.io/publication/gastaldial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/gastaldial-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Harmonic Structure of Information Contours</title>
+      <link>https://rycolab.io/publication/tspidial-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/tspidial-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Neural Networks as Recognizers of Formal Languages</title>
+      <link>https://rycolab.io/publication/butoial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/butoial-iclr-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unique Hard Attention: A Tale of Two Sides</title>
+      <link>https://rycolab.io/publication/jeradal-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/jeradal-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Best-of-$N$ Alignment</title>
+      <link>https://rycolab.io/publication/aminial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-iclr-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Efficiently Representing Regular Languages as RNNs</title>

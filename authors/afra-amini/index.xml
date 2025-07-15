@@ -5,12 +5,28 @@
     <link>https://rycolab.io/authors/afra-amini/</link>
       <atom:link href="https://rycolab.io/authors/afra-amini/index.xml" rel="self" type="application/rss+xml" />
     <description>Afra Amini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Afra Amini</title>
       <link>https://rycolab.io/authors/afra-amini/</link>
     </image>
+    
+    <item>
+      <title>Syntactic Control of Language Models by Posterior Inference</title>
+      <link>https://rycolab.io/publication/xefterial-acl-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/xefterial-acl-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Best-of-$N$ Alignment</title>
+      <link>https://rycolab.io/publication/aminial-iclr-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-iclr-25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linear-Time Modeling of Linguistic Structure: An Order-Theoretic Perspective</title>
