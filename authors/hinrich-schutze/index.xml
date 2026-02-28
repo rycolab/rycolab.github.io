@@ -17,7 +17,8 @@
       <link>https://rycolab.io/publication/cotterellschuetze-tacl-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellschuetze-tacl-18/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +26,8 @@
       <link>https://rycolab.io/publication/kannal-acl-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/kannal-acl-17/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +35,8 @@
       <link>https://rycolab.io/publication/kannal-eacl-17/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/kannal-eacl-17/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +44,8 @@
       <link>https://rycolab.io/publication/cotterellal-emnlp-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellal-emnlp-16/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +53,8 @@
       <link>https://rycolab.io/publication/kannal-emnlp-16/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/kannal-emnlp-16/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +62,8 @@
       <link>https://rycolab.io/publication/cotterellal-acl-16/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellal-acl-16/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -65,7 +71,8 @@
       <link>https://rycolab.io/publication/cotterellal-naacl-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellal-naacl-16/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -77,11 +84,21 @@
     </item>
     
     <item>
+      <title>Joint Lemmatization and Morphological Tagging with Lemming</title>
+      <link>https://rycolab.io/publication/muelleral-emnlp-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/muelleral-emnlp-15/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Labeled Morphological Segmentation with Semi-Markov Models</title>
       <link>https://rycolab.io/publication/cotterellal-conll-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellal-conll-15/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -89,7 +106,8 @@
       <link>https://rycolab.io/publication/cotterellschuetze-naacl-15/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/cotterellschuetze-naacl-15/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
