@@ -5,12 +5,30 @@
     <link>https://rycolab.io/authors/isabelle-augenstein/</link>
       <atom:link href="https://rycolab.io/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     <description>Isabelle Augenstein</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Isabelle Augenstein</title>
       <link>https://rycolab.io/authors/isabelle-augenstein/</link>
     </image>
+    
+    <item>
+      <title>Can Transformer Language Models Learn $n$-gram Language Models?</title>
+      <link>https://rycolab.io/publication/sveteal-emnlp-24/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/sveteal-emnlp-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grammatical Gender&#39;s Influence on Distributional Semantics: A Causal Perspective</title>
+      <link>https://rycolab.io/publication/stanczakal-tacl-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stanczakal-tacl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages</title>
@@ -44,7 +62,8 @@
       <link>https://rycolab.io/publication/stanczakal-naacl-22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/stanczakal-naacl-22/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -60,7 +79,8 @@
       <link>https://rycolab.io/publication/meisteral-acl-21-b/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-21-b/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>

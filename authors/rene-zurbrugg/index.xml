@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>René Zurbrügg | Rycolab</title>
+    <link>https://rycolab.io/authors/rene-zurbrugg/</link>
+      <atom:link href="https://rycolab.io/authors/rene-zurbrugg/index.xml" rel="self" type="application/rss+xml" />
+    <description>René Zurbrügg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
+      <title>René Zurbrügg</title>
+      <link>https://rycolab.io/authors/rene-zurbrugg/</link>
+    </image>
+    
+    <item>
+      <title>NARRATE: Versatile Language Architecture for Optimal Control in Robotics</title>
+      <link>https://rycolab.io/publication/ismailal-iros-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/ismailal-iros-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,39 @@
     <link>https://rycolab.io/authors/clara-meister/</link>
       <atom:link href="https://rycolab.io/authors/clara-meister/index.xml" rel="self" type="application/rss+xml" />
     <description>Clara Meister</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Clara Meister</title>
       <link>https://rycolab.io/authors/clara-meister/</link>
     </image>
+    
+    <item>
+      <title>An information-theoretic analysis of targeted regressions during reading</title>
+      <link>https://rycolab.io/publication/wilcoxal-cognition-24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/wilcoxal-cognition-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large-scale evidence for logarithmic effects of word predictability on reading time</title>
+      <link>https://rycolab.io/publication/shainal-pnas-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/shainal-pnas-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Role of $n$-gram Smoothing in the Age of Neural Networks</title>
+      <link>https://rycolab.io/publication/malaguttial-naacl-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/malaguttial-naacl-2024/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Language Model Quality Correlates with Psychometric Predictive Power in Multiple Languages</title>
@@ -66,10 +93,28 @@
     </item>
     
     <item>
+      <title>Locally Typical Sampling</title>
+      <link>https://rycolab.io/publication/meisteral-tacl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/meisteral-tacl-23/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Naturalistic Causal Probing for Morpho-Syntax</title>
       <link>https://rycolab.io/publication/aminial-tacl-22/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/aminial-tacl-22/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Naturalistic Causal Probing for Morpho-Syntax</title>
+      <link>https://rycolab.io/publication/aminial-tacl-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/aminial-tacl-23/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -129,11 +174,21 @@
     </item>
     
     <item>
+      <title>On the Effect of Anticipation on Reading Times</title>
+      <link>https://rycolab.io/publication/pimentelal-tacl-24/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pimentelal-tacl-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mutual Information and Hallucinations in Abstractive Summarization</title>
       <link>https://rycolab.io/publication/vanderpoelal-emnlp-22/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/vanderpoelal-emnlp-22/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -141,7 +196,8 @@
       <link>https://rycolab.io/publication/meisteral-acl-22-b/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-22-b/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -149,7 +205,8 @@
       <link>https://rycolab.io/publication/aroraal-acl-22/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/aroraal-acl-22/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -165,7 +222,17 @@
       <link>https://rycolab.io/publication/wiheral-tacl-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/wiheral-tacl-22/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>State-of-the-art generalisation research in NLP: a taxonomy and review</title>
+      <link>https://rycolab.io/publication/hupkesal-nature-23/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/hupkesal-nature-23/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -181,7 +248,8 @@
       <link>https://rycolab.io/publication/pascualal-emnlp-21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pascualal-emnlp-21/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -197,7 +265,8 @@
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-a/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -213,7 +282,8 @@
       <link>https://rycolab.io/publication/meisteral-emnlp-21-b/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-emnlp-21-b/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -253,7 +323,8 @@
       <link>https://rycolab.io/publication/pimentelal-emnlp-21-b/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/pimentelal-emnlp-21-b/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -285,7 +356,8 @@
       <link>https://rycolab.io/publication/meisteral-emnlp-21-a/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-emnlp-21-a/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -301,7 +373,8 @@
       <link>https://rycolab.io/publication/weial-acl-21/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/weial-acl-21/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -317,7 +390,8 @@
       <link>https://rycolab.io/publication/meisteral-acl-21-a/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-21-a/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -333,7 +407,8 @@
       <link>https://rycolab.io/publication/meisteral-acl-21-b/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-21-b/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -349,7 +424,8 @@
       <link>https://rycolab.io/publication/meisteral-acl-21-c/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/meisteral-acl-21-c/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -365,7 +441,8 @@
       <link>https://rycolab.io/publication/forsteral-eacl-21/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/forsteral-eacl-21/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>

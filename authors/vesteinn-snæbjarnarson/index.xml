@@ -5,7 +5,7 @@
     <link>https://rycolab.io/authors/vesteinn-sn%C3%A6bjarnarson/</link>
       <atom:link href="https://rycolab.io/authors/vesteinn-sn%C3%A6bjarnarson/index.xml" rel="self" type="application/rss+xml" />
     <description>Vésteinn Snæbjarnarson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Vésteinn Snæbjarnarson</title>
@@ -13,11 +13,30 @@
     </image>
     
     <item>
+      <title>Taxonomy-Aware Evaluation of Vision--Language Models</title>
+      <link>https://rycolab.io/publication/snaebjarnarsonal-cvpr-25/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/snaebjarnarsonal-cvpr-25/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gumbel Counterfactual Generation from Language Models</title>
       <link>https://rycolab.io/publication/ravfogelal-iclr-25/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/ravfogelal-iclr-25/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Activation Scaling for Steering and Interpreting Language Models</title>
+      <link>https://rycolab.io/publication/stoehral-emnlp-findings-24/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/stoehral-emnlp-findings-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>

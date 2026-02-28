@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanxia Qin | Rycolab</title>
+    <link>https://rycolab.io/authors/yanxia-qin/</link>
+      <atom:link href="https://rycolab.io/authors/yanxia-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanxia Qin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
+      <title>Yanxia Qin</title>
+      <link>https://rycolab.io/authors/yanxia-qin/</link>
+    </image>
+    
+    <item>
+      <title>A Probability--Quality Trade-off in Aligned Language Models and its Relation to Sampling Adaptors</title>
+      <link>https://rycolab.io/publication/tanal-emnlp-24/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/tanal-emnlp-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

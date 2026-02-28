@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reda Boumasmoud | Rycolab</title>
+    <link>https://rycolab.io/authors/reda-boumasmoud/</link>
+      <atom:link href="https://rycolab.io/authors/reda-boumasmoud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reda Boumasmoud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
+      <title>Reda Boumasmoud</title>
+      <link>https://rycolab.io/authors/reda-boumasmoud/</link>
+    </image>
+    
+    <item>
+      <title>On Affine Homotopy between Language Encoders</title>
+      <link>https://rycolab.io/publication/chanal-neurips-24/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/chanal-neurips-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An L* Algorithm for Deterministic Weighted Automata</title>
+      <link>https://rycolab.io/publication/pastial-emnlp-24/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/pastial-emnlp-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

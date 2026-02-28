@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Hoover Vigly | Rycolab</title>
+    <link>https://rycolab.io/authors/jacob-hoover-vigly/</link>
+      <atom:link href="https://rycolab.io/authors/jacob-hoover-vigly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jacob Hoover Vigly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
+      <title>Jacob Hoover Vigly</title>
+      <link>https://rycolab.io/authors/jacob-hoover-vigly/</link>
+    </image>
+    
+    <item>
+      <title>Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling</title>
+      <link>https://rycolab.io/publication/lipkinal-colm-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/lipkinal-colm-25/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

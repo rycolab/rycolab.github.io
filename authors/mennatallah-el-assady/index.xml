@@ -5,7 +5,7 @@
     <link>https://rycolab.io/authors/mennatallah-el-assady/</link>
       <atom:link href="https://rycolab.io/authors/mennatallah-el-assady/index.xml" rel="self" type="application/rss+xml" />
     <description>Mennatallah El-Assady</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Mennatallah El-Assady</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>On Affine Homotopy between Language Encoders</title>
+      <link>https://rycolab.io/publication/chanal-neurips-24/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/publication/chanal-neurips-24/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Visual Comparison of Language Model Adaptation</title>
       <link>https://rycolab.io/publication/sevastjanovaal-vis-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/publication/sevastjanovaal-vis-22/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
