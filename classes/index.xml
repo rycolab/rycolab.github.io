@@ -5,12 +5,20 @@
     <link>https://rycolab.io/classes/</link>
       <atom:link href="https://rycolab.io/classes/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026 [Eidgenössische Technische Hochschule Zürich](http://www.ethz.ch/)</copyright><lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png</url>
       <title>Teaching</title>
       <link>https://rycolab.io/classes/</link>
     </image>
+    
+    <item>
+      <title>Logical Aspects of Computation</title>
+      <link>https://rycolab.io/classes/nlp-bachelor-seminar-s26/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/classes/nlp-bachelor-seminar-s26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine Learning and Computational Complexity, Fall 2025</title>
