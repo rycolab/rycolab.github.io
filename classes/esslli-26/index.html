@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://rycolab.io/classes/">
+  <link rel="alternate" hreflang="en-us" href="https://rycolab.io/classes/esslli-26/">
 
   
 
@@ -287,14 +287,12 @@
   
 
   
-  <link rel="alternate" href="/classes/index.xml" type="application/rss+xml" title="Rycolab">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu059ca9cd59813e9477526ff1573012fa_657647_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu059ca9cd59813e9477526ff1573012fa_657647_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://rycolab.io/classes/">
+  <link rel="canonical" href="https://rycolab.io/classes/esslli-26/">
 
   
   
@@ -310,34 +308,37 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Rycolab">
-  <meta property="og:url" content="https://rycolab.io/classes/">
-  <meta property="og:title" content="Teaching | Rycolab">
-  <meta property="og:description" content=""><meta property="og:image" content="https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png">
+  <meta property="og:url" content="https://rycolab.io/classes/esslli-26/">
+  <meta property="og:title" content="Formal Language Theory and Neural Networks | Rycolab">
+  <meta property="og:description" content="This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models."><meta property="og:image" content="https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png">
   <meta property="twitter:image" content="https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2026-02-20T00:00:00&#43;00:00">
+    
+    
   
 
   
 
 
 
-
   
 
 
   
 
 
+  
 
 
 
-  <title>Teaching | Rycolab</title>
+
+
+  <title>Formal Language Theory and Neural Networks | Rycolab</title>
 
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class=" ">
 
   
   
@@ -754,78 +755,490 @@
 
 
   
-
-
-
-
-
-
-
-
+<span class="js-widget-page d-none"></span>
 
 
 
 
 
   
+  
+  
+  
 
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+    
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="main" class="home-section wg-blank   " style="padding-bottom: 0px;" >
+    <div class="container">
+      
+
+
+
+<div class="row">
+  
+    
+      <div class="col-lg-12">
+        <h1>The Logic and Algebra Underlying Language Models</h1>
+        <p>ESSLLI 2026</p>
+        
+
+<h2 id="course-description">Course Description</h2>
+
+<h2 id="syllabus">Syllabus</h2>
+
+<h3 id="day-1-preliminaries">Day 1: Preliminaries</h3>
+
+<h3 id="day-2">Day 2</h3>
+
+<h3 id="day-3">Day 3</h3>
+
+<h3 id="day-4">Day 4</h3>
+
+<h3 id="day-5">Day 5</h3>
+
+<h2 id="course-notes">Course Notes</h2>
+
+<h2 id="useful-literature">Useful Literature</h2>
+
+<ul>
+<li>Pascal Bergsträßer, Ryan Cotterell, and Anthony Widjaja Lin. Transformers are inherently succinct. In Proceedings of the Fourteenth International Conference on Learning Representations (ICLR), 2026.</li>
+<li>Chu-Cheng Lin, Aaron Jaech, Xin Luo, Matthew R. Gormley, and Jason Eisner. Limitations of autoregressive models and their alternatives. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), pages 5147–5173, 2021.</li>
+<li>Andy Yang, David Chiang, and Dana Angluin. Masked hard-attention transformers recognize exactly the star-free languages. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.</li>
+<li>Andy Yang, Anej Svete, Jiaoda Li, Anthony Widjaja Lin, Jonathan Rawski, Ryan Cotterell, and David Chiang. Probability distributions computed by autoregressive transformers. In Proceedings of the Fourteenth International Conference on Learning Representations (ICLR), 2026.</li>
+</ul>
+
+      </div>
+      
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+    
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  <section id="people" class="home-section wg-people   " style="background-color: #fff;padding-top: 0px; padding-bottom: 0px;" >
+    <div class="container">
+      
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+
+  
+  
+
+  
+  <div class="col-md-12" align="Left">
+    <h2 class="mb-4">ESSLLI 2026 Lecturers</h2>
+  </div>
+  
+
+  
+  
   
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Teaching</h1>
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/authors/alexandra/"><img class="avatar avatar-square" src="/authors/alexandra/avatar_hud4e189f46edff99e301bbde2c21d84bf_536349_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
 
+    <div class="portrait-title">
+      <h2><a href="/authors/alexandra/">Alexandra Butoi</a></h2>
+      <h3>PhD Student</h3>
+      
+        <h3>
+          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
+          <span>ETH Zürich</span>
+          </a>
+        </h3>
+        
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:alexandra.butoi@inf.ethz.ch" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/butoialexandra" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/butoialexandra" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/authors/franz/"><img class="avatar avatar-square" src="/authors/franz/avatar_hu791c22879444decdd16a84262da3a723_1170363_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/franz/">Franz Nowak</a></h2>
+      <h3>PhD Student</h3>
+      
+        <h3>
+          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
+          <span>ETH Zürich</span>
+          </a>
+        </h3>
+        
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:fnowak@ethz.ch" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://franznowak.github.io/" target="_blank" rel="noopener">
+        <i class="fas fa-portrait"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=IgJ4o30AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="fab fa-google"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/franz_nowak" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/franznowak" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/authors/ryan/"><img class="avatar avatar-square" src="/authors/ryan/avatar_hubc4ed81dc68967a6397ce0bc939b5c6c_49061_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/ryan/">Ryan Cotterell</a></h2>
+      <h3>Assistant Professor of Computer Science</h3>
+      
+        <h3>
+          <a href="https://inf.ethz.ch" target="_blank" rel="noopener">
+          <span>ETH Zürich</span>
+          </a>
+        </h3>
+        
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:rcotterell@inf.ethz.ch" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/ryandcotterell" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=DexOqtoAAAAJ" target="_blank" rel="noopener">
+        <i class="fab fa-google"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/ryancotterell" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+
+  
+
+  
   
 
   
 </div>
 
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-    
-    
-    
-    <div>
-      <h2><a href="/classes/phil-f22/" >Philosophy of Language and Computation, Autumn 2022</a></h2>
-      <div class="article-style">
-        
-          This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which centered around statistical machine learning applied to natural language data.
-        
-      </div>
     </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/classes/nlp-bachelor-seminar-s25/" >Understanding Context-Free Parsing Algorithms</a></h2>
-      <div class="article-style">
-        
-          In recent years, NLP has become a part of our daily lives. Many of us use tools like Google Translate to understand sentences in languages we don’t know,  and chatbots like ChatGPT to help draft essays and answer basic questions. However, even though most people recognize the utility of such tools, there are still many questions to be answered about their reliability and their impact on society. For example, to what extent can we or should we trust what ChatGPT says? Should chatbots ever be used in legal decision-making? What is the role that NLP should play in the education system? In this open-ended seminar, we will read and discuss opinions on the proper use of NLP in the real world, or as we term it,  NLP in the wild!
-        
-      </div>
-    </div>
-  
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/classes/page/3/">&laquo;</a></li>
-    
-    
-  </ul>
-</nav>
+  </section>
 
 
-</div>
 
       
 
