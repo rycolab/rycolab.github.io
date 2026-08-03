@@ -3235,14 +3235,6 @@
     </item>
     
     <item>
-      <title>Formal Language Theory and Neural Networks</title>
-      <link>https://rycolab.io/classes/esslli-26/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rycolab.io/classes/esslli-26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Generating Text from Language Models</title>
       <link>https://rycolab.io/classes/acl-2023-tutorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3383,6 +3375,14 @@
       <link>https://rycolab.io/classes/phil-f22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rycolab.io/classes/phil-f22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Algebra and Logic Underlying Language Models</title>
+      <link>https://rycolab.io/classes/esslli-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rycolab.io/classes/esslli-26/</guid>
       <description></description>
     </item>
     

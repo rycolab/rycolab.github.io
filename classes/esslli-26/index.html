@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.">
+  <meta name="description" content="This course covers some of the algebra and logic underlying language models. We begin with algebraic preliminaries and the Krohn–Rhodes decomposition, showing how it characterizes the expressive power of RNNs, SSMs, and transformers. We then connect Krohn–Rhodes to linear temporal logic, and use that logical perspective to analyze the succinctness of transformers.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://rycolab.io/classes/esslli-26/">
@@ -309,8 +309,8 @@
   
   <meta property="og:site_name" content="Rycolab">
   <meta property="og:url" content="https://rycolab.io/classes/esslli-26/">
-  <meta property="og:title" content="Formal Language Theory and Neural Networks | Rycolab">
-  <meta property="og:description" content="This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models."><meta property="og:image" content="https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png">
+  <meta property="og:title" content="The Algebra and Logic Underlying Language Models | Rycolab">
+  <meta property="og:description" content="This course covers some of the algebra and logic underlying language models. We begin with algebraic preliminaries and the Krohn–Rhodes decomposition, showing how it characterizes the expressive power of RNNs, SSMs, and transformers. We then connect Krohn–Rhodes to linear temporal logic, and use that logical perspective to analyze the succinctness of transformers."><meta property="og:image" content="https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png">
   <meta property="twitter:image" content="https://rycolab.io/images/logo_hucb649bcd2f8b3743e92f395c646f22e4_56400_300x300_fit_lanczos_3.png"><meta property="og:locale" content="en-us">
   
     
@@ -333,7 +333,7 @@
 
 
 
-  <title>Formal Language Theory and Neural Networks | Rycolab</title>
+  <title>The Algebra and Logic Underlying Language Models | Rycolab</title>
 
 </head>
 
@@ -819,25 +819,29 @@
   
     
       <div class="col-lg-12">
-        <h1>The Logic and Algebra Underlying Language Models</h1>
+        <h1>The Algebra and Logic Underlying Language Models</h1>
         <p>ESSLLI 2026</p>
         
 
 <h2 id="course-description">Course Description</h2>
 
+<p>This course covers some of the algebra and logic underlying language models. We begin with algebraic preliminaries and the Krohn–Rhodes decomposition, showing how it characterizes the expressive power of RNNs, SSMs, and transformers. We then connect Krohn–Rhodes to linear temporal logic, and use that logical perspective to analyze the succinctness of transformers.</p>
+
 <h2 id="syllabus">Syllabus</h2>
 
-<h3 id="day-1-preliminaries">Day 1: Preliminaries</h3>
+<h3 id="day-1-introduction">Day 1: Introduction</h3>
 
-<h3 id="day-2">Day 2</h3>
+<h3 id="day-2-algebraic-background">Day 2: Algebraic Background</h3>
 
-<h3 id="day-3">Day 3</h3>
+<h3 id="day-3-the-krohn-rhodes-decomposition-for-rnn-ssms-and-softmax-transformers">Day 3: The Krohn-Rhodes Decomposition for RNN/SSMs and Softmax Transformers</h3>
 
-<h3 id="day-4">Day 4</h3>
+<h3 id="day-4-the-krohn-rhodes-decomposition-linear-temporal-logic-and-transformer-succinctness">Day 4: The Krohn-Rhodes Decomposition, Linear Temporal Logic and Transformer Succinctness</h3>
 
-<h3 id="day-5">Day 5</h3>
+<h3 id="day-5-autoregressive-transformer-succinctness">Day 5: Autoregressive Transformer Succinctness</h3>
 
 <h2 id="course-notes">Course Notes</h2>
+
+<p>To follow..</p>
 
 <h2 id="useful-literature">Useful Literature</h2>
 
@@ -846,6 +850,10 @@
 <li>Chu-Cheng Lin, Aaron Jaech, Xin Luo, Matthew R. Gormley, and Jason Eisner. Limitations of autoregressive models and their alternatives. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), pages 5147–5173, 2021.</li>
 <li>Andy Yang, David Chiang, and Dana Angluin. Masked hard-attention transformers recognize exactly the star-free languages. In The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.</li>
 <li>Andy Yang, Anej Svete, Jiaoda Li, Anthony Widjaja Lin, Jonathan Rawski, Ryan Cotterell, and David Chiang. Probability distributions computed by autoregressive transformers. In Proceedings of the Fourteenth International Conference on Learning Representations (ICLR), 2026.</li>
+<li>Samuel Eilenberg. Automata, Languages, and Machines. Pure and Applied Mathematics. Academic Press, 1976.</li>
+<li>Jean-Éric Pin. Mathematical foundations of automata theory. Lecture notes LIAFA, Université Paris, 7:73, 2010.</li>
+<li>Jean-Éric Pin. Handbook of Automata Theory. European Mathematical Society Publishing House, 2021.</li>
+<li>Marcel-Paul Schützenberger. Une théorie algébrique du codage. Séminaire Dubreil. Algèbre et théorie des nombres, 9:1–24, 1955.</li>
 </ul>
 
       </div>
